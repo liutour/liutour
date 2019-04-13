@@ -34,7 +34,7 @@
 ###### -2017-
 赵雅文, 高岩研, 刘拓, 杨海波, & 闫国利. (2017). 人格特质对微信用户朋友圈点赞行为动机影响的研. 心理与行为研究, 15, 27-275.
 
-Liu, T., Wang, M. C., & Xin, T. (2017). An investigation of enhancement of ability evaluation by using a nested logit model for multiple-choice items. Annals of Psychology, 33. http://dx.doi.org/10.6018/analesps.33.3.238621
+Liu, T., Wang, M. C., & Xin, T. (2017). An investigation of enhancement of ability evaluation by using a nested logit model for multiple-choice items. Annals of Psychology, 33. https://dx.doi.org/10.6018/analesps.33.3.238621
 ###### -2018-
 刘哲雨, 任辉, 刘拓, & 张滨. (2018). 深度学习核心要素的提取、论证和运用. 天津师范大学学报（基础教育版）, 19, 19-24.
 
@@ -42,9 +42,9 @@ Liu, T., Wang, M. C., & Xin, T. (2017). An investigation of enhancement of abili
 ###### -2019-
 任世秀, 古丽给娜, & 刘拓*.（2019）. 中文版无手机恐惧量表的修订. 心理学探新, 在印.
 
-Liu, T., Lan, T., & Xin, T. (2019). Detecting Random Responses in a Personality Scale Using IRT-based Person-fit Indices. European Journal of Psychological Assessment, 35, 126-136. http://dx.doi.org/10.1027/1015-5759/a000369
+Liu, T., Lan, T., & Xin, T. (2019). Detecting Random Responses in a Personality Scale Using IRT-based Person-fit Indices. European Journal of Psychological Assessment, 35, 126-136. https://dx.doi.org/10.1027/1015-5759/a000369
 
-Liu, T., Sun, Y. C., Li, Z., & Xin, T. (2019). The Impact of Aberrant Response on Reliability and Validity. Measurement: Interdisciplinary Research and Perspectives, in press. http://10.1080/15366367.2019.1584848
+Liu, T., Sun, Y. C., Li, Z., & Xin, T. (2019). The Impact of Aberrant Response on Reliability and Validity. Measurement: Interdisciplinary Research and Perspectives, in press. https://10.1080/15366367.2019.1584848
 #### 会议论文 
 ###### -国内-
 任世秀, 古丽给娜, & 刘拓*. (2018). 无手机恐惧症量表的开发：基于项目反应理论与因子分析方法, 第二十一届全国心理学学术会议, 北京.
