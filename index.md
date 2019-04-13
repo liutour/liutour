@@ -55,3 +55,19 @@ Liu, T., & Xin, T. (2015). Multiple-choice Item or Dichotomous Item A Perspectiv
 
 Zhang, Y. B., & Liu, T.* (2019). Using Person-Fit Statistics to Dectect Response Styles. Paper presented at 2019 Annual Meeting of National Council on Measurement in Education, Fairmont Royal York, Toronto, Canada.
 
+### 承担项目
+2017-2018年，联合国儿童基金会2016－2020周期爱生学校西部五县学业评估，联合国儿童基金会，53WC1702，10万元，主持人。
+
+2018-2019年，项目反应理论框架下的多项选择题设计，天津师范大学博士基金，135302WW1712，2.5万元，主持人。
+
+2018-2021年，多项选择题的最优设计：基于测量与眼动的双重考量，教育部人文社会科学青年基金，18YJC190013，8万元，主持人。
+
+2019-2021年，心理测验中不同类型异常反应模式的识别与结果校正，国家自然科学基金青年基金，31800945，28万元，主持人。
+
+2018-2019年，强制隔离戒毒人员解除强戒回归社会前抗复吸力的评估测验及使用手册的编制，天津市戒毒局，53WB1810，7万元，主持人。
+
+
+
+
+
+
