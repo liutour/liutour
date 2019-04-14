@@ -1,9 +1,10 @@
-## 刘拓（Liu Tour）
+## 刘拓 （Liu Tour）
 
+#### 理学博士（Ph.D），讲师，系主任
 #### 天津师范大学，教育科学学院心理系/心理与行为研究院 
-#### 讲师，系主任
-立教楼B217，mikebonita@163.com
+天津师范大学立教楼B217，mikebonita@163.com
 
+---
 ### 教育经历
 学士：2004-2008年，黑龙江大学，教育学院，应用心理学专业
 
@@ -11,14 +12,17 @@
 
 博士：2012-2016年，北京师范大学，心理学院，基础心理学专业，心理测量与评价方向
 
+---
 ### 研究领域
 ① 项目反应理论；② 认知诊断模型；
 ③ 计算机自适应测验；④ 心理计量学方法的应用。
 
+---
 ### 研究主题
 ① 理论研究：个人拟合方法；多项选择题干扰项信息的利用；计算机自适应测验选题方法。
 ② 应用研究：教育评价与数据挖掘；依赖与成瘾行为；攻击行为。
 
+---
 ### 研究成果
 #### 期刊论文
 ###### -2011-
@@ -61,6 +65,7 @@ Liu, T., & Xin, T. (2015). Multiple-choice Item or Dichotomous Item A Perspectiv
 
 Zhang, Y. B., & Liu, T.* (2019). Using Person-Fit Statistics to Dectect Response Styles. Paper presented at 2019 Annual Meeting of National Council on Measurement in Education, Fairmont Royal York, Toronto, Canada.
 
+---
 ### 承担项目
 2017-2018年，联合国儿童基金会2016－2020周期爱生学校西部五县学业评估，联合国儿童基金会，53WC1702，10万元，主持人。
 
@@ -72,6 +77,7 @@ Zhang, Y. B., & Liu, T.* (2019). Using Person-Fit Statistics to Dectect Response
 
 2018-2019年，强制隔离戒毒人员解除强戒回归社会前抗复吸力的评估测验及使用手册的编制，天津市戒毒局，53WB1810，7万元，主持人。
 
+---
 ### 学生指导
 ###### -2018届-
 本科：古丽给娜·艾尔肯、赵祁伟
