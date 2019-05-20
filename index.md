@@ -59,6 +59,8 @@ Liu, T., Wang, M. C., & Xin, T. (2017). An investigation of enhancement of abili
 Liu, T., Lan, T., & Xin, T. (2019). Detecting Random Responses in a Personality Scale Using IRT-based Person-fit Indices. European Journal of Psychological Assessment, 35, 126-136. https://dx.doi.org/10.1027/1015-5759/a000369
 
 Liu, T., Sun, Y. C., Li, Z., & Xin, T. (2019). The Impact of Aberrant Response on Reliability and Validity. Measurement: Interdisciplinary Research and Perspectives, in press. https://10.1080/15366367.2019.1584848
+
+Wang Y. H., Yang Z. X., Zhang Y. B., Wang F. M., Liu T., & Xin T. (2019). The Effect of Social-Emotional Competency on Child Development in Western China. Frontiers in Psychology, in press.
 #### 报告 
 ###### -国内-
 任世秀, 古丽给娜, & 刘拓*. (2018). 无手机恐惧症量表的开发：基于项目反应理论与因子分析方法, 第二十一届全国心理学学术会议, 北京.
