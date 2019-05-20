@@ -54,6 +54,8 @@ Liu, T., Wang, M. C., & Xin, T. (2017). An investigation of enhancement of abili
 ###### -2019-
 任世秀, 古丽给娜, & 刘拓*.（2019）. 中文版无手机恐惧量表的修订. 心理学探新, 在印.
 
+赵祁伟，刘和珺，王琦，& 刘拓*. (2019).社会排斥的神经机制：基于fMRI研究的元分析. 中国临床心理学杂志, 在印.
+
 Liu, T., Lan, T., & Xin, T. (2019). Detecting Random Responses in a Personality Scale Using IRT-based Person-fit Indices. European Journal of Psychological Assessment, 35, 126-136. https://dx.doi.org/10.1027/1015-5759/a000369
 
 Liu, T., Sun, Y. C., Li, Z., & Xin, T. (2019). The Impact of Aberrant Response on Reliability and Validity. Measurement: Interdisciplinary Research and Perspectives, in press. https://10.1080/15366367.2019.1584848
