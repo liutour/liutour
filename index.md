@@ -69,6 +69,8 @@ Wang Y. H., Yang Z. X., Zhang Y. B., Wang F. M., Liu T., & Xin T. (2019). The Ef
 ###### -国际-
 Liu, T., & Xin, T. (2015). Multiple-choice Item or Dichotomous Item A Perspective of the Accuracy of Latent Trait Assessment. Paper presented at 80th Annual Meeting of the Psychometric Society, Beijing.
 
+Lan, T., Lin, Z., & Liu, T.* (2018). Differential Item Functioning Analysis for Repeated Measures Design Social Survey Data: A Method for Detecting Social Demands Difference in Big-Data Era. Paper presented 2018 5th International Conference on Behavioral, Economic, and Socio-Cultural Computing (BESC) (pp. 265-269), Taiwan, China.
+
 Zhang, Y. B., & Liu, T.* (2019). Using Person-Fit Statistics to Dectect Response Styles. Paper presented at 2019 Annual Meeting of National Council on Measurement in Education, Fairmont Royal York, Toronto, Canada.
 
 ---
