@@ -14,10 +14,10 @@
 
 ---
 ### 研究领域
-- 项目反应理论
-- 认知诊断模型
-- 计算机自适应测验
-- 心理计量学方法的应用
+- 项目反应理论（Item Response Theory）
+- 认知诊断模型（Cognitive Diagnostic Model）
+- 计算机自适应测验（Computerized Adaptive Test）
+- 多模态数据挖掘（Multimodal Data Mining）
 
 ---
 ### 研究主题
