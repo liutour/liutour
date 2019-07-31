@@ -60,7 +60,7 @@ Liu, T., Sun, Y. C., Li, Z., & Xin, T. (2019). The Impact of Aberrant Response o
 
 Wang Y. H., Yang Z. X., Zhang Y. B., Wang F. M., Liu T., & Xin T. (2019). The Effect of Social-Emotional Competency on Child Development in Western China. Frontiers in Psychology, in press. https://doi.org/10.3389/fpsyg.2019.01282
 ###### -在印 (in press)-
-任世秀, 古丽给娜, & 刘拓*.（在印）. 中文版无手机恐惧量表的修订. 心理学探新, 在印.
+任世秀, 古丽给娜, & 刘拓*.(在印). 中文版无手机恐惧量表的修订. 心理学探新, 在印.
 
 林琳, 刘俊岐, 杨洋, 刘羽, 王晨旭, 刘拓, 于馨, & 贾绪计. (在印).负性生活事件对大学生自杀意念的影响-反刍思维的中介作用和气质性乐观的调节作用. 心理与行为研究, 在印.
 
