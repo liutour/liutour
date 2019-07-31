@@ -54,8 +54,6 @@ Liu, T., Wang, M. C., & Xin, T. (2017). An investigation of enhancement of abili
 ###### -2019-
 任世秀, 古丽给娜, & 刘拓*.（2019）. 中文版无手机恐惧量表的修订. 心理学探新, 在印.
 
-罗杰, 陈维, 杨桂芳, 吴丹萍, & 刘拓*. (2019). 大学生主动性人格对其拖延行为的影响：核心自我评价的中介作用. 心理与行为研究, 在印.
-
 赵祁伟，刘和珺，王琦，& 刘拓*. (2019).社会排斥的神经机制：基于fMRI研究的元分析. 中国临床心理学杂志, 27, 436-442.
 
 Liu, T., Lan, T., & Xin, T. (2019). Detecting Random Responses in a Personality Scale Using IRT-based Person-fit Indices. European Journal of Psychological Assessment, 35, 126-136. https://dx.doi.org/10.1027/1015-5759/a000369
@@ -63,17 +61,35 @@ Liu, T., Lan, T., & Xin, T. (2019). Detecting Random Responses in a Personality 
 Liu, T., Sun, Y. C., Li, Z., & Xin, T. (2019). The Impact of Aberrant Response on Reliability and Validity. Measurement: Interdisciplinary Research and Perspectives, in press. https://10.1080/15366367.2019.1584848
 
 Wang Y. H., Yang Z. X., Zhang Y. B., Wang F. M., Liu T., & Xin T. (2019). The Effect of Social-Emotional Competency on Child Development in Western China. Frontiers in Psychology, in press. https://doi.org/10.3389/fpsyg.2019.01282
+###### -在印-
+林琳, 刘俊岐, 杨洋, 刘羽, 王晨旭, 刘拓, 于馨, & 贾绪计. (在印).负性生活事件对大学生自杀意念的影响-反刍思维的中介作用和气质性乐观的调节作用. 心理与行为研究, 在印.
+
+罗杰, 陈维, 杨桂芳, 吴丹萍, & 刘拓*. (在印). 大学生主动性人格对其拖延行为的影响：核心自我评价的中介作用. 心理与行为研究, 在印.
+
+郝嘉佳, 陈英和, 刘拓, & 白学军. (在印). 儿童青少年一般思维能力测验的编制和初步应用. 心理与行为研究, 在印.
 #### 会议 
 ###### -国内-
 任世秀, 古丽给娜, & 刘拓*. (2018). 无手机恐惧症量表的开发：基于项目反应理论与因子分析方法, 第二十一届全国心理学学术会议, 北京.
 
 麦毅俊, 王孟成, & 刘拓*. (2018). 基于项目反应模型和因子分析法的“反应性-主动性攻击”量表的简化, 第二十一届全国心理学学术会议, 北京.
+
+芦旭蓉，尤晓慧，& 刘拓*. (2019).独处行为的潜在类别分析及其对无手机恐惧症的影响, 中国社会心理学会2019年学会年会，长春.
+
+孙毅聪，李珍，& 刘拓*. (2019). 神经质对无手机恐惧的影响：依恋类型和独处行为的链式中介作用, 中国社会心理学会2019年学会年会，长春.
+
+任世秀，陈雪明，罗杰，& 刘拓*. (2019). 适应不良让人离不开手机：大学生无手机恐惧的心理机制探索, 中国社会心理学会2019年学会年会，长春.
 ###### -国际-
 Liu, T., & Xin, T. (2015). Multiple-choice Item or Dichotomous Item A Perspective of the Accuracy of Latent Trait Assessment. Paper presented at 80th Annual Meeting of the Psychometric Society, Beijing.
 
 Lan, T., Lin, Z., & Liu, T.* (2018). Differential Item Functioning Analysis for Repeated Measures Design Social Survey Data: A Method for Detecting Social Demands Difference in Big-Data Era. Paper presented 2018 5th International Conference on Behavioral, Economic, and Socio-Cultural Computing (BESC) (pp. 265-269), Taiwan, China.
 
 Zhang, Y. B., & Liu, T.* (2019). Using Person-Fit Statistics to Dectect Response Styles. Paper presented at 2019 Annual Meeting of National Council on Measurement in Education, Fairmont Royal York, Toronto, Canada.
+
+Lu, X-R., Liu, J., & Liu, T.* (2019). Latent Class Analysis of Solitude Behavior and Its Effects on Nomophobia. Paper presented at 2019 XVI European Congress of Psychology, Moscow, Russia.
+
+You, X-H., Liu, T.*, & Wang, M-C. (2019). Measurement Invariance of the Reactive and Proactive  Aggression Questionnaire (RPQ) Across Self- and Other-Report. Paper presented at 2019 XVI European Congress of Psychology, Moscow, Russia.
+
+Chen, X-M., Weng, X-L., & Liu, T.* (2019). The Influence of Positive Parenting Styles on Coping Styles of Middle School Students：Multiple Chain Mediation of Social Support and Self-Efficacy. Paper presented at 2019 XVI European Congress of Psychology, Moscow, Russia.
 
 ---
 ### 承担项目
