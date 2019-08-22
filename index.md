@@ -94,7 +94,7 @@ You, X-H., Liu, T.*, & Wang, M-C. (2019). Measurement Invariance of the Reactive
 Chen, X-M., Weng, X-L., & Liu, T.* (2019). The Influence of Positive Parenting Styles on Coping Styles of Middle School Students：Multiple Chain Mediation of Social Support and Self-Efficacy. Paper presented at 2019 XVI European Congress of Psychology, Moscow, Russia.
 
 ---
-### 承担项目
+### 主持项目
 2017-2018年，联合国儿童基金会2016－2020周期爱生学校西部五县学业评估，联合国儿童基金会，53WC1702，10万元，主持人。
 
 2018-2019年，项目反应理论框架下的多项选择题设计，天津师范大学博士基金，135302WW1712，2.5万元，主持人。
