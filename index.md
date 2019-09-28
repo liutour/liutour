@@ -56,7 +56,7 @@ Liu, T., Wang, M. C., & Xin, T. (2017). An investigation of enhancement of abili
 
 林琳, 刘俊岐, 杨洋, 刘羽, 王晨旭, 刘拓, 于馨, & 贾绪计. (2019).负性生活事件对大学生自杀意念的影响-反刍思维的中介作用和气质性乐观的调节作用. 心理与行为研究, 17, 569-576.
 
-林琳， 何海平， 刘羽， 杨洋， 莫娟婵， 王晨旭， & 刘拓. (2019). 负性情绪对自杀危险的影响：自伤行为的中介作用. 黑龙江高教研究，5, 83-87.
+林琳， 何海平， 刘羽， 杨洋， 莫娟婵， 王晨旭， & 刘拓*. (2019). 负性情绪对自杀危险的影响：自伤行为的中介作用. 黑龙江高教研究，5, 83-87.
 
 Liu, T., Lan, T., & Xin, T. (2019). Detecting Random Responses in a Personality Scale Using IRT-based Person-fit Indices. European Journal of Psychological Assessment, 35, 126-136. https://dx.doi.org/10.1027/1015-5759/a000369
 
@@ -117,3 +117,6 @@ Chen, X-M., Weng, X-L., & Liu, T.* (2019). The Influence of Positive Parenting S
 本科：陈雪明、芦旭蓉、尤晓慧
 
 硕士：刘杰（心健）、李珍（用研）、孙毅聪（用研）、翁雪玲（心健）
+
+
+
