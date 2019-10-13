@@ -1,5 +1,5 @@
 ## 刘拓 （Liu Tour）
-#### https://liutour.github.io/liutour/
+* https://liutour.github.io/liutour/ *
 
 ##### 理学博士（Ph.D），讲师，系主任
 ##### 天津师范大学，心理学部，心理系 
