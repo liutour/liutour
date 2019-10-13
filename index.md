@@ -3,7 +3,6 @@
 ##### 理学博士（Ph.D），讲师，系主任
 ##### 天津师范大学，心理学部，心理系 
 ##### 天津师范大学立教楼B217，mikebonita@163.com，
-##### https://liutour.github.io/liutour/
 
 ---
 ### 教育经历
