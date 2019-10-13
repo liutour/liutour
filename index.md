@@ -1,6 +1,6 @@
-## 刘拓 （Tour Liu）
+## 刘拓（Tour Liu）
 
-#### *https://liutour.github.io/liutour/ 
+#### *https://liutour.github.io/liutour/* 
 ---
 
 ##### 理学博士（Ph.D），讲师，系主任
