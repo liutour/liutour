@@ -59,17 +59,19 @@ Liu, T., Wang, M. C., & Xin, T. (2017). An investigation of enhancement of abili
 
 林琳， 何海平， 刘羽， 杨洋， 莫娟婵， 王晨旭， & 刘拓*. (2019). 负性情绪对自杀危险的影响：自伤行为的中介作用. 黑龙江高教研究，5, 83-87.
 
+罗杰, 陈维, 杨桂芳, 吴丹萍, & 刘拓*. (2019). 大学生主动性人格对其拖延行为的影响：核心自我评价的中介作用. 心理与行为研究, 17, 00-00.
+
 Liu, T., Lan, T., & Xin, T. (2019). Detecting Random Responses in a Personality Scale Using IRT-based Person-fit Indices. European Journal of Psychological Assessment, 35, 126-136. https://dx.doi.org/10.1027/1015-5759/a000369
 
 Liu, T., Sun, Y. C., Li, Z., & Xin, T. (2019). The Impact of Aberrant Response on Reliability and Validity. Measurement: Interdisciplinary Research and Perspectives, 17, 133-142. https://10.1080/15366367.2019.1584848
 
 Wang Y. H., Yang Z. X., Zhang Y. B., Wang F. M., Liu T., & Xin T. (2019). The Effect of Social-Emotional Competency on Child Development in Western China. Frontiers in Psychology, in press. https://doi.org/10.3389/fpsyg.2019.01282
 ###### -在印 (in press)-
-任世秀, 古丽给娜, & 刘拓*.(在印). 中文版无手机恐惧量表的修订. 心理学探新, 在印.
+任世秀, 古丽给娜, & 刘拓*.(2018). 中文版无手机恐惧量表的修订. 心理学探新, 在印.
 
-罗杰, 陈维, 杨桂芳, 吴丹萍, & 刘拓*. (在印). 大学生主动性人格对其拖延行为的影响：核心自我评价的中介作用. 心理与行为研究, 在印.
+张严文, 刘拓*. (2019). 父母消极教养方式对中国性少数心理健康的影响：基于Bifactor模型. 心理科学, 在印.
 
-郝嘉佳, 陈英和, 刘拓, & 白学军. (在印). 儿童青少年一般思维能力测验的编制和初步应用. 心理与行为研究, 在印.
+郝嘉佳, 陈英和, 刘拓, & 白学军. (2019). 儿童青少年一般思维能力测验的编制和初步应用. 心理与行为研究, 在印.
 #### 会议 
 ###### -国内-
 任世秀, 古丽给娜, & 刘拓*. (2018). 无手机恐惧症量表的开发：基于项目反应理论与因子分析方法, 第二十一届全国心理学学术会议, 北京.
