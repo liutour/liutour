@@ -65,7 +65,9 @@ Liu, T., Lan, T., & Xin, T. (2019). Detecting Random Responses in a Personality 
 
 Liu, T., Sun, Y. C., Li, Z., & Xin, T. (2019). The Impact of Aberrant Response on Reliability and Validity. Measurement: Interdisciplinary Research and Perspectives, 17, 133-142. https://10.1080/15366367.2019.1584848
 
-Wang Y. H., Yang Z. X., Zhang Y. B., Wang F. M., Liu T., & Xin T. (2019). The Effect of Social-Emotional Competency on Child Development in Western China. Frontiers in Psychology, in press. https://doi.org/10.3389/fpsyg.2019.01282
+Mo, J., Wang, C., Niu, X., Jia, X., Liu, T., Lin, L. (2019). The Relationship Between Impulsivity and Self-injury in Chinese Undergraduates: The Chain Mediating role of Stressful Life Events and Negative Affect. Journal of Affective Disorders, 256, 259-266. https://doi.org/10.1016/j.jad.2019.05.074
+
+Wang, Y. H., Yang, Z. X., Zhang, Y. B., Wang, F. M., Liu, T., & Xin, T. (2019). The Effect of Social-Emotional Competency on Child Development in Western China. Frontiers in Psychology, online. https://doi.org/10.3389/fpsyg.2019.01282
 ###### -在印 (in press)-
 任世秀, 古丽给娜, & 刘拓*.(2018). 中文版无手机恐惧量表的修订. 心理学探新, 在印.
 
