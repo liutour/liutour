@@ -71,6 +71,8 @@ Wang, Y. H., Yang, Z. X., Zhang, Y. B., Wang, F. M., __Liu, T.__, & Xin, T. (201
 ###### -在印 (in press)-
 __Liu, T.__, Chen, X., Liu, M., Zhang, Y. Xin, T., Wang, Y. (2019). The effects of children’s self-educational aspiration and self-efficacy on mathematics achievement: A moderated chained mediation model. _Annals of Psychology_, in press.
 
+Elhai, J. D., Rozgonjuk, D., __Liu, T.__, & Yang, H. (2019). Fear of missing out is related to repeated measurements of negative affect over one week using experience sampling methodology. _Journal of Affective Disorders_, in press.
+
 任世秀, 古丽给娜, & __刘拓*__.(2018). 中文版无手机恐惧量表的修订. _心理学探新_, 在印.
 
 张严文, __刘拓*__. (2019). 父母消极教养方式对中国性少数心理健康的影响：基于Bifactor模型. _心理科学_, 在印.
@@ -78,6 +80,8 @@ __Liu, T.__, Chen, X., Liu, M., Zhang, Y. Xin, T., Wang, Y. (2019). The effects 
 郝嘉佳, 陈英和, __刘拓__, & 白学军. (2019). 儿童青少年一般思维能力测验的编制和初步应用. _心理与行为研究_, 在印.
 #### 会议 
 ###### -国内-
+__刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
+
 任世秀, 古丽给娜, & __刘拓*__. (2018). 无手机恐惧症量表的开发：基于项目反应理论与因子分析方法, 第二十一届全国心理学学术会议, 北京.
 
 麦毅俊, 王孟成, & __刘拓*__. (2018). 基于项目反应模型和因子分析法的“反应性-主动性攻击”量表的简化, 第二十一届全国心理学学术会议, 北京.
