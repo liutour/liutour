@@ -59,7 +59,7 @@ __Liu, T__., Wang, M. C., & Xin, T. (2017). An investigation of enhancement of a
 
 林琳， 何海平， 刘羽， 杨洋， 莫娟婵， 王晨旭， & __刘拓*__. (2019). 负性情绪对自杀危险的影响：自伤行为的中介作用. _黑龙江高教研究_，_5_, 83-87.
 
-罗杰, 陈维, 杨桂芳, 吴丹萍, & __刘拓*__. (2019). 大学生主动性人格对其拖延行为的影响：核心自我评价的中介作用. _心理与行为研究_, _17_, 00-00.
+罗杰, 陈维, 杨桂芳, 吴丹萍, & __刘拓*__. (2019). 大学生主动性人格对其拖延行为的影响：核心自我评价的中介作用. _心理与行为研究_, _17_, 692-698.
 
 __Liu, T.__, Lan, T., & Xin, T. (2019). Detecting Random Responses in a Personality Scale Using IRT-based Person-fit Indices. _European Journal of Psychological Assessment_, _35_, 126-136. https://dx.doi.org/10.1027/1015-5759/a000369
 
