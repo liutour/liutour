@@ -61,6 +61,8 @@ __Liu, T__., Wang, M. C., & Xin, T. (2017). An investigation of enhancement of a
 
 罗杰, 陈维, 杨桂芳, 吴丹萍, & __刘拓*__. (2019). 大学生主动性人格对其拖延行为的影响：核心自我评价的中介作用. _心理与行为研究_, _17_, 692-698.
 
+郝嘉佳, 陈英和, __刘拓__, & 白学军. (2019). 儿童青少年一般思维能力测验的编制和初步应用. _心理与行为研究_, _17_, 620-626.
+
 __Liu, T.__, Lan, T., & Xin, T. (2019). Detecting Random Responses in a Personality Scale Using IRT-based Person-fit Indices. _European Journal of Psychological Assessment_, _35_, 126-136. https://dx.doi.org/10.1027/1015-5759/a000369
 
 **Liu, T.**, Sun, Y. C., Li, Z., & Xin, T. (2019). The Impact of Aberrant Response on Reliability and Validity. _Measurement: Interdisciplinary Research and Perspectives_, _17_, 133-142. https://10.1080/15366367.2019.1584848
@@ -76,8 +78,6 @@ Elhai, J. D., Rozgonjuk, D., __Liu, T.__, & Yang, H. (2019). Fear of missing out
 任世秀, 古丽给娜, & __刘拓*__.(2018). 中文版无手机恐惧量表的修订. _心理学探新_, 在印.
 
 张严文, __刘拓*__. (2019). 父母消极教养方式对中国性少数心理健康的影响：基于Bifactor模型. _心理科学_, 在印.
-
-郝嘉佳, 陈英和, __刘拓__, & 白学军. (2019). 儿童青少年一般思维能力测验的编制和初步应用. _心理与行为研究_, 在印.
 #### 会议 
 ###### -国内-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
