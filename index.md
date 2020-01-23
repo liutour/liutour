@@ -112,11 +112,11 @@ Lan, T., Lin, Z., & __Liu, T.*__ (2018). Differential Item Functioning Analysis 
 
 Zhang, Y. B., & __Liu, T.*__ (2019). Using Person-Fit Statistics to Dectect Response Styles. Paper presented at 2019 Annual Meeting of National Council on Measurement in Education, Fairmont Royal York, Toronto, Canada.
 
-Lu, X-R., Liu, J., & __Liu, T.*__ (2019). Latent Class Analysis of Solitude Behavior and Its Effects on Nomophobia. Paper presented at 2019 XVI European Congress of Psychology, Moscow, Russia.
+Lu, X., Liu, J., & __Liu, T.*__ (2019). Latent Class Analysis of Solitude Behavior and Its Effects on Nomophobia. Paper presented at 2019 XVI European Congress of Psychology, Moscow, Russia.
 
-You, X-H., __Liu, T.*__ & Wang, M-C. (2019). Measurement Invariance of the Reactive and Proactive  Aggression Questionnaire (RPQ) Across Self- and Other-Report. Paper presented at 2019 XVI European Congress of Psychology, Moscow, Russia.
+You, X., __Liu, T.*__ & Wang, M-C. (2019). Measurement Invariance of the Reactive and Proactive  Aggression Questionnaire (RPQ) Across Self- and Other-Report. Paper presented at 2019 XVI European Congress of Psychology, Moscow, Russia.
 
-Chen, X-M., Weng, X-L., & __Liu, T.*__ (2019). The Influence of Positive Parenting Styles on Coping Styles of Middle School Students：Multiple Chain Mediation of Social Support and Self-Efficacy. Paper presented at 2019 XVI European Congress of Psychology, Moscow, Russia.
+Chen, X., Weng, X., & __Liu, T.*__ (2019). The Influence of Positive Parenting Styles on Coping Styles of Middle School Students：Multiple Chain Mediation of Social Support and Self-Efficacy. Paper presented at 2019 XVI European Congress of Psychology, Moscow, Russia.
 
 ---
 ### 主持项目
