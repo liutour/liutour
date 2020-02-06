@@ -75,7 +75,7 @@ __Liu, T.__, Chen, X., Liu, M., Zhang, Y. Xin, T., Wang, Y. (2019). The effects 
 
 Elhai, J. D., Rozgonjuk, D., __Liu, T.__, & Yang, H. (2019). Fear of missing out is related to repeated measurements of negative affect over one week using experience sampling methodology. _Journal of Affective Disorders_, in press.
 
-Chen, X., __Liu, T.*__, Luo, J., & Ren, S. (2020). Data for teenagers' stressor, mental health, coping style, social support, parenting style and self-efficacy in South China. _Data in Brief_, in press.
+Chen, X., __Liu, T.*__, Luo, J., & Ren, S. (2020). Data for teenagers' stressor, mental health, coping style, social support, parenting style and self-efficacy in South China. _Data in Brief_. _online_.  https://doi.org/10.1016/j.dib.2020.105202.
 
 任世秀, 古丽给娜, & __刘拓*__.(2018). 中文版无手机恐惧量表的修订. _心理学探新_, 在印.
 
