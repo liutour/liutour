@@ -63,19 +63,19 @@ __Liu, T__., Wang, M. C., & Xin, T. (2017). An investigation of enhancement of a
 
 郝嘉佳, 陈英和, __刘拓__, & 白学军. (2019). 儿童青少年一般思维能力测验的编制和初步应用. _心理与行为研究_, _17_, 620-626.
 
-__Liu, T.__, Lan, T., & Xin, T. (2019). Detecting Random Responses in a Personality Scale Using IRT-based Person-fit Indices. _European Journal of Psychological Assessment_, _35_, 126-136. https://dx.doi.org/10.1027/1015-5759/a000369
+__Liu, T.__, Lan, T., & Xin, T. (2019). Detecting random Responses in a personality scale using IRT-based person-fit indices. _European Journal of Psychological Assessment_, _35_, 126-136. https://dx.doi.org/10.1027/1015-5759/a000369
 
-**Liu, T.**, Sun, Y. C., Li, Z., & Xin, T. (2019). The Impact of Aberrant Response on Reliability and Validity. _Measurement: Interdisciplinary Research and Perspectives_, _17_, 133-142. https://10.1080/15366367.2019.1584848
+**Liu, T.**, Sun, Y. C., Li, Z., & Xin, T. (2019). The impact of aberrant response on reliability and validity. _Measurement: Interdisciplinary Research and Perspectives_, _17_, 133-142. https://10.1080/15366367.2019.1584848
 
-Mo, J., Wang, C., Niu, X., Jia, X., __Liu, T.__, Lin, L. (2019). The Relationship Between Impulsivity and Self-injury in Chinese Undergraduates: The Chain Mediating role of Stressful Life Events and Negative Affect. _Journal of Affective Disorders_, _256_, 259-266. https://doi.org/10.1016/j.jad.2019.05.074
+Mo, J., Wang, C., Niu, X., Jia, X., __Liu, T.__, Lin, L. (2019). The relationship between impulsivity and self-injury in Chinese undergraduates: the chain mediating role of stressful life events and negative affect. _Journal of Affective Disorders_, _256_, 259-266. https://doi.org/10.1016/j.jad.2019.05.074
 
-Wang, Y. H., Yang, Z. X., Zhang, Y. B., Wang, F. M., __Liu, T.__, & Xin, T. (2019). The Effect of Social-Emotional Competency on Child Development in Western China. _Frontiers in Psychology_, _online_. https://doi.org/10.3389/fpsyg.2019.01282
+Wang, Y. H., Yang, Z. X., Zhang, Y. B., Wang, F. M., __Liu, T.__, & Xin, T. (2019). The effect of social-emotional competency on child development in western China. _Frontiers in Psychology_, _online_. https://doi.org/10.3389/fpsyg.2019.01282
 ###### -2020-
 任世秀, 古丽给娜, & __刘拓*__.(2020). 中文版无手机恐惧量表的修订. _心理学探新_, _40_, 300-311.
 
 Chen, X., __Liu, T.*__, Luo, J., & Ren, S. (2020). Data for teenagers' stressor, mental health, coping style, social support, parenting style and self-efficacy in South China. _Data in Brief_. _29_, 1-6. https://doi.org/10.1016/j.dib.2020.105202.
 
-__Liu, T.__, Chen, X., Liu, M., Zhang, Y. Xin, T., Wang, Y. (2020). The effects of children’s self-educational aspiration and self-efficacy on mathematics achievement: A moderated chained mediation model. _Annals of Psychology_, _36_ 262-270. https://doi.org/10.6018/analesps.366621
+__Liu, T.__, Chen, X., Liu, M., Zhang, Y. Xin, T., Wang, Y. (2020). The effects of children’s self-educational aspiration and self-efficacy on mathematics achievement: a moderated chained mediation model. _Annals of Psychology_, _36_ 262-270. https://doi.org/10.6018/analesps.366621
 
 Elhai, J. D., Rozgonjuk, D., __Liu, T.__, & Yang, H. (2020). Fear of missing out is related to repeated measurements of negative affect over one week using experience sampling methodology. _Journal of Affective Disorders_, _262_, 298-303. https://doi.org/10.1016/j.jad.2019.11.026
 ###### -在印 (in press)-
@@ -84,6 +84,8 @@ Elhai, J. D., Rozgonjuk, D., __Liu, T.__, & Yang, H. (2020). Fear of missing out
 薛明锋, 陈平, __刘拓__, & 甄锋泉. (2020). 在GLMM框架下统一GT与IRT. _心理科学_, 在印.
 
 __刘拓__, 古丽给娜, 杨莹, 任世秀, & 钞淼. (2020). 人格与无手机恐惧的关系：独处行为的中介作用. _心理与行为研究_, 在印.
+
+Luo, J., __Liu, T.*__, Wu, J., & Ali S. W. A. (2020). Asymptotic in undirected random graph models with a noisy degree sequence. _Communications in Statistics – Theory and Methods_, in press. 
 #### 会议 
 ###### -国内-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
