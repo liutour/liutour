@@ -80,12 +80,12 @@ Chen, X., __Liu, T.*__, Luo, J., & Ren, S. (2020). Data for teenagers' stressor,
 __Liu, T.__, Chen, X., Liu, M., Zhang, Y. Xin, T., Wang, Y. (2020). The effects of children’s self-educational aspiration and self-efficacy on mathematics achievement: a moderated chained mediation model. _Annals of Psychology_, _36_ 262-270. https://doi.org/10.6018/analesps.366621
 
 Elhai, J. D., Rozgonjuk, D., __Liu, T.__, & Yang, H. (2020). Fear of missing out is related to repeated measurements of negative affect over one week using experience sampling methodology. _Journal of Affective Disorders_, _262_, 298-303. https://doi.org/10.1016/j.jad.2019.11.026
+
+Luo, J., __Liu, T.*__, Wu, J., & Ali S. W. A. (2020). Asymptotic in undirected random graph models with a noisy degree sequence. _Communications in Statistics – Theory and Methods_, online. https://doi.org/10.1080/03610926.2020.1755870 
 ###### -在印 (in press)-
 张严文, __刘拓*__. (2019). 父母消极教养方式对中国性少数心理健康的影响：基于Bifactor模型. _心理科学_, 在印.
 
 薛明锋, 陈平, __刘拓__, & 甄锋泉. (2020). 在GLMM框架下统一GT与IRT. _心理科学_, 在印.
-
-Luo, J., __Liu, T.*__, Wu, J., & Ali S. W. A. (2020). Asymptotic in undirected random graph models with a noisy degree sequence. _Communications in Statistics – Theory and Methods_, in press. 
 #### 会议 
 ###### -国内-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
