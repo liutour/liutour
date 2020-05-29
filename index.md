@@ -89,7 +89,7 @@ Luo, J., __Liu, T.*__, Wu, J., & Ali S. W. A. (2020). Asymptotic in undirected r
 
 Chao, M., Chen, X., __Liu, T.*__, Yang, H. B., & Hall, B. (2020). Psychological distress and state boredom during the COVID-19 outbreak in China: The role of meaning in life and media use. _European Journal of Psychotraumatology_, https://doi.org/10.1080/20008198.2020.1769379.
 
-Chao, M., Xue, D., __Liu, T.*__, Yang, H. B., & Hall, B. (2020). Media use and acute psychological outcomes during COVID-19 outbreak in China. _Journal of Anxiety Disorders_, in press.
+Chao, M., Xue, D., __Liu, T.*__, Yang, H. B., & Hall, B. (2020). Media use and acute psychological outcomes during COVID-19 outbreak in China. _Journal of Anxiety Disorders_, https://doi.org/10.1016/j.janxdis.2020.102248.
 #### 会议 
 ###### -国内-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
