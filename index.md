@@ -73,7 +73,7 @@ Wang, Y. H., Yang, Z. X., Zhang, Y. B., Wang, F. M., __Liu, T.__, & Xin, T. (201
 ###### -2020-
 任世秀, 古丽给娜, & __刘拓*__.(2020). 中文版无手机恐惧量表的修订. _心理学探新_, _40_, 300-311.
 
-__刘拓__, 古丽给娜, 杨莹, 任世秀, & 钞淼. (2020). 人格与无手机恐惧的关系：独处行为的中介作用. _心理与行为研究_, _18_, xx.
+__刘拓__, 古丽给娜, 杨莹, 任世秀, & 钞淼. (2020). 人格与无手机恐惧的关系：独处行为的中介作用. _心理与行为研究_, _18_, 268-274.
 
 Chen, X., __Liu, T.*__, Luo, J., & Ren, S. (2020). Data for teenagers' stressor, mental health, coping style, social support, parenting style and self-efficacy in South China. _Data in Brief_. _29_, 1-6. https://doi.org/10.1016/j.dib.2020.105202.
 
