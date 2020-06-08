@@ -46,7 +46,7 @@ __刘拓__, 张佳慧, & 辛涛. (2015). 多项选择题中干扰项信息的利
 ###### -2017-
 赵雅文, 高岩研, __刘拓__, 杨海波, & 闫国利. (2017). 人格特质对微信用户朋友圈点赞行为动机影响的研. _心理与行为研究_, _15_, 27-275.
 
-__Liu, T__., Wang, M. C., & Xin, T. (2017). An investigation of enhancement of ability evaluation by using a nested logit model for multiple-choice items. _Annals of Psychology_, _33_, 530-537. *https://dx.doi.org/10.6018/analesps.33.3.238621
+__Liu, T__., Wang, M. C., & Xin, T. (2017). An investigation of enhancement of ability evaluation by using a nested logit model for multiple-choice items. _Annals of Psychology_, _33_, 530-537. *https://dx.doi.org/10.6018/analesps.33.3.238621*
 ###### -2018-
 刘哲雨, 任辉, __刘拓__, & 张滨. (2018). 深度学习核心要素的提取、论证和运用. _天津师范大学学报（基础教育版）_, _19_, 19-24.
 
