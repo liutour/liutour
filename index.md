@@ -88,6 +88,8 @@ Chao, M., Xue, D., __Liu, T.*__, Yang, H. B., & Hall, B. (2020). Media use and a
 薛明锋, 陈平, __刘拓__, & 甄锋泉. (2020). 在GLMM框架下统一GT与IRT. _心理科学_, 在印.
 
 Chao, M., Chen, X., __Liu, T.*__, Yang, H. B., & Hall, B. (2020). Psychological distress and state boredom during the COVID-19 outbreak in China: The role of meaning in life and media use. _European Journal of Psychotraumatology_, https://doi.org/10.1080/20008198.2020.1769379
+
+张舒, __刘拓__, 夏方婧, & 李雨桐. (2020). 网络分析视角下的大学生人际关系与心理健康. _中国心理卫生杂志_, 在印.
 #### 会议 
 ###### -国内-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
@@ -156,3 +158,6 @@ Chen, X., Weng, X., & __Liu, T.*__ (2019). The Influence of Positive Parenting S
 硕士：刘杰（心健）、李珍（用研）、孙毅聪（用研）、翁雪玲（心健）
 ###### -2019级-
 硕士：段优优（心健）、任世秀（用研）、张舒（用研）
+###### -2020级-
+硕士：陈雪明（应用）、芦旭蓉（用研）
+
