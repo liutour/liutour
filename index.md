@@ -69,7 +69,7 @@ Mo, J., Wang, C., Niu, X., Jia, X., __Liu, T.__, Lin, L. (2019). The relationshi
 
 Wang, Y. H., Yang, Z. X., Zhang, Y. B., Wang, F. M., __Liu, T.__, & Xin, T. (2019). The effect of social-emotional competency on child development in western China. _Frontiers in Psychology_, _online_. https://doi.org/10.3389/fpsyg.2019.01282
 ###### -2020-
-任世秀, 古丽给娜, & __刘拓*__.(2020). 中文版无手机恐惧量表的修订. _心理学探新_, _40_, 300-311.
+任世秀, 古丽给娜, & __刘拓*__.(2020). 中文版无手机恐惧量表的修订. _心理学探新_, _40_, 247-253.
 
 __刘拓__, 古丽给娜, 杨莹, 任世秀, & 钞淼. (2020). 人格与无手机恐惧的关系：独处行为的中介作用. _心理与行为研究_, _18_, 268-274.
 
