@@ -82,14 +82,14 @@ Elhai, J. D., Rozgonjuk, D., __Liu, T.__, & Yang, H. (2020). Fear of missing out
 Luo, J., __Liu, T.*__, Wu, J., & Ali S. W. A. (2020). Asymptotic in undirected random graph models with a noisy degree sequence. _Communications in Statistics – Theory and Methods_, online. https://doi.org/10.1080/03610926.2020.1755870
 
 Chao, M., Xue, D., __Liu, T.*__, Yang, H. B., & Hall, B. (2020). Media use and acute psychological outcomes during COVID-19 outbreak in China. _Journal of Anxiety Disorders_, _74_. https://doi.org/10.1016/j.janxdis.2020.102248
+
+Chao, M., Chen, X., __Liu, T.*__, Yang, H. B., & Hall, B. (2020). Psychological distress and state boredom during the COVID-19 outbreak in China: The role of meaning in life and media use. _European Journal of Psychotraumatology_, _11_. https://doi.org/10.1080/20008198.2020.1769379
 ###### -在印 (in press)-
 张严文, __刘拓*__. (2019). 父母消极教养方式对中国性少数心理健康的影响：基于Bifactor模型. _心理科学_, 在印.
 
 薛明锋, 陈平, __刘拓__, & 甄锋泉. (2020). 在GLMM框架下统一GT与IRT. _心理科学_, 在印.
 
 张舒, __刘拓__, 夏方婧, & 李雨桐. (2020). 网络分析视角下的大学生人际关系与心理健康. _中国心理卫生杂志_, 在印.
-
-Chao, M., Chen, X., __Liu, T.*__, Yang, H. B., & Hall, B. (2020). Psychological distress and state boredom during the COVID-19 outbreak in China: The role of meaning in life and media use. _European Journal of Psychotraumatology_, https://doi.org/10.1080/20008198.2020.1769379
 
 You, X., __Liu, T.*__, & Wang, M. C. (2020). Measurement Invariance of the Reactive and Proactive Aggression Questionnaire (RPQ) Across Self- and Other-reports. _Journal of Aggression, Maltreatment & Trauma_, in press.
 #### 会议 
