@@ -73,6 +73,8 @@ Wang, Y. H., Yang, Z. X., Zhang, Y. B., Wang, F. M., __Liu, T.__, & Xin, T. (201
 
 __刘拓__, 古丽给娜, 杨莹, 任世秀, & 钞淼. (2020). 人格与无手机恐惧的关系：独处行为的中介作用. _心理与行为研究_, _18_, 268-274.
 
+张舒, __刘拓*__, 夏方婧, & 李雨桐. (2020). 网络分析视角下的大学生人际关系与心理健康. _中国心理卫生杂志_, _34_, 855-859.
+
 Chen, X., __Liu, T.*__, Luo, J., & Ren, S. (2020). Data for teenagers' stressor, mental health, coping style, social support, parenting style and self-efficacy in South China. _Data in Brief_. _29_, 1-6. https://doi.org/10.1016/j.dib.2020.105202.
 
 __Liu, T.__, Chen, X., Liu, M., Zhang, Y. Xin, T., Wang, Y. (2020). The effects of children’s self-educational aspiration and self-efficacy on mathematics achievement: a moderated chained mediation model. _Annals of Psychology_, _36_ 262-270. https://doi.org/10.6018/analesps.366621
@@ -90,8 +92,6 @@ You, X., __Liu, T.*__, & Wang, M. C. (2020). Measurement Invariance of the React
 张严文, __刘拓*__. (2019). 父母消极教养方式对中国性少数心理健康的影响：基于Bifactor模型. _心理科学_, 在印.
 
 薛明锋, 陈平, __刘拓__, & 甄锋泉. (2020). 在GLMM框架下统一GT与IRT. _心理科学_, 在印.
-
-张舒, __刘拓*__, 夏方婧, & 李雨桐. (2020). 网络分析视角下的大学生人际关系与心理健康. _中国心理卫生杂志_, 在印.
 
 Chen, X., __Liu, T.*__, Li, P., Wei, W., & Chao, M. (2020). The Relationship between Media Involvement and Death Anxiety of Self-quarantined People in the COVID-19 Outbreak in China: The Mediating Roles of Empathy and Sympathy. _OMEGA - Journal of Death and Dying_, in press.
 
