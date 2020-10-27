@@ -120,6 +120,10 @@ __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计
 张严文, __刘拓*__. (2019). 从双因子模型视角看消极教养方式对性少数心理健康的影响, 第二十二届全国心理学学术会议, 杭州.
 
 翁雪玲, 彭文波, & __刘拓*__. (2019). 基于外显和内隐测验的初中生教育价值观探索, 第二十二届全国心理学学术会议, 杭州.
+
+张舒, 陈雪明, 薛的妮, 钞淼, & __刘拓*__. (2020). 疫情相关媒体内容暴露与心理健康的关系, 中国社会心理学会2020年学术年会, 大连.
+
+任世秀, 刘晓瑞, & __刘拓*__. (2020). 大学生适应性对无手机恐惧的影响：基于LASSO回归, 中国社会心理学会2020年学术年会, 大连.
 ###### -国际-
 __Liu, T.__, & Xin, T. (2015). Multiple-choice Item or Dichotomous Item A Perspective of the Accuracy of Latent Trait Assessment. Paper presented at 80th Annual Meeting of the Psychometric Society, Beijing.
 
