@@ -77,6 +77,8 @@ __刘拓__, 古丽给娜, 杨莹, 任世秀, & 钞淼. (2020). 人格与无手�
 
 张严文, __刘拓*__. (2020). 父母消极教养方式对中国性少数心理健康的影响：基于Bifactor模型. _心理科学_, _43_, 1103-1110.
 
+原露, 元英, 杜宵丰, 辛涛, __刘拓__, & 罗雪峰. (2020). 主观规范对数学学习行为的影响：数学兴趣的中介作用. _数学教育学报_, _29_, 14-19.
+
 Chen, X., __Liu, T.*__, Luo, J., & Ren, S. (2020). Data for teenagers' stressor, mental health, coping style, social support, parenting style and self-efficacy in South China. _Data in Brief_. _29_, 1-6. https://doi.org/10.1016/j.dib.2020.105202.
 
 __Liu, T.__, Chen, X., Liu, M., Zhang, Y. Xin, T., Wang, Y. (2020). The effects of children’s self-educational aspiration and self-efficacy on mathematics achievement: a moderated chained mediation model. _Annals of Psychology_, _36_ 262-270. https://doi.org/10.6018/analesps.366621
