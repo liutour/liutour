@@ -81,7 +81,7 @@ __刘拓__, 古丽给娜, 杨莹, 任世秀, & 钞淼. (2020). 人格与无手�
 
 Chen, X., __Liu, T.*__, Luo, J., & Ren, S. (2020). Data for teenagers' stressor, mental health, coping style, social support, parenting style and self-efficacy in South China. _Data in Brief_. _29_, 1-6. https://doi.org/10.1016/j.dib.2020.105202.
 
-__Liu, T.__, Chen, X., Liu, M., Zhang, Y. Xin, T., Wang, Y. (2020). The effects of children’s self-educational aspiration and self-efficacy on mathematics achievement: a moderated chained mediation model. _Annals of Psychology_, _36_ 262-270. https://doi.org/10.6018/analesps.366621
+__Liu, T.__, Chen, X., Liu, M., Zhang, Y. Xin, T., Wang, Y. (2020). The effects of children’s self-educational aspiration and self-efficacy on mathematics achievement: a moderated chained mediation model. _Annals of Psychology_, _36_, 262-270. https://doi.org/10.6018/analesps.366621
 
 Elhai, J. D., Rozgonjuk, D., __Liu, T.__, & Yang, H. (2020). Fear of missing out is related to repeated measurements of negative affect over one week using experience sampling methodology. _Journal of Affective Disorders_, _262_, 298-303. https://doi.org/10.1016/j.jad.2019.11.026
 
