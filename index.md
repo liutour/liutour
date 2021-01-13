@@ -1,7 +1,7 @@
 ## 刘拓（Tour Liu）
 
 ---
-##### 理学博士（Ph.D），讲师，系主任
+##### 理学博士（Ph.D），副教授，系主任
 ##### 天津师范大学，心理学部，心理系 
 ##### 天津师范大学立教楼B217，mikebonita@163.com，
 
@@ -98,6 +98,8 @@ Chen, X., __Liu, T.*__, Li, P., Wei, W., & Chao, M. (2020). The Relationship bet
 薛明锋, 陈平, __刘拓__, & 甄锋泉. (2020). 在GLMM框架下统一GT与IRT. _心理科学_, 在印.
 
 张环, 侯双, __刘拓*__, & 杨海波. (2021). 社会分享型提取诱发遗忘的性别差异：来自关系动机的影响作用. _心理科学_, 在印.
+
+Xue, D., __Liu, T.*__, Chen, X., Liu, X., & Chao, M. (2020). Data on media use and mental health during the outbreak of COVID-19 in China. _Data in Brief_. In press.
 
 #### 会议 
 ###### -国内-
