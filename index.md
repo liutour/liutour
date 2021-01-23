@@ -79,7 +79,7 @@ __刘拓__, 古丽给娜, 杨莹, 任世秀, & 钞淼. (2020). 人格与无手�
 
 原露, 元英, 杜宵丰, 辛涛, __刘拓__, & 罗雪峰. (2020). 主观规范对数学学习行为的影响：数学兴趣的中介作用. _数学教育学报_, _29_, 14-19.
 
-Chen, X., __Liu, T.*__, Luo, J., & Ren, S. (2020). Data for teenagers' stressor, mental health, coping style, social support, parenting style and self-efficacy in South China. _Data in Brief_. _29_, 1-6. https://doi.org/10.1016/j.dib.2020.105202.
+Chen, X., __Liu, T.*__, Luo, J., & Ren, S. (2020). Data for teenagers' stressor, mental health, coping style, social support, parenting style and self-efficacy in South China. _Data in Brief_, _29_. https://doi.org/10.1016/j.dib.2020.105202.
 
 __Liu, T.__, Chen, X., Liu, M., Zhang, Y. Xin, T., Wang, Y. (2020). The effects of children’s self-educational aspiration and self-efficacy on mathematics achievement: a moderated chained mediation model. _Annals of Psychology_, _36_, 262-270. https://doi.org/10.6018/analesps.366621
 
@@ -97,7 +97,7 @@ Chen, X., __Liu, T.*__, Li, P., Wei, W., & Chao, M. (2020). The Relationship bet
 ###### -2021-
 Sindermann, C., Yang, H., __Liu, T.__, Elhai, J. D., & Montag, C. (2021). WeChat—Its problematic use and relations with the big five personality traits and fear of missing out. _Journal of Technology in Behavioral Science_. online. https://link.springer.com/article/10.1007/s41347-020-00179-y
 
-Xue, D., __Liu, T.*__, Chen, X., Liu, X., & Chao, M. (2021). Data on media use and mental health during the outbreak of COVID-19 in China. _Data in Brief_. online. https://doi.org/10.1016/j.dib.2021.106765
+Xue, D., __Liu, T.*__, Chen, X., Liu, X., & Chao, M. (2021). Data on media use and mental health during the outbreak of COVID-19 in China. _Data in Brief_, _35_. https://doi.org/10.1016/j.dib.2021.106765
 ###### -在印 (in press)-
 薛明锋, 陈平, __刘拓__, & 甄锋泉. (2021). 在GLMM框架下统一GT与IRT. _心理科学_, 在印.
 
