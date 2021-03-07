@@ -6,9 +6,9 @@
 ##### 天津师范大学立教楼B217，mikebonita@163.com，
 
 ---
-### 教育经历
+### 教育经历(Eductional background)
 - 学士：2004-2008年，黑龙江大学(Heilongjiang University)，教育学院，应用心理学专业(Applied Psychology)
-- 硕士：2008-2011年，深圳大学(Shenzhen University)，师范学院，应用心理学专业，心理统计与测量方向(Psychological Statistics and Measurement)
+- 硕士：2008-2011年，深圳大学(Shenzhen University)，师范学院，应用心理学专业(Applied Psychology)，心理统计与测量方向(Psychological Statistics and Measurement)
 - 博士：2012-2016年，北京师范大学(Beijing Normal University)，心理学院，基础心理学专业，心理测量与评价方向(Psychological Measurement and Assessment)
 
 ---
@@ -21,8 +21,8 @@
 ---
 ### 研究主题(Research topics)
 - 理论研究：异常反应模式的识别; 多项选择题干扰项信息的利用; 计算机自适应测验的选题
-- Theoretical researches: Aberrant response pattern recognition; The use of information in multiple-choice item; Item selection in computerized adaptive testing
 - 应用研究：心理数据挖掘与评估（手机使用、物质滥用、攻击行为）; 教育数据挖掘与评价（学业成就的影响因素探索）
+- Theoretical researches: Aberrant response pattern recognition; The use of information in multiple-choice item; Item selection in computerized adaptive testing
 - Applied researches: Psychological data mining and assessment (mobile phone use, susbtance abuse, aggressive behavior); Educational data mining and evaluation (the impact factors of academic achievement)
 
 ---
