@@ -1,8 +1,8 @@
 ## 刘拓（Tour Liu）
 
 ---
-##### 理学博士（Ph.D），副教授（Associate professor），系主任
-##### 天津师范大学，心理学部，心理系 
+##### 理学博士(Ph.D)，副教授（Associate professor），系主任
+##### 天津师范大学(Tianjin Normal University)，心理学部(Facaulty of Psychology)，心理系(Department of Psychology) 
 ##### 天津师范大学立教楼B217，mikebonita@163.com，
 
 ---
@@ -27,7 +27,7 @@
 
 ---
 ### 研究成果
-#### 论文
+#### 论文(Articles)
 ###### -2011-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 个人拟合指标在艾森克人格测验中的应用. _中国临床心理学杂志_, _19_, 323-326.
 
@@ -105,7 +105,7 @@ You, X., __Liu, T.*__, & Wang, M. C. (2021). Measurement Invariance of the React
 
 张环, 侯双, __刘拓*__, & 杨海波. (2021). 社会分享型提取诱发遗忘的性别差异：来自关系动机的影响作用. _心理科学_, 在印.
 
-#### 会议 
+#### 会议(Presentations)
 ###### -国内-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
 
@@ -148,7 +148,7 @@ You, X., __Liu, T.*__ & Wang, M-C. (2019). Measurement Invariance of the Reactiv
 Chen, X., Weng, X., & __Liu, T.*__ (2019). The Influence of Positive Parenting Styles on Coping Styles of Middle School Students：Multiple Chain Mediation of Social Support and Self-Efficacy. Paper presented at 2019 XVI European Congress of Psychology, Moscow, Russia.
 
 ---
-### 主持项目
+### 主持项目(Projects)
 2017-2018年，联合国儿童基金会2016－2020周期爱生学校西部五县学业评估，联合国儿童基金会，53WC1702，省部级，主持人。
 
 2018-2019年，项目反应理论框架下的多项选择题设计，天津师范大学博士基金，135302WW1712，校级，主持人。
