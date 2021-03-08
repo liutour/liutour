@@ -2,7 +2,7 @@
 
 ---
 ##### 理学博士(Ph.D)，副教授（Associate professor），系主任
-##### 天津师范大学(Tianjin Normal University)，心理学部(Facaulty of Psychology)，心理系(Department of Psychology) 
+##### 天津师范大学(Tianjin Normal University)，心理学部(Facaulty of Psychology)
 ##### 天津师范大学立教楼B217，mikebonita@163.com
 
 ---
@@ -21,10 +21,12 @@
 ---
 ### 研究主题(Research topics)
 - 理论研究(Theoretical researches)
+
 异常反应模式的识别(Aberrant response pattern recognition)
 多项选择题干扰项信息的利用(The use of information in multiple-choice item)
 计算机自适应测验的选题(Item selection in computerized adaptive testing)
 - 应用研究(Applied researches)
+
 心理数据挖掘与评估(Psychological data mining and assessment)：手机使用(mobile phone use)、物质滥用(substance abuse)、攻击行为(aggressive behavior)
 教育数据挖掘与评价(Educational data mining and evaluation)：学业成就的影响因素探索(the impact factors of academic achievement)
 
