@@ -84,11 +84,11 @@ __刘拓__, 古丽给娜, 杨莹, 任世秀, & 钞淼. (2020). 人格与无手�
 
 原露, 元英, 杜宵丰, 辛涛, __刘拓__, & 罗雪峰. (2020). 主观规范对数学学习行为的影响：数学兴趣的中介作用. _数学教育学报_, _29_, 14-19.
 
-Chen, X., __Liu, T.*__, Luo, J., & Ren, S. (2020). Data for teenagers' stressor, mental health, coping style, social support, parenting style and self-efficacy in South China. _Data in Brief_, _29_. https://doi.org/10.1016/j.dib.2020.105202.
+Chen, X., __Liu, T.*__, Luo, J., & Ren, S. (2020). Data for teenagers' stressor, mental health, coping style, social support, parenting style and self-efficacy in South China. _Data in Brief_, _29_. [https://doi.org/10.1016/j.dib.2020.105202] (https://doi.org/10.1016/j.dib.2020.105202)
 
-__Liu, T.__, Chen, X., Liu, M., Zhang, Y. Xin, T., Wang, Y. (2020). The effects of children’s self-educational aspiration and self-efficacy on mathematics achievement: a moderated chained mediation model. _Annals of Psychology_, _36_, 262-270. https://doi.org/10.6018/analesps.366621
+__Liu, T.__, Chen, X., Liu, M., Zhang, Y. Xin, T., Wang, Y. (2020). The effects of children’s self-educational aspiration and self-efficacy on mathematics achievement: a moderated chained mediation model. _Annals of Psychology_, _36_, 262-270. [https://doi.org/10.6018/analesps.366621] (https://doi.org/10.6018/analesps.366621)
 
-Elhai, J. D., Rozgonjuk, D., __Liu, T.__, & Yang, H. (2020). Fear of missing out is related to repeated measurements of negative affect over one week using experience sampling methodology. _Journal of Affective Disorders_, _262_, 298-303. https://doi.org/10.1016/j.jad.2019.11.026
+Elhai, J. D., Rozgonjuk, D., __Liu, T.__, & Yang, H. (2020). Fear of missing out is related to repeated measurements of negative affect over one week using experience sampling methodology. _Journal of Affective Disorders_, _262_, 298-303. [https://doi.org/10.1016/j.jad.2019.11.026] (https://doi.org/10.1016/j.jad.2019.11.026)
 
 Luo, J., __Liu, T.*__, Wu, J., & Ali S. W. A. (2020). Asymptotic in undirected random graph models with a noisy degree sequence. _Communications in Statistics – Theory and Methods_, online. https://doi.org/10.1080/03610926.2020.1755870
 
