@@ -7,9 +7,9 @@
 
 ---
 ### 教育经历(Eductional background)
-- 学士：2004-2008年，黑龙江大学(Heilongjiang University)，教育学院(School of Education)，应用心理学专业(Applied Psychology)
-- 硕士：2008-2011年，深圳大学(Shenzhen University)，师范学院(Normal School)，应用心理学专业(Applied Psychology)，心理统计与测量方向(Psychological Statistics and Measurement)
-- 博士：2012-2016年，北京师范大学(Beijing Normal University)，心理学院(School of Psychology)，心理测量与评价方向(Psychological Measurement and Assessment)
+- 学士：2004-2008年，黑龙江大学(Heilongjiang University)，教育学院(School of Education)，应用心理学(Applied Psychology)
+- 硕士：2008-2011年，深圳大学(Shenzhen University)，师范学院(Normal School)，心理统计与测量(Psychological Statistics and Measurement)
+- 博士：2012-2016年，北京师范大学(Beijing Normal University)，心理学院(School of Psychology)，心理测量与评价(Psychological Measurement and Assessment)
 
 ---
 ### 研究领域(Research areas)
@@ -153,16 +153,16 @@ Chen, X., Weng, X., & __Liu, T.*__ (2019). The Influence of Positive Parenting S
 
 2018-2019年，项目反应理论框架下的多项选择题设计，天津师范大学博士基金，135302WW1712，校级，主持人。
 
-2018-2019年，强制隔离戒毒人员解除强戒回归社会前抗复吸力的评估测验及使用手册的编制，天津市戒毒管理局，53WB1810，委局级，主持人。
+2018-2019年，强制隔离戒毒人员解除强戒回归社会前抗复吸力的评估测验及使用手册的编制，天津市戒毒局，53WB1810，委局级，主持人。
 
 2018-2021年，多项选择题的最优设计：基于测量与眼动的双重考量，教育部人文社会科学青年基金，18YJC190013，省部级，主持人。
 
 2019-2021年，心理测验中不同类型异常反应模式的识别与结果校正，国家自然科学基金青年基金，31800945，国家级，主持人。
 
-2020-2021年，强制隔离戒毒人员分类安置心理诊断测验的开发与评估报告的研制，天津市戒毒管理局，53WC2003 ，省部级，主持人。
+2020-2021年，强制隔离戒毒人员分类安置心理诊断测验的开发与评估报告的研制，天津市戒毒局，53WC2003 ，省部级，主持人。
 
 ---
-### 学生指导
+### 学生指导(Students)
 ###### -2014级-
 本科：古丽给娜·艾尔肯、赵祁伟
 ###### -2015级-
