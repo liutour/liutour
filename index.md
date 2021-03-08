@@ -8,11 +8,11 @@
 ---
 ### 教育经历(Eductional background)
 - 学士：2004-2008年  
-  ######黑龙江大学(Heilongjiang University)，教育学院(School of Education)，应用心理学(Applied Psychology)
+  ###### 黑龙江大学(Heilongjiang University)，教育学院(School of Education)，应用心理学(Applied Psychology)
 - 硕士：2008-2011年   
-  ######深圳大学(Shenzhen University)，师范学院(Normal School)，心理统计与测量(Psychological Statistics and Measurement)
+  ###### 深圳大学(Shenzhen University)，师范学院(Normal School)，心理统计与测量(Psychological Statistics and Measurement)
 - 博士：2012-2016年   
-  ######北京师范大学(Beijing Normal University)，心理学院(School of Psychology)，心理测量与评价(Psychological Measurement and Assessment)
+  ###### 北京师范大学(Beijing Normal University)，心理学院(School of Psychology)，心理测量与评价(Psychological Measurement and Assessment)
 
 ---
 ### 研究领域(Research areas)
@@ -30,9 +30,9 @@
 
 #### 应用研究(Applied researches)
 - 心理数据挖掘与评估(Psychological data mining and assessment)   
-######手机使用(mobile phone use)、物质滥用(substance abuse)、攻击行为(aggressive behavior)
+###### 手机使用(mobile phone use)、物质滥用(substance abuse)、攻击行为(aggressive behavior)
 - 教育数据挖掘与评价(Educational data mining and evaluation)  
-######学业成就的影响因素探索(the impact factors of academic achievement)
+###### 学业成就的影响因素探索(the impact factors of academic achievement)
 
 ---
 ### 研究成果
