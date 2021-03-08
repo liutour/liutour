@@ -7,11 +7,11 @@
 
 ---
 ### 教育经历(Eductional background)
-- 学士(2004-2008年)  
+- 学士：2004-2008年  
   黑龙江大学(Heilongjiang University)，教育学院(School of Education)，应用心理学(Applied Psychology)
-- 硕士(2008-2011年)
+- 硕士：2008-2011年   
   深圳大学(Shenzhen University)，师范学院(Normal School)，心理统计与测量(Psychological Statistics and Measurement)
-- 博士(2012-2016年)
+- 博士：2012-2016年   
   北京师范大学(Beijing Normal University)，心理学院(School of Psychology)，心理测量与评价(Psychological Measurement and Assessment)
 
 ---
@@ -26,7 +26,8 @@
 #### 理论研究(Theoretical researches)
 - 异常反应模式的识别(Aberrant response pattern recognition)
 - 多项选择题干扰项信息的利用(The use of information in multiple-choice item)
-- 计算机自适应测验的选题(Item selection in computerized adaptive testing)
+- 计算机自适应测验的选题(Item selection in computerized adaptive testing)   
+
 #### 应用研究(Applied researches)
 - 心理数据挖掘与评估(Psychological data mining and assessment)   
   手机使用(mobile phone use)、物质滥用(substance abuse)、攻击行为(aggressive behavior)
