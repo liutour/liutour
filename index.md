@@ -39,7 +39,7 @@ __刘拓__, 曹亦薇, & 戴晓阳. (2011). 个人不拟合对IRT项目参数估
 __刘拓__, & 戴晓阳. (2011). 不拟合被试对测验信、效度的影响. _中国临床心理学杂志_, _19_, 743-745.
 ###### -2012-
 ###### -2013-
-辛涛, & __刘拓*__. (2013). 认知诊断计算机自适应测验中选题策略的新进展. _南京师大学报(社会科学版)_, _6_, 81-87.
+辛涛, & __刘拓__. (2013). 认知诊断计算机自适应测验中选题策略的新进展. _南京师大学报(社会科学版)_, _6_, 81-87.
 ###### -2014-
 ###### -2015-
 __刘拓__, 张佳慧, & 辛涛. (2015). 多项选择题中干扰项信息的利用. _心理学探新_, _35_, 261-265.
@@ -60,19 +60,19 @@ __Liu, T__., Wang, M. C., & Xin, T. (2017). An investigation of enhancement of a
 
 林琳, 刘俊岐, 杨洋, 刘羽, 王晨旭, __刘拓__, 于馨, & 贾绪计. (2019).负性生活事件对大学生自杀意念的影响-反刍思维的中介作用和气质性乐观的调节作用. _心理与行为研究_, _17_, 569-576.
 
-林琳， 何海平， 刘羽， 杨洋， 莫娟婵， 王晨旭， & __刘拓*__. (2019). 负性情绪对自杀危险的影响：自伤行为的中介作用. _黑龙江高教研究_，_5_, 83-87.
+林琳， 何海平， 刘羽， 杨洋， 莫娟婵， 王晨旭， & __刘拓__. (2019). 负性情绪对自杀危险的影响：自伤行为的中介作用. _黑龙江高教研究_，_5_, 83-87.
 
 罗杰, 陈维, 杨桂芳, 吴丹萍, & __刘拓*__. (2019). 大学生主动性人格对其拖延行为的影响：核心自我评价的中介作用. _心理与行为研究_, _17_, 692-698.
 
 郝嘉佳, 陈英和, __刘拓__, & 白学军. (2019). 儿童青少年一般思维能力测验的编制和初步应用. _心理与行为研究_, _17_, 620-626.
 
-__Liu, T.__, Lan, T., & Xin, T. (2019). Detecting random Responses in a personality scale using IRT-based person-fit indices. _European Journal of Psychological Assessment_, _35_, 126-136. https://doi.org/10.1027/1015-5759/a000369
+__Liu, T.__, Lan, T., & Xin, T. (2019). Detecting random Responses in a personality scale using IRT-based person-fit indices. _European Journal of Psychological Assessment_, _35_, 126-136. [https://doi.org/10.1027/1015-5759/a000369] (https://doi.org/10.1027/1015-5759/a000369)
 
-**Liu, T.**, Sun, Y. C., Li, Z., & Xin, T. (2019). The impact of aberrant response on reliability and validity. _Measurement: Interdisciplinary Research and Perspectives_, _17_, 133-142. https://10.1080/15366367.2019.1584848
+**Liu, T.**, Sun, Y. C., Li, Z., & Xin, T. (2019). The impact of aberrant response on reliability and validity. _Measurement: Interdisciplinary Research and Perspectives_, _17_, 133-142. [https://10.1080/15366367.2019.1584848] (https://10.1080/15366367.2019.1584848)
 
-Mo, J., Wang, C., Niu, X., Jia, X., __Liu, T.__, Lin, L. (2019). The relationship between impulsivity and self-injury in Chinese undergraduates: the chain mediating role of stressful life events and negative affect. _Journal of Affective Disorders_, _256_, 259-266. https://doi.org/10.1016/j.jad.2019.05.074
+Mo, J., Wang, C., Niu, X., Jia, X., __Liu, T.__, Lin, L. (2019). The relationship between impulsivity and self-injury in Chinese undergraduates: the chain mediating role of stressful life events and negative affect. _Journal of Affective Disorders_, _256_, 259-266. [https://doi.org/10.1016/j.jad.2019.05.074] (https://doi.org/10.1016/j.jad.2019.05.074)
 
-Wang, Y. H., Yang, Z. X., Zhang, Y. B., Wang, F. M., __Liu, T.__, & Xin, T. (2019). The effect of social-emotional competency on child development in western China. _Frontiers in Psychology_, _online_. https://doi.org/10.3389/fpsyg.2019.01282
+Wang, Y. H., Yang, Z. X., Zhang, Y. B., Wang, F. M., __Liu, T.__, & Xin, T. (2019). The effect of social-emotional competency on child development in western China. _Frontiers in Psychology_, _online_. [https://doi.org/10.3389/fpsyg.2019.01282] (https://doi.org/10.3389/fpsyg.2019.01282)
 ###### -2020-
 任世秀, 古丽给娜, & __刘拓*__.(2020). 中文版无手机恐惧量表的修订. _心理学探新_, _40_, 247-253.
 
