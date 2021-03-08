@@ -50,7 +50,7 @@ __刘拓__, 张佳慧, & 辛涛. (2015). 多项选择题中干扰项信息的利
 ###### -2017-
 赵雅文, 高岩研, __刘拓__, 杨海波, & 闫国利. (2017). 人格特质对微信用户朋友圈点赞行为动机影响的研. _心理与行为研究_, _15_, 27-275.
 
-__Liu, T__., Wang, M. C., & Xin, T. (2017). An investigation of enhancement of ability evaluation by using a nested logit model for multiple-choice items. _Annals of Psychology_, _33_, 530-537. [link](https://dx.doi.org/10.6018/analesps.33.3.238621)
+__Liu, T__., Wang, M. C., & Xin, T. (2017). An investigation of enhancement of ability evaluation by using a nested logit model for multiple-choice items. _Annals of Psychology_, _33_, 530-537. [DOI](https://dx.doi.org/10.6018/analesps.33.3.238621)
 ###### -2018-
 刘哲雨, 任辉, __刘拓__, & 张滨. (2018). 深度学习核心要素的提取、论证和运用. _天津师范大学学报（基础教育版）_, _19_, 19-24.
 
@@ -66,13 +66,13 @@ __Liu, T__., Wang, M. C., & Xin, T. (2017). An investigation of enhancement of a
 
 郝嘉佳, 陈英和, __刘拓__, & 白学军. (2019). 儿童青少年一般思维能力测验的编制和初步应用. _心理与行为研究_, _17_, 620-626.
 
-__Liu, T.__, Lan, T., & Xin, T. (2019). Detecting random Responses in a personality scale using IRT-based person-fit indices. _European Journal of Psychological Assessment_, _35_, 126-136. [link](https://doi.org/10.1027/1015-5759/a000369)
+__Liu, T.__, Lan, T., & Xin, T. (2019). Detecting random Responses in a personality scale using IRT-based person-fit indices. _European Journal of Psychological Assessment_, _35_, 126-136. [DOI](https://doi.org/10.1027/1015-5759/a000369)
 
-**Liu, T.**, Sun, Y. C., Li, Z., & Xin, T. (2019). The impact of aberrant response on reliability and validity. _Measurement: Interdisciplinary Research and Perspectives_, _17_, 133-142. [link](https://10.1080/15366367.2019.1584848)
+**Liu, T.**, Sun, Y. C., Li, Z., & Xin, T. (2019). The impact of aberrant response on reliability and validity. _Measurement: Interdisciplinary Research and Perspectives_, _17_, 133-142. [DOI](https://10.1080/15366367.2019.1584848)
 
-Mo, J., Wang, C., Niu, X., Jia, X., __Liu, T.__, Lin, L. (2019). The relationship between impulsivity and self-injury in Chinese undergraduates: the chain mediating role of stressful life events and negative affect. _Journal of Affective Disorders_, _256_, 259-266. [GO TO](https://doi.org/10.1016/j.jad.2019.05.074)
+Mo, J., Wang, C., Niu, X., Jia, X., __Liu, T.__, Lin, L. (2019). The relationship between impulsivity and self-injury in Chinese undergraduates: the chain mediating role of stressful life events and negative affect. _Journal of Affective Disorders_, _256_, 259-266. [DOI](https://doi.org/10.1016/j.jad.2019.05.074)
 
-Wang, Y. H., Yang, Z. X., Zhang, Y. B., Wang, F. M., __Liu, T.__, & Xin, T. (2019). The effect of social-emotional competency on child development in western China. _Frontiers in Psychology_, _online_. [GO TO](https://doi.org/10.3389/fpsyg.2019.01282)
+Wang, Y. H., Yang, Z. X., Zhang, Y. B., Wang, F. M., __Liu, T.__, & Xin, T. (2019). The effect of social-emotional competency on child development in western China. _Frontiers in Psychology_, _online_. [DOI](https://doi.org/10.3389/fpsyg.2019.01282)
 ###### -2020-
 任世秀, 古丽给娜, & __刘拓*__.(2020). 中文版无手机恐惧量表的修订. _心理学探新_, _40_, 247-253.
 
@@ -84,13 +84,13 @@ __刘拓__, 古丽给娜, 杨莹, 任世秀, & 钞淼. (2020). 人格与无手�
 
 原露, 元英, 杜宵丰, 辛涛, __刘拓__, & 罗雪峰. (2020). 主观规范对数学学习行为的影响：数学兴趣的中介作用. _数学教育学报_, _29_, 14-19.
 
-Chen, X., __Liu, T.*__, Luo, J., & Ren, S. (2020). Data for teenagers' stressor, mental health, coping style, social support, parenting style and self-efficacy in South China. _Data in Brief_, _29_. [https://doi.org/10.1016/j.dib.2020.105202] (https://doi.org/10.1016/j.dib.2020.105202)
+Chen, X., __Liu, T.*__, Luo, J., & Ren, S. (2020). Data for teenagers' stressor, mental health, coping style, social support, parenting style and self-efficacy in South China. _Data in Brief_, _29_. [DOI](https://doi.org/10.1016/j.dib.2020.105202)
 
-__Liu, T.__, Chen, X., Liu, M., Zhang, Y. Xin, T., Wang, Y. (2020). The effects of children’s self-educational aspiration and self-efficacy on mathematics achievement: a moderated chained mediation model. _Annals of Psychology_, _36_, 262-270. [https://doi.org/10.6018/analesps.366621] (https://doi.org/10.6018/analesps.366621)
+__Liu, T.__, Chen, X., Liu, M., Zhang, Y. Xin, T., Wang, Y. (2020). The effects of children’s self-educational aspiration and self-efficacy on mathematics achievement: a moderated chained mediation model. _Annals of Psychology_, _36_, 262-270. [DOI](https://doi.org/10.6018/analesps.366621)
 
-Elhai, J. D., Rozgonjuk, D., __Liu, T.__, & Yang, H. (2020). Fear of missing out is related to repeated measurements of negative affect over one week using experience sampling methodology. _Journal of Affective Disorders_, _262_, 298-303. [https://doi.org/10.1016/j.jad.2019.11.026] (https://doi.org/10.1016/j.jad.2019.11.026)
+Elhai, J. D., Rozgonjuk, D., __Liu, T.__, & Yang, H. (2020). Fear of missing out is related to repeated measurements of negative affect over one week using experience sampling methodology. _Journal of Affective Disorders_, _262_, 298-303. [DOI](https://doi.org/10.1016/j.jad.2019.11.026)
 
-Luo, J., __Liu, T.*__, Wu, J., & Ali S. W. A. (2020). Asymptotic in undirected random graph models with a noisy degree sequence. _Communications in Statistics – Theory and Methods_, online. https://doi.org/10.1080/03610926.2020.1755870
+Luo, J., __Liu, T.*__, Wu, J., & Ali S. W. A. (2020). Asymptotic in undirected random graph models with a noisy degree sequence. _Communications in Statistics – Theory and Methods_, online. [DOI](https://doi.org/10.1080/03610926.2020.1755870)
 
 Chao, M., Xue, D., __Liu, T.*__, Yang, H. B., & Hall, B. (2020). Media use and acute psychological outcomes during COVID-19 outbreak in China. _Journal of Anxiety Disorders_, _74_. https://doi.org/10.1016/j.janxdis.2020.102248
 
