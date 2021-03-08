@@ -92,17 +92,17 @@ Elhai, J. D., Rozgonjuk, D., __Liu, T.__, & Yang, H. (2020). Fear of missing out
 
 Luo, J., __Liu, T.*__, Wu, J., & Ali S. W. A. (2020). Asymptotic in undirected random graph models with a noisy degree sequence. _Communications in Statistics – Theory and Methods_, online. [DOI](https://doi.org/10.1080/03610926.2020.1755870)
 
-Chao, M., Xue, D., __Liu, T.*__, Yang, H. B., & Hall, B. (2020). Media use and acute psychological outcomes during COVID-19 outbreak in China. _Journal of Anxiety Disorders_, _74_. https://doi.org/10.1016/j.janxdis.2020.102248
+Chao, M., Xue, D., __Liu, T.*__, Yang, H. B., & Hall, B. (2020). Media use and acute psychological outcomes during COVID-19 outbreak in China. _Journal of Anxiety Disorders_, _74_. [DOI](https://doi.org/10.1016/j.janxdis.2020.102248)
 
-Chao, M., Chen, X., __Liu, T.*__, Yang, H. B., & Hall, B. (2020). Psychological distress and state boredom during the COVID-19 outbreak in China: The role of meaning in life and media use. _European Journal of Psychotraumatology_, _11_. https://doi.org/10.1080/20008198.2020.1769379
+Chao, M., Chen, X., __Liu, T.*__, Yang, H. B., & Hall, B. (2020). Psychological distress and state boredom during the COVID-19 outbreak in China: The role of meaning in life and media use. _European Journal of Psychotraumatology_, _11_. [DOI](https://doi.org/10.1080/20008198.2020.1769379)
 
-Chen, X., __Liu, T.*__, Li, P., Wei, W., & Chao, M. (2020). The Relationship between Media Involvement and Death Anxiety of Self-quarantined People in the COVID-19 Outbreak in China: The Mediating Roles of Empathy and Sympathy. _OMEGA - Journal of Death and Dying_, online. https://doi.org/10.1177/0030222820960283
+Chen, X., __Liu, T.*__, Li, P., Wei, W., & Chao, M. (2020). The Relationship between Media Involvement and Death Anxiety of Self-quarantined People in the COVID-19 Outbreak in China: The Mediating Roles of Empathy and Sympathy. _OMEGA - Journal of Death and Dying_, online. [DOI](https://doi.org/10.1177/0030222820960283)
 ###### -2021-
-Sindermann, C., Yang, H., __Liu, T.__, Elhai, J. D., & Montag, C. (2021). WeChat—Its problematic use and relations with the big five personality traits and fear of missing out. _Journal of Technology in Behavioral Science_. online. https://link.springer.com/article/10.1007/s41347-020-00179-y
+Sindermann, C., Yang, H., __Liu, T.__, Elhai, J. D., & Montag, C. (2021). WeChat—Its problematic use and relations with the big five personality traits and fear of missing out. _Journal of Technology in Behavioral Science_. online. [DOI](https://link.springer.com/article/10.1007/s41347-020-00179-y)
 
-Xue, D., __Liu, T.*__, Chen, X., Liu, X., & Chao, M. (2021). Data on media use and mental health during the outbreak of COVID-19 in China. _Data in Brief_, _35_. https://doi.org/10.1016/j.dib.2021.106765
+Xue, D., __Liu, T.*__, Chen, X., Liu, X., & Chao, M. (2021). Data on media use and mental health during the outbreak of COVID-19 in China. _Data in Brief_, _35_. [DOI](https://doi.org/10.1016/j.dib.2021.106765)
 
-You, X., __Liu, T.*__, & Wang, M. C. (2021). Measurement Invariance of the Reactive and Proactive Aggression Questionnaire (RPQ) Across Self- and Other-reports. _Journal of Aggression, Maltreatment & Trauma_, _30_, 261-277. http://dx.doi.org/10.1080/10926771.2020.1806973
+You, X., __Liu, T.*__, & Wang, M. C. (2021). Measurement Invariance of the Reactive and Proactive Aggression Questionnaire (RPQ) Across Self- and Other-reports. _Journal of Aggression, Maltreatment & Trauma_, _30_, 261-277. [DOI](http://dx.doi.org/10.1080/10926771.2020.1806973)
 ###### -在印 (in press)-
 薛明锋, 陈平, __刘拓__, & 甄锋泉. (2021). 在GLMM框架下统一GT与IRT. _心理科学_, 在印.
 
