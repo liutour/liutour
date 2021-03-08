@@ -72,7 +72,7 @@ __Liu, T.__, Lan, T., & Xin, T. (2019). Detecting random Responses in a personal
 
 Mo, J., Wang, C., Niu, X., Jia, X., __Liu, T.__, Lin, L. (2019). The relationship between impulsivity and self-injury in Chinese undergraduates: the chain mediating role of stressful life events and negative affect. _Journal of Affective Disorders_, _256_, 259-266. [https://doi.org/10.1016/j.jad.2019.05.074] (https://doi.org/10.1016/j.jad.2019.05.074)
 
-Wang, Y. H., Yang, Z. X., Zhang, Y. B., Wang, F. M., __Liu, T.__, & Xin, T. (2019). The effect of social-emotional competency on child development in western China. _Frontiers in Psychology_, _online_. [https://doi.org/10.3389/fpsyg.2019.01282] (https://doi.org/10.3389/fpsyg.2019.01282)
+Wang, Y. H., Yang, Z. X., Zhang, Y. B., Wang, F. M., __Liu, T.__, & Xin, T. (2019). The effect of social-emotional competency on child development in western China. _Frontiers in Psychology_, _online_. [https://doi.org/10.3389/fpsyg.2019.01282](https://doi.org/10.3389/fpsyg.2019.01282)
 ###### -2020-
 任世秀, 古丽给娜, & __刘拓*__.(2020). 中文版无手机恐惧量表的修订. _心理学探新_, _40_, 247-253.
 
