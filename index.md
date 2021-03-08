@@ -25,7 +25,8 @@
 - 多项选择题干扰项信息的利用(The use of information in multiple-choice item)
 - 计算机自适应测验的选题(Item selection in computerized adaptive testing)
 #### 应用研究(Applied researches)
-- 心理数据挖掘与评估(Psychological data mining and assessment)：手机使用(mobile phone use)、物质滥用(substance abuse)、攻击行为(aggressive behavior)
+- 心理数据挖掘与评估(Psychological data mining and assessment)：   
+  手机使用(mobile phone use)、物质滥用(substance abuse)、攻击行为(aggressive behavior)
 - 教育数据挖掘与评价(Educational data mining and evaluation)：学业成就的影响因素探索(the impact factors of academic achievement)
 
 ---
