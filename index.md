@@ -66,9 +66,9 @@ __Liu, T__., Wang, M. C., & Xin, T. (2017). An investigation of enhancement of a
 
 郝嘉佳, 陈英和, __刘拓__, & 白学军. (2019). 儿童青少年一般思维能力测验的编制和初步应用. _心理与行为研究_, _17_, 620-626.
 
-__Liu, T.__, Lan, T., & Xin, T. (2019). Detecting random Responses in a personality scale using IRT-based person-fit indices. _European Journal of Psychological Assessment_, _35_, 126-136. [_https://doi.org/10.1027/1015-5759/a000369_](https://doi.org/10.1027/1015-5759/a000369)
+__Liu, T.__, Lan, T., & Xin, T. (2019). Detecting random Responses in a personality scale using IRT-based person-fit indices. _European Journal of Psychological Assessment_, _35_, 126-136. [https://doi.org/10.1027/1015-5759/a000369] (https://doi.org/10.1027/1015-5759/a000369)
 
-**Liu, T.**, Sun, Y. C., Li, Z., & Xin, T. (2019). The impact of aberrant response on reliability and validity. _Measurement: Interdisciplinary Research and Perspectives_, _17_, 133-142. [_https://10.1080/15366367.2019.1584848_](https://10.1080/15366367.2019.1584848)
+**Liu, T.**, Sun, Y. C., Li, Z., & Xin, T. (2019). The impact of aberrant response on reliability and validity. _Measurement: Interdisciplinary Research and Perspectives_, _17_, 133-142. [https://10.1080/15366367.2019.1584848] (https://10.1080/15366367.2019.1584848)
 
 Mo, J., Wang, C., Niu, X., Jia, X., __Liu, T.__, Lin, L. (2019). The relationship between impulsivity and self-injury in Chinese undergraduates: the chain mediating role of stressful life events and negative affect. _Journal of Affective Disorders_, _256_, 259-266. [_https://doi.org/10.1016/j.jad.2019.05.074_](https://doi.org/10.1016/j.jad.2019.05.074)
 
