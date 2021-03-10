@@ -11,7 +11,7 @@
   黑龙江大学(Heilongjiang University), 教育学院(School of Education)
 - 硕士(M.Ed.)：2008-2011    
   深圳大学(Shenzhen University), 师范学院(Normal School)  
-- 博士(Ph.D.)：2012-2016 
+- 博士(Ph.D.)：2012-2016     
   北京师范大学(Beijing Normal University), 心理学院(School of Psychology)
   
 ---
