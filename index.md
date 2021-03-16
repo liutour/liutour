@@ -109,12 +109,12 @@ Sindermann, C., Yang, H., __Liu, T.__, Elhai, J. D., & Montag, C. (2021). WeChat
 Xue, D., __Liu, T.*__, Chen, X., Liu, X., & Chao, M. (2021). Data on media use and mental health during the outbreak of COVID-19 in China. _Data in Brief_, _35_. [DOI](https://doi.org/10.1016/j.dib.2021.106765)
 
 You, X., __Liu, T.*__, & Wang, M. C. (2021). Measurement Invariance of the Reactive and Proactive Aggression Questionnaire (RPQ) Across Self- and Other-reports. _Journal of Aggression, Maltreatment & Trauma_, _30_, 261-277. [DOI](http://dx.doi.org/10.1080/10926771.2020.1806973)
+
+Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2021). Associations between Undergraduates’ Interpersonal Relationships and Mental Health in Perspective of Social Network Analysis. _Current Psychology_, online. [DOI](https://link.springer.com/article/10.1007/s12144-021-01629-3)
 ###### -在印 (in press)-
 薛明锋, 陈平, __刘拓__, & 甄锋泉. (2021). 在GLMM框架下统一GT与IRT. _心理科学_, 在印.
 
 张环, 侯双, __刘拓*__, & 杨海波. (2021). 社会分享型提取诱发遗忘的性别差异：来自关系动机的影响作用. _心理科学_, 在印.
-
-Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2021). Associations between Undergraduates’ Interpersonal Relationships and Mental Health in Perspective of Social Network Analysis. _Current Psychology_, in press.
 
 #### 会议(Presentations)
 ###### -国内-
