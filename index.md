@@ -116,6 +116,8 @@ Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2021). Associations between Undergra
 
 张环, 侯双, __刘拓*__, & 杨海波. (2021). 社会分享型提取诱发遗忘的性别差异：来自关系动机的影响作用. _心理科学_, 在印.
 
+Lu, X., __Liu, T.*__, Liu, X., Yang, H. B., & Elhai, J. (2021). Nomophobia and Relationships with Latent Classes of Solitude. _The Bulletin of the Menninger Clinic_, online.
+
 #### 会议(Presentations)
 ###### -国内-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
