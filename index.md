@@ -104,6 +104,8 @@ Chao, M., Chen, X., __Liu, T.*__, Yang, H. B., & Hall, B. (2020). Psychological 
 
 Chen, X., __Liu, T.*__, Li, P., Wei, W., & Chao, M. (2020). The Relationship between Media Involvement and Death Anxiety of Self-quarantined People in the COVID-19 Outbreak in China: The Mediating Roles of Empathy and Sympathy. _OMEGA - Journal of Death and Dying_, online. [DOI](https://doi.org/10.1177/0030222820960283)
 ###### -2021-
+薛明锋, 陈平, __刘拓__, & 甄锋泉. (2021). 在GLMM框架下统一GT与IRT. _心理科学_, _44_, 449-456.
+
 Sindermann, C., Yang, H., __Liu, T.__, Elhai, J. D., & Montag, C. (2021). WeChat—Its problematic use and relations with the big five personality traits and fear of missing out. _Journal of Technology in Behavioral Science_. online. [DOI](https://link.springer.com/article/10.1007/s41347-020-00179-y)
 
 Xue, D., __Liu, T.*__, Chen, X., Liu, X., & Chao, M. (2021). Data on media use and mental health during the outbreak of COVID-19 in China. _Data in Brief_, _35_. [DOI](https://doi.org/10.1016/j.dib.2021.106765)
@@ -112,8 +114,6 @@ You, X., __Liu, T.*__, & Wang, M. C. (2021). Measurement Invariance of the React
 
 Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2021). Associations between Undergraduates’ Interpersonal Relationships and Mental Health in Perspective of Social Network Analysis. _Current Psychology_, online. [DOI](https://link.springer.com/article/10.1007/s12144-021-01629-3)
 ###### -在印 (in press)-
-薛明锋, 陈平, __刘拓__, & 甄锋泉. (2021). 在GLMM框架下统一GT与IRT. _心理科学_, 在印.
-
 张环, 侯双, __刘拓*__, & 杨海波. (2021). 社会分享型提取诱发遗忘的性别差异：来自关系动机的影响作用. _心理科学_, 在印.
 
 Lu, X., __Liu, T.*__, Liu, X., Yang, H. B., & Elhai, J. (2021). Nomophobia and Relationships with Latent Classes of Solitude. _The Bulletin of the Menninger Clinic_, online.
