@@ -116,6 +116,8 @@ Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2021). Associations between Undergra
 ###### -在印 (in press)-
 张环, 侯双, __刘拓*__, & 杨海波. (2021). 社会分享型提取诱发遗忘的性别差异：来自关系动机的影响作用. _心理科学_, 在印.
 
+芦旭蓉, __刘拓*__, & 廉宇煊. (2021). 独处行为与问题性手机使用的关系：一项元分析. _中国临床心理学杂志_, 在印.
+
 Lu, X., __Liu, T.*__, Liu, X., Yang, H. B., & Elhai, J. (2021). Nomophobia and Relationships with Latent Classes of Solitude. _The Bulletin of the Menninger Clinic_, online.
 
 Luo, J., __Liu, T.*__, & Wang Q. (2021). 	Affiliation weighted networks with a differentially private degree sequence. _Statistical Papers_, in press.
@@ -197,4 +199,6 @@ Chen, X., Weng, X., & __Liu, T.*__ (2019). The Influence of Positive Parenting S
 ###### -2020级-
 硕士：陈雪明（应用）、芦旭蓉（用研）、李雨欣（用研）
 ###### -2021级-
+硕士：
+###### -2022级-
 硕士：廉宇煊（应用）
