@@ -113,14 +113,14 @@ Xue, D., __Liu, T.*__, Chen, X., Liu, X., & Chao, M. (2021). Data on media use a
 You, X., __Liu, T.*__, & Wang, M. C. (2021). Measurement Invariance of the Reactive and Proactive Aggression Questionnaire (RPQ) Across Self- and Other-reports. _Journal of Aggression, Maltreatment & Trauma_, _30_, 261-277. [DOI](http://dx.doi.org/10.1080/10926771.2020.1806973)
 
 Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2021). Associations between Undergraduates’ Interpersonal Relationships and Mental Health in Perspective of Social Network Analysis. _Current Psychology_, online. [DOI](https://link.springer.com/article/10.1007/s12144-021-01629-3)
+
+Luo, J., __Liu, T.*__, & Wang Q. (2021). 	Affiliation weighted networks with a differentially private degree sequence. _Statistical Papers_, online. [DOI](https://link.springer.com/article/10.1007/s00362-021-01243-2)
 ###### -在印 (in press)-
 张环, 侯双, __刘拓*__, & 杨海波. (2021). 社会分享型提取诱发遗忘的性别差异：来自关系动机的影响作用. _心理科学_, 在印.
 
 芦旭蓉, __刘拓*__, & 廉宇煊. (2021). 独处行为与问题性手机使用的关系：一项元分析. _中国临床心理学杂志_, 在印.
 
 Lu, X., __Liu, T.*__, Liu, X., Yang, H. B., & Elhai, J. (2021). Nomophobia and Relationships with Latent Classes of Solitude. _The Bulletin of the Menninger Clinic_, online.
-
-Luo, J., __Liu, T.*__, & Wang Q. (2021). 	Affiliation weighted networks with a differentially private degree sequence. _Statistical Papers_, in press.
 
 #### 会议(Presentations)
 ###### -国内-
