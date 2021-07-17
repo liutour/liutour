@@ -164,6 +164,10 @@ You, X., __Liu, T.*__ & Wang, M-C. (2019). Measurement Invariance of the Reactiv
 
 Chen, X., Weng, X., & __Liu, T.*__ (2019). The Influence of Positive Parenting Styles on Coping Styles of Middle School Students：Multiple Chain Mediation of Social Support and Self-Efficacy. Paper presented at 2019 XVI European Congress of Psychology, Moscow, Russia.
 
+Ren, S., Lu, X., Wang, Q., & __Liu, T.*__ (2021). The Difference and Relationship of Latent Psychological Structure of Problematic Mobile Phone Uses. Paper presented at 2021 32nd International Congress of Psychology, Prague, Czech Republic.
+
+Zhang, S., Chen, X., Li, Y., & __Liu, T.*__ (2021). Undergraduates' interpersonal relationship and mental health based on social network analysis. Paper presented at 2021 32nd International Congress of Psychology, Prague, Czech Republic.
+
 ---
 ### 主持项目(Projects)
 2017-2018年，联合国儿童基金会2016－2020周期爱生学校西部五县学业评估，联合国儿童基金会，53WC1702，省部级，主持人。
