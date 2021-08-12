@@ -120,6 +120,8 @@ Luo, J., __Liu, T.*__, & Wang Q. (2021). 	Affiliation weighted networks with a d
 
 芦旭蓉, __刘拓*__, & 廉宇煊. (2021). 独处行为与问题性手机使用的关系：一项元分析. _中国临床心理学杂志_, 在印.
 
+__刘拓__, 陈雪明, 芦旭蓉, & 杨莹. (2021). 父母积极教养方式对中学生应对方式的影响：社会支持、自我效能感的中介作用. _心理与行为研究_, 在印.
+
 Lu, X., __Liu, T.*__, Liu, X., Yang, H. B., & Elhai, J. (2021). Nomophobia and Relationships with Latent Classes of Solitude. _The Bulletin of the Menninger Clinic_, online.
 
 #### 会议(Presentations)
