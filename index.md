@@ -106,6 +106,8 @@ Chen, X., __Liu, T.*__, Li, P., Wei, W., & Chao, M. (2020). The Relationship bet
 ###### -2021-
 薛明锋, 陈平, __刘拓__, & 甄锋泉. (2021). 在GLMM框架下统一GT与IRT. _心理科学_, _44_, 449-456.
 
+芦旭蓉, __刘拓*__, & 廉宇煊. (2021). 独处行为与问题性手机使用的关系：一项元分析. _中国临床心理学杂志_, _29_, 725-733.
+
 Sindermann, C., Yang, H., __Liu, T.__, Elhai, J. D., & Montag, C. (2021). WeChat—Its problematic use and relations with the big five personality traits and fear of missing out. _Journal of Technology in Behavioral Science_. online. [DOI](https://link.springer.com/article/10.1007/s41347-020-00179-y)
 
 Xue, D., __Liu, T.*__, Chen, X., Liu, X., & Chao, M. (2021). Data on media use and mental health during the outbreak of COVID-19 in China. _Data in Brief_, _35_. [DOI](https://doi.org/10.1016/j.dib.2021.106765)
@@ -117,8 +119,6 @@ Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2021). Associations between Undergra
 Luo, J., __Liu, T.*__, & Wang Q. (2021). 	Affiliation weighted networks with a differentially private degree sequence. _Statistical Papers_, online. [DOI](https://link.springer.com/article/10.1007/s00362-021-01243-2)
 ###### -在印 (in press)-
 张环, 侯双, __刘拓*__, & 杨海波. (2021). 社会分享型提取诱发遗忘的性别差异：来自关系动机的影响作用. _心理科学_, 在印.
-
-芦旭蓉, __刘拓*__, & 廉宇煊. (2021). 独处行为与问题性手机使用的关系：一项元分析. _中国临床心理学杂志_, 在印.
 
 __刘拓__, 陈雪明, 芦旭蓉, & 杨莹. (2021). 父母积极教养方式对中学生应对方式的影响：社会支持、自我效能感的中介作用. _心理与行为研究_, 在印.
 
