@@ -15,6 +15,11 @@
   北京师范大学(Beijing Normal University), 心理学院(School of Psychology)
   
 ---
+### 人才计划(Talents projects)
+2019年，天津市“131”创新型人才培养工程第三层次
+2020年，天津市高校青年后备人才支持计划
+
+---
 ### 研究领域(Research areas)
 - 项目反应理论（Item Response Theory）
 - 认知诊断模型（Cognitive Diagnostic Model）
@@ -171,7 +176,7 @@ Ren, S., Lu, X., Wang, Q., & __Liu, T.*__ (2021). The Difference and Relationshi
 Zhang, S., Chen, X., Li, Y., & __Liu, T.*__ (2021). Undergraduates' interpersonal relationship and mental health based on social network analysis. Paper presented at 2021 32nd International Congress of Psychology, Prague, Czech Republic.
 
 ---
-### 主持项目(Projects)
+### 主持项目(Grants)
 2017-2018年，联合国儿童基金会2016－2020周期爱生学校西部五县学业评估，联合国儿童基金会，53WC1702，省部级，主持人。
 
 2018-2019年，项目反应理论框架下的多项选择题设计，天津师范大学博士基金，135302WW1712，校级，主持人。
