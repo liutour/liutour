@@ -113,6 +113,8 @@ Chen, X., __Liu, T.*__, Li, P., Wei, W., & Chao, M. (2020). The Relationship bet
 
 芦旭蓉, __刘拓*__, & 廉宇煊. (2021). 独处行为与问题性手机使用的关系：一项元分析. _中国临床心理学杂志_, _29_, 725-733.
 
+李珍, 李小红, 陈晨, 王杉, & __刘拓__. (2021). STEM教育能提高中小学生学业成就吗？——基于国内外31项实证研究的元分析. _清华大学教育研究_, _42_, 118-129.
+
 Sindermann, C., Yang, H., __Liu, T.__, Elhai, J. D., & Montag, C. (2021). WeChat—Its problematic use and relations with the big five personality traits and fear of missing out. _Journal of Technology in Behavioral Science_. online. [DOI](https://link.springer.com/article/10.1007/s41347-020-00179-y)
 
 Xue, D., __Liu, T.*__, Chen, X., Liu, X., & Chao, M. (2021). Data on media use and mental health during the outbreak of COVID-19 in China. _Data in Brief_, _35_. [DOI](https://doi.org/10.1016/j.dib.2021.106765)
