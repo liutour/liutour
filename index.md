@@ -124,6 +124,8 @@ You, X., __Liu, T.*__, & Wang, M. C. (2021). Measurement Invariance of the React
 Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2021). Associations between Undergraduates’ Interpersonal Relationships and Mental Health in Perspective of Social Network Analysis. _Current Psychology_, online. [DOI](https://link.springer.com/article/10.1007/s12144-021-01629-3)
 
 Luo, J., __Liu, T.*__, & Wang Q. (2021). 	Affiliation weighted networks with a differentially private degree sequence. _Statistical Papers_, online. [DOI](https://link.springer.com/article/10.1007/s00362-021-01243-2)
+
+Li, M., Xu, Z., He, X., Zhang, J., Song, Rui., Duan, W., __Liu, T.,__ & Yang, H. (2021). Sense of Coherence and Mental Health in College Students After Returning to School During COVID-19: The Moderating Role of Media Exposure. _Frontiers in Psychology_, online. [DOI].(https://www.frontiersin.org/articles/10.3389/fpsyg.2021.687928/full)
 ###### -在印 (in press)-
 张环, 侯双, __刘拓*__, & 杨海波. (2021). 社会分享型提取诱发遗忘的性别差异：来自关系动机的影响作用. _心理科学_, 在印.
 
