@@ -109,11 +109,13 @@ Chao, M., Chen, X., __Liu, T.*__, Yang, H. B., & Hall, B. (2020). Psychological 
 
 Chen, X., __Liu, T.*__, Li, P., Wei, W., & Chao, M. (2020). The Relationship between Media Involvement and Death Anxiety of Self-quarantined People in the COVID-19 Outbreak in China: The Mediating Roles of Empathy and Sympathy. _OMEGA - Journal of Death and Dying_, online. [DOI](https://doi.org/10.1177/0030222820960283)
 ###### -2021-
-薛明锋, 陈平, __刘拓__, & 甄锋泉. (2021). 在GLMM框架下统一GT与IRT. _心理科学_, _44_, 449-456.
+__刘拓__, 陈雪明, 芦旭蓉, & 杨莹. (2021). 父母积极教养方式对中学生应对方式的影响：社会支持、自我效能感的中介作用. _心理与行为研究_, _19_, 507-514.
 
 芦旭蓉, __刘拓*__, & 廉宇煊. (2021). 独处行为与问题性手机使用的关系：一项元分析. _中国临床心理学杂志_, _29_, 725-733.
 
 李珍, 李小红, 陈晨, 王杉, & __刘拓__. (2021). STEM教育能提高中小学生学业成就吗？——基于国内外31项实证研究的元分析. _清华大学教育研究_, _42_, 118-129.
+
+薛明锋, 陈平, __刘拓__, & 甄锋泉. (2021). 在GLMM框架下统一GT与IRT. _心理科学_, _44_, 449-456.
 
 Sindermann, C., Yang, H., __Liu, T.__, Elhai, J. D., & Montag, C. (2021). WeChat—Its problematic use and relations with the big five personality traits and fear of missing out. _Journal of Technology in Behavioral Science_. online. [DOI](https://link.springer.com/article/10.1007/s41347-020-00179-y)
 
@@ -128,8 +130,6 @@ Luo, J., __Liu, T.*__, & Wang Q. (2021). 	Affiliation weighted networks with a d
 Li, M., Xu, Z., He, X., Zhang, J., Song, Rui., Duan, W., __Liu, T.,__ & Yang, H. (2021). Sense of Coherence and Mental Health in College Students After Returning to School During COVID-19: The Moderating Role of Media Exposure. _Frontiers in Psychology_, online. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.687928/full)
 ###### -在印 (in press)-
 张环, 侯双, __刘拓*__, & 杨海波. (2021). 社会分享型提取诱发遗忘的性别差异：来自关系动机的影响作用. _心理科学_, 在印.
-
-__刘拓__, 陈雪明, 芦旭蓉, & 杨莹. (2021). 父母积极教养方式对中学生应对方式的影响：社会支持、自我效能感的中介作用. _心理与行为研究_, 在印.
 
 Lu, X., __Liu, T.*__, Liu, X., Yang, H. B., & Elhai, J. (2021). Nomophobia and Relationships with Latent Classes of Solitude. _The Bulletin of the Menninger Clinic_, online.
 
