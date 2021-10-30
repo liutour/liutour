@@ -127,7 +127,7 @@ Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2021). Associations between Undergra
 
 Luo, J., __Liu, T.*__, & Wang Q. (2021). 	Affiliation weighted networks with a differentially private degree sequence. _Statistical Papers_, online. [DOI](https://link.springer.com/article/10.1007/s00362-021-01243-2)
 
-Luo J, Ren S, Li Y, & __Liu T.*__ (2021). The Effect of College Students' Adaptability on Nomophobia: Based on Lasso Regression. _Frontiers in Psychiatry_, online. [DOI].(https://www.frontiersin.org/articles/10.3389/fpsyt.2021.641417/full)
+Luo J, Ren S, Li Y, & __Liu T.*__ (2021). The Effect of College Students' Adaptability on Nomophobia: Based on Lasso Regression. _Frontiers in Psychiatry_, online. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.641417/full)
 
 Li, M., Xu, Z., He, X., Zhang, J., Song, Rui., Duan, W., __Liu, T.,__ & Yang, H. (2021). Sense of Coherence and Mental Health in College Students After Returning to School During COVID-19: The Moderating Role of Media Exposure. _Frontiers in Psychology_, online. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.687928/full)
 ###### -在印 (in press)-
