@@ -107,7 +107,7 @@ Chao, M., Xue, D., __Liu, T.*__, Yang, H. B., & Hall, B. (2020). Media use and a
 
 Chao, M., Chen, X., __Liu, T.*__, Yang, H. B., & Hall, B. (2020). Psychological distress and state boredom during the COVID-19 outbreak in China: The role of meaning in life and media use. _European Journal of Psychotraumatology_, _11_. [DOI](https://doi.org/10.1080/20008198.2020.1769379)
 
-Chen, X., __Liu, T.*__, Li, P., Wei, W., & Chao, M. (2020). The Relationship between Media Involvement and Death Anxiety of Self-quarantined People in the COVID-19 Outbreak in China: The Mediating Roles of Empathy and Sympathy. _OMEGA - Journal of Death and Dying_, online. [DOI](https://doi.org/10.1177/0030222820960283)
+Chen, X., __Liu, T.*__, Li, P., Wei, W., & Chao, M. (2020). The relationship between media involvement and death anxiety of self-quarantined people in the COVID-19 outbreak in China: The mediating roles of empathy and sympathy. _OMEGA - Journal of Death and Dying_, online. [DOI](https://doi.org/10.1177/0030222820960283)
 ###### -2021-
 __刘拓__, 陈雪明, 芦旭蓉, & 杨莹. (2021). 父母积极教养方式对中学生应对方式的影响：社会支持、自我效能感的中介作用. _心理与行为研究_, _19_, 507-514.
 
@@ -121,19 +121,19 @@ Sindermann, C., Yang, H., __Liu, T.__, Elhai, J. D., & Montag, C. (2021). WeChat
 
 Xue, D., __Liu, T.*__, Chen, X., Liu, X., & Chao, M. (2021). Data on media use and mental health during the outbreak of COVID-19 in China. _Data in Brief_, _35_. [DOI](https://doi.org/10.1016/j.dib.2021.106765)
 
-You, X., __Liu, T.*__, & Wang, M. C. (2021). Measurement Invariance of the Reactive and Proactive Aggression Questionnaire (RPQ) Across Self- and Other-reports. _Journal of Aggression, Maltreatment & Trauma_, _30_, 261-277. [DOI](http://dx.doi.org/10.1080/10926771.2020.1806973)
+You, X., __Liu, T.*__, & Wang, M. C. (2021). Measurement invariance of the reactive and proactive aggression questionnaire (RPQ) across self- and other-reports. _Journal of Aggression, Maltreatment & Trauma_, _30_, 261-277. [DOI](http://dx.doi.org/10.1080/10926771.2020.1806973)
 
-Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2021). Associations between Undergraduates’ Interpersonal Relationships and Mental Health in Perspective of Social Network Analysis. _Current Psychology_, online. [DOI](https://link.springer.com/article/10.1007/s12144-021-01629-3)
+Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2021). Associations between undergraduates’ interpersonal relationships and mental health in perspective of social network analysis. _Current Psychology_, online. [DOI](https://link.springer.com/article/10.1007/s12144-021-01629-3)
 
 Luo, J., __Liu, T.*__, & Wang Q. (2021). 	Affiliation weighted networks with a differentially private degree sequence. _Statistical Papers_, online. [DOI](https://link.springer.com/article/10.1007/s00362-021-01243-2)
 
-Luo J, Ren S, Li Y, & __Liu T.*__ (2021). The Effect of College Students' Adaptability on Nomophobia: Based on Lasso Regression. _Frontiers in Psychiatry_, 12:641417. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.641417/full)
+Luo J, Ren S, Li Y, & __Liu T.*__ (2021). The effect of college students' adaptability on nomophobia: Based on lasso regression. _Frontiers in Psychiatry_, 12:641417. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.641417/full)
 
-Li, M., Xu, Z., He, X., Zhang, J., Song, Rui., Duan, W., __Liu, T.,__ & Yang, H. (2021). Sense of Coherence and Mental Health in College Students After Returning to School During COVID-19: The Moderating Role of Media Exposure. _Frontiers in Psychology_, 12:687928. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.687928/full)
+Li, M., Xu, Z., He, X., Zhang, J., Song, Rui., Duan, W., __Liu, T.,__ & Yang, H. (2021). Sense of coherence and mental health in college students after returning to school during COVID-19: The moderating role of media exposure. _Frontiers in Psychology_, 12:687928. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.687928/full)
 ###### -在印 (in press)-
 张环, 侯双, __刘拓*__, & 杨海波. (2021). 社会分享型提取诱发遗忘的性别差异：来自关系动机的影响作用. _心理科学_, 在印.
 
-Lu, X., __Liu, T.*__, Liu, X., Yang, H. B., & Elhai, J. (2021). Nomophobia and Relationships with Latent Classes of Solitude. _The Bulletin of the Menninger Clinic_, online.
+Lu, X., __Liu, T.*__, Liu, X., Yang, H. B., & Elhai, J. (2021). Nomophobia and relationships with latent classes of solitude. _The Bulletin of the Menninger Clinic_, online.
 
 #### 会议(Presentations)
 ###### -国内-
