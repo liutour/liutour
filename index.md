@@ -135,6 +135,8 @@ Li, M., Xu, Z., He, X., Zhang, J., Song, Rui., Duan, W., __Liu, T.,__ & Yang, H.
 
 Lu, X., __Liu, T.*__, Liu, X., Yang, H. B., & Elhai, J. (2021). Nomophobia and relationships with latent classes of solitude. _The Bulletin of the Menninger Clinic_, online.
 
+Zhang, S., __Liu, T.*__, Liu, X., & Chao, M. (2022). Network Analysis of Media Exposure and Psychological Outcomes during the Initial Outbreak of COVID-19 in China. _International Journal of Mental Health and Addiction_, in press.
+
 #### 会议(Presentations)
 ###### -国内-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
