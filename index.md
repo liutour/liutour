@@ -67,45 +67,45 @@ __Liu, T__., Wang, M. C., & Xin, T. (2017). An investigation of enhancement of a
 
 姜琨, 陶佳雨, 孟珠, __刘拓__, 刘海涵, & 李承锋. (2018). 聋人大学生适应量表的修订. _心理与行为研究_, _16_, 854-859.
 ###### -2019-
-赵祁伟，刘和珺，王琦，& __刘拓*__. (2019).社会排斥的神经机制：基于fMRI研究的元分析. _中国临床心理学杂志_, _27_, 436-442.
+郝嘉佳, 陈英和, __刘拓__, & 白学军. (2019). 儿童青少年一般思维能力测验的编制和初步应用. _心理与行为研究_, _17_, 620-626.
+
+林琳，何海平， 刘羽， 杨洋， 莫娟婵， 王晨旭， & __刘拓__. (2019). 负性情绪对自杀危险的影响：自伤行为的中介作用. _黑龙江高教研究_，_5_, 83-87.
 
 林琳, 刘俊岐, 杨洋, 刘羽, 王晨旭, __刘拓__, 于馨, & 贾绪计. (2019).负性生活事件对大学生自杀意念的影响-反刍思维的中介作用和气质性乐观的调节作用. _心理与行为研究_, _17_, 569-576.
 
-林琳， 何海平， 刘羽， 杨洋， 莫娟婵， 王晨旭， & __刘拓*__. (2019). 负性情绪对自杀危险的影响：自伤行为的中介作用. _黑龙江高教研究_，_5_, 83-87.
-
 罗杰, 陈维, 杨桂芳, 吴丹萍, & __刘拓*__. (2019). 大学生主动性人格对其拖延行为的影响：核心自我评价的中介作用. _心理与行为研究_, _17_, 692-698.
 
-郝嘉佳, 陈英和, __刘拓__, & 白学军. (2019). 儿童青少年一般思维能力测验的编制和初步应用. _心理与行为研究_, _17_, 620-626.
+赵祁伟，刘和珺，王琦，& __刘拓*__. (2019).社会排斥的神经机制：基于fMRI研究的元分析. _中国临床心理学杂志_, _27_, 436-442.
 
 __Liu, T.__, Lan, T., & Xin, T. (2019). Detecting random responses in a personality scale using IRT-based person-fit indices. _European Journal of Psychological Assessment_, _35_, 126-136. [DOI](https://doi.org/10.1027/1015-5759/a000369)
 
-**Liu, T.**, Sun, Y. C., Li, Z., & Xin, T. (2019). The impact of aberrant response on reliability and validity. _Measurement: Interdisciplinary Research and Perspectives_, _17_, 133-142. [DOI](https://10.1080/15366367.2019.1584848)
+__Liu, T.__, Sun, Y. C., Li, Z., & Xin, T. (2019). The impact of aberrant response on reliability and validity. _Measurement: Interdisciplinary Research and Perspectives_, _17_, 133-142. [DOI](https://10.1080/15366367.2019.1584848)
 
 Mo, J., Wang, C., Niu, X., Jia, X., __Liu, T.__, Lin, L. (2019). The relationship between impulsivity and self-injury in Chinese undergraduates: the chain mediating role of stressful life events and negative affect. _Journal of Affective Disorders_, _256_, 259-266. [DOI](https://doi.org/10.1016/j.jad.2019.05.074)
 
 Wang, Y. H., Yang, Z. X., Zhang, Y. B., Wang, F. M., __Liu, T.__, & Xin, T. (2019). The effect of social-emotional competency on child development in western China. _Frontiers in Psychology_, 10:1282. [DOI](https://doi.org/10.3389/fpsyg.2019.01282)
 ###### -2020-
+__刘拓__, 古丽给娜, 杨莹, 任世秀, & 钞淼. (2020). 人格与无手机恐惧的关系：独处行为的中介作用. _心理与行为研究_, _18_, 268-274.
+
 任世秀, 古丽给娜, & __刘拓*__.(2020). 中文版无手机恐惧量表的修订. _心理学探新_, _40_, 247-253.
 
-__刘拓__, 古丽给娜, 杨莹, 任世秀, & 钞淼. (2020). 人格与无手机恐惧的关系：独处行为的中介作用. _心理与行为研究_, _18_, 268-274.
+原露, 元英, 杜宵丰, 辛涛, __刘拓__, & 罗雪峰. (2020). 主观规范对数学学习行为的影响：数学兴趣的中介作用. _数学教育学报_, _29_, 14-19.
 
 张舒, __刘拓*__, 夏方婧, & 李雨桐. (2020). 大学生人际关系与心理健康的社会网络分析. _中国心理卫生杂志_, _34_, 855-859.
 
 张严文, __刘拓*__. (2020). 父母消极教养方式对中国性少数心理健康的影响：基于Bifactor模型. _心理科学_, _43_, 1103-1110.
 
-原露, 元英, 杜宵丰, 辛涛, __刘拓__, & 罗雪峰. (2020). 主观规范对数学学习行为的影响：数学兴趣的中介作用. _数学教育学报_, _29_, 14-19.
-
-Chen, X., __Liu, T.*__, Luo, J., & Ren, S. (2020). Data for teenagers' stressor, mental health, coping style, social support, parenting style and self-efficacy in South China. _Data in Brief_, _29_. [DOI](https://doi.org/10.1016/j.dib.2020.105202)
-
-__Liu, T.__, Chen, X., Liu, M., Zhang, Y. Xin, T., Wang, Y. (2020). The effects of children’s self-educational aspiration and self-efficacy on mathematics achievement: a moderated chained mediation model. _Annals of Psychology_, _36_, 262-270. [DOI](https://doi.org/10.6018/analesps.366621)
-
-Elhai, J. D., Rozgonjuk, D., __Liu, T.__, & Yang, H. (2020). Fear of missing out is related to repeated measurements of negative affect over one week using experience sampling methodology. _Journal of Affective Disorders_, _262_, 298-303. [DOI](https://doi.org/10.1016/j.jad.2019.11.026)
-
-Luo, J., __Liu, T.*__, Wu, J., & Ali S. W. A. (2020). Asymptotic in undirected random graph models with a noisy degree sequence. _Communications in Statistics – Theory and Methods_, online. [DOI](https://doi.org/10.1080/03610926.2020.1755870)
+Chao, M., Chen, X., __Liu, T.*__, Yang, H. B., & Hall, B. (2020). Psychological distress and state boredom during the COVID-19 outbreak in China: The role of meaning in life and media use. _European Journal of Psychotraumatology_, _11_. [DOI](https://doi.org/10.1080/20008198.2020.1769379)
 
 Chao, M., Xue, D., __Liu, T.*__, Yang, H. B., & Hall, B. (2020). Media use and acute psychological outcomes during COVID-19 outbreak in China. _Journal of Anxiety Disorders_, _74_. [DOI](https://doi.org/10.1016/j.janxdis.2020.102248)
 
-Chao, M., Chen, X., __Liu, T.*__, Yang, H. B., & Hall, B. (2020). Psychological distress and state boredom during the COVID-19 outbreak in China: The role of meaning in life and media use. _European Journal of Psychotraumatology_, _11_. [DOI](https://doi.org/10.1080/20008198.2020.1769379)
+Chen, X., __Liu, T.*__, Luo, J., & Ren, S. (2020). Data for teenagers' stressor, mental health, coping style, social support, parenting style and self-efficacy in South China. _Data in Brief_, _29_. [DOI](https://doi.org/10.1016/j.dib.2020.105202)
+
+Elhai, J. D., Rozgonjuk, D., __Liu, T.__, & Yang, H. (2020). Fear of missing out is related to repeated measurements of negative affect over one week using experience sampling methodology. _Journal of Affective Disorders_, _262_, 298-303. [DOI](https://doi.org/10.1016/j.jad.2019.11.026)
+
+__Liu, T.__, Chen, X., Liu, M., Zhang, Y. Xin, T., Wang, Y. (2020). The effects of children’s self-educational aspiration and self-efficacy on mathematics achievement: a moderated chained mediation model. _Annals of Psychology_, _36_, 262-270. [DOI](https://doi.org/10.6018/analesps.366621)
+
+Luo, J., __Liu, T.*__, Wu, J., & Ali S. W. A. (2020). Asymptotic in undirected random graph models with a noisy degree sequence. _Communications in Statistics – Theory and Methods_, online. [DOI](https://doi.org/10.1080/03610926.2020.1755870)
 
 Chen, X., __Liu, T.*__, Li, P., Wei, W., & Chao, M. (2020). The relationship between media involvement and death anxiety of self-quarantined people in the COVID-19 outbreak in China: The mediating roles of empathy and sympathy. _OMEGA - Journal of Death and Dying_, online. [DOI](https://doi.org/10.1177/0030222820960283)
 ###### -2021-
