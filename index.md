@@ -131,9 +131,9 @@ You, X., __Liu, T.*__, & Wang, M. C. (2021). Measurement invariance of the react
 
 Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2021). Associations between undergraduates’ interpersonal relationships and mental health in perspective of social network analysis. _Current Psychology_, online. [DOI](https://link.springer.com/article/10.1007/s12144-021-01629-3)
 ###### -在印 (in press)-
-张环, 侯双, __刘拓*__, & 杨海波. (2021). 社会分享型提取诱发遗忘的性别差异：来自关系动机的影响作用. _心理科学_, 在印.
+张环, 侯双, __刘拓*__, & 杨海波. (2022). 社会分享型提取诱发遗忘的性别差异：来自关系动机的影响作用. _心理科学_, 在印.
 
-Lu, X., __Liu, T.*__, Liu, X., Yang, H. B., & Elhai, J. (2021). Nomophobia and relationships with latent classes of solitude. _The Bulletin of the Menninger Clinic_, online.
+Lu, X., __Liu, T.*__, Liu, X., Yang, H. B., & Elhai, J. (2022). Nomophobia and relationships with latent classes of solitude. _The Bulletin of the Menninger Clinic_, in press.
 
 Zhang, S., __Liu, T.*__, Liu, X., & Chao, M. (2022). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. _International Journal of Mental Health and Addiction_, in press.
 
