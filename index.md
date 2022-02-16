@@ -137,6 +137,8 @@ Zhang, S., __Liu, T.*__, Liu, X., & Chao, M. (2022). Network analysis of media e
 ###### -在印 (in press)-
 Lu, X., __Liu, T.*__, Liu, X., Yang, H. B., & Elhai, J. (2022). Nomophobia and relationships with latent classes of solitude. _The Bulletin of the Menninger Clinic_, in press.
 
+__Liu, T.__, Zhang, S., & Zhang, H.(2022). Exposure to COVID-19-related media content and mental health during the initial outbreak of COVID-19 in China. _Scandinavian Journal of Psychology_, in press.
+
 #### 会议(Presentations)
 ###### -国内-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
