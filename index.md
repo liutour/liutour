@@ -130,12 +130,12 @@ Xue, D., __Liu, T.*__, Chen, X., Liu, X., & Chao, M. (2021). Data on media use a
 You, X., __Liu, T.*__, & Wang, M. C. (2021). Measurement invariance of the reactive and proactive aggression questionnaire (RPQ) across self- and other-reports. _Journal of Aggression, Maltreatment & Trauma_, _30_, 261-277. [DOI](http://dx.doi.org/10.1080/10926771.2020.1806973)
 
 Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2021). Associations between undergraduates’ interpersonal relationships and mental health in perspective of social network analysis. _Current Psychology_, online. [DOI](https://link.springer.com/article/10.1007/s12144-021-01629-3)
+###### -2022-
+张环, 侯双, __刘拓*__, & 杨海波. (2022). 社会分享型提取诱发遗忘的性别差异：来自关系动机的影响作用. _心理科学_, _45_, 142-148.
+
+Zhang, S., __Liu, T.*__, Liu, X., & Chao, M. (2022). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. _International Journal of Mental Health and Addiction_, online. [DOI](https://doi.org/10.1007/s11469-021-00738-1)
 ###### -在印 (in press)-
-张环, 侯双, __刘拓*__, & 杨海波. (2022). 社会分享型提取诱发遗忘的性别差异：来自关系动机的影响作用. _心理科学_, 在印.
-
 Lu, X., __Liu, T.*__, Liu, X., Yang, H. B., & Elhai, J. (2022). Nomophobia and relationships with latent classes of solitude. _The Bulletin of the Menninger Clinic_, in press.
-
-Zhang, S., __Liu, T.*__, Liu, X., & Chao, M. (2022). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. _International Journal of Mental Health and Addiction_, in press.
 
 #### 会议(Presentations)
 ###### -国内-
