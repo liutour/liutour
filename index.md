@@ -133,13 +133,13 @@ Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2021). Associations between undergra
 ###### -2022-
 张环, 侯双, __刘拓*__, & 杨海波. (2022). 社会分享型提取诱发遗忘的性别差异：来自关系动机的影响作用. _心理科学_, _45_, 142-148.
 
+罗杰，芦旭蓉，__刘拓*__. (2022). 简版独处行为量表的修订及信效度分析. _中华行为医学与脑科学杂志_. _31_, 174-179.
+
+Lu, X., __Liu, T.*__, Liu, X., Yang, H. B., & Elhai, J. (2022). Nomophobia and relationships with latent classes of solitude. _The Bulletin of the Menninger Clinic_, _86_, 1-19.  [DOI](https://doi.org/10.1521/bumc.2022.86.1.1)
+
 Zhang, S., __Liu, T.*__, Liu, X., & Chao, M. (2022). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. _International Journal of Mental Health and Addiction_, online. [DOI](https://doi.org/10.1007/s11469-021-00738-1)
 ###### -在印 (in press)-
-罗杰，芦旭蓉，__刘拓*__. (2022). 简版独处行为量表的修订及信效度分析. _中华行为医学与脑科学杂志_. in press.
-
-Lu, X., __Liu, T.*__, Liu, X., Yang, H. B., & Elhai, J. (2022). Nomophobia and relationships with latent classes of solitude. _The Bulletin of the Menninger Clinic_, in press.
-
-__Liu, T.__, Zhang, S., & Zhang, H. (2022). Exposure to COVID-19-related media content and mental health during the initial outbreak of COVID-19 in China. _Scandinavian Journal of Psychology_, in press.
+__Liu, T.__, Zhang, S., & Zhang, H. (2022). Exposure to COVID-19-related media content and mental health during the initial outbreak of COVID-19 in China. _Scandinavian Journal of Psychology_, in press. [DOI](https://doi.org/10.1111/sjop.12805)
 
 #### 会议(Presentations)
 ###### -国内-
