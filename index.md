@@ -117,8 +117,6 @@ __刘拓__, 陈雪明, 芦旭蓉, & 杨莹. (2021). 父母积极教养方式对�
 
 薛明锋, 陈平, __刘拓__, & 甄锋泉. (2021). 在GLMM框架下统一GT与IRT. _心理科学_, _44_, 449-456.
 
-Luo, J., __Liu, T.*__, & Wang Q. (2021). 	Affiliation weighted networks with a differentially private degree sequence. _Statistical Papers_, online. [DOI](https://link.springer.com/article/10.1007/s00362-021-01243-2)
-
 Luo J, Ren S, Li Y, & __Liu T.*__ (2021). The effect of college students' adaptability on nomophobia: Based on lasso regression. _Frontiers in Psychiatry_, 12:641417. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.641417/full)
 
 Li, M., Xu, Z., He, X., Zhang, J., Song, Rui., Duan, W., __Liu, T.,__ & Yang, H. (2021). Sense of coherence and mental health in college students after returning to school during COVID-19: The moderating role of media exposure. _Frontiers in Psychology_, 12:687928. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.687928/full)
@@ -137,9 +135,12 @@ Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2021). Associations between undergra
 
 Lu, X., __Liu, T.*__, Liu, X., Yang, H. B., & Elhai, J. (2022). Nomophobia and relationships with latent classes of solitude. _The Bulletin of the Menninger Clinic_, _86_, 1-19.  [DOI](https://doi.org/10.1521/bumc.2022.86.1.1)
 
+Luo, J., __Liu, T.*__, & Wang Q. (2021). 	Affiliation weighted networks with a differentially private degree sequence. _Statistical Papers_, _63_, 367-395. [DOI](https://link.springer.com/article/10.1007/s00362-021-01243-2)
+
 Zhang, S., __Liu, T.*__, Liu, X., & Chao, M. (2022). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. _International Journal of Mental Health and Addiction_, online. [DOI](https://doi.org/10.1007/s11469-021-00738-1)
+
+__Liu, T.__, Zhang, S., & Zhang, H. (2022). Exposure to COVID-19-related media content and mental health during the initial outbreak of COVID-19 in China. _Scandinavian Journal of Psychology_, online. [DOI](https://doi.org/10.1111/sjop.12805)
 ###### -在印 (in press)-
-__Liu, T.__, Zhang, S., & Zhang, H. (2022). Exposure to COVID-19-related media content and mental health during the initial outbreak of COVID-19 in China. _Scandinavian Journal of Psychology_, in press. [DOI](https://doi.org/10.1111/sjop.12805)
 
 #### 会议(Presentations)
 ###### -国内-
