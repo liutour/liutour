@@ -137,9 +137,11 @@ Luo, J., __Liu, T.*__, & Wang Q. (2022). 	Affiliation weighted networks with a d
 
 Luo, J., __Liu, T.*__, Wu, J., & Ali S. W. A. (2022). Asymptotic in undirected random graph models with a noisy degree sequence. _Communications in Statistics – Theory and Methods_, _51_, 789-810. [DOI](https://doi.org/10.1080/03610926.2020.1755870)
 
-Liu, X., Lu, H., Zhou, Z., Chao, M., & __Liu, T.*__ (2022) Development of a Computerized Adaptive Test for Problematic Mobile Phone Use. _Frontiers in Psychology_, 13:892387. [DOI](https://doi.org/10.3389/fpsyg.2022.892387)
+Liu, X., Lu, H., Zhou, Z., Chao, M., & __Liu, T.*__ (2022) Development of a Computerized Adaptive Test for Problematic Mobile Phone Use. _Frontiers in Psychology_, 13:892387. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.892387/full)
 
 __Liu, T.__, Zhang, S., & Zhang, H. (2022). Exposure to COVID-19-related media content and mental health during the initial outbreak of COVID-19 in China. _Scandinavian Journal of Psychology_, online. [DOI](https://doi.org/10.1111/sjop.12805)
+
+Yang, J., Zhang, Y., Li, P., Zhang, H., & __Liu, T.*__. (2022). College Students’ Academic Stressors on Mental Health during the COVID-19 Pandemic: A Comparison between Graduating Students and Non-Graduating Students. _International Journal of Mental Health Promotion_, _24_, 603–618. [DOI](https://www.techscience.com/IJMHP/v24n4/47989)
 
 Zhang, S., __Liu, T.*__, Liu, X., & Chao, M. (2022). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. _International Journal of Mental Health and Addiction_, online. [DOI](https://doi.org/10.1007/s11469-021-00738-1)
 ###### -在印 (in press)-
