@@ -105,8 +105,6 @@ Elhai, J. D., Rozgonjuk, D., __Liu, T.__, & Yang, H. (2020). Fear of missing out
 
 __Liu, T.__, Chen, X., Liu, M., Zhang, Y. Xin, T., Wang, Y. (2020). The effects of children’s self-educational aspiration and self-efficacy on mathematics achievement: a moderated chained mediation model. _Annals of Psychology_, _36_, 262-270. [DOI](https://doi.org/10.6018/analesps.366621)
 
-Luo, J., __Liu, T.*__, Wu, J., & Ali S. W. A. (2020). Asymptotic in undirected random graph models with a noisy degree sequence. _Communications in Statistics – Theory and Methods_, online. [DOI](https://doi.org/10.1080/03610926.2020.1755870)
-
 Chen, X., __Liu, T.*__, Li, P., Wei, W., & Chao, M. (2020). The relationship between media involvement and death anxiety of self-quarantined people in the COVID-19 outbreak in China: The mediating roles of empathy and sympathy. _OMEGA - Journal of Death and Dying_, online. [DOI](https://doi.org/10.1177/0030222820960283)
 ###### -2021-
 __刘拓__, 陈雪明, 芦旭蓉, & 杨莹. (2021). 父母积极教养方式对中学生应对方式的影响：社会支持、自我效能感的中介作用. _心理与行为研究_, _19_, 507-514.
@@ -136,6 +134,8 @@ Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2021). Associations between undergra
 Lu, X., __Liu, T.*__, Liu, X., Yang, H. B., & Elhai, J. (2022). Nomophobia and relationships with latent classes of solitude. _The Bulletin of the Menninger Clinic_, _86_, 1-19.  [DOI](https://doi.org/10.1521/bumc.2022.86.1.1)
 
 Luo, J., __Liu, T.*__, & Wang Q. (2021). 	Affiliation weighted networks with a differentially private degree sequence. _Statistical Papers_, _63_, 367-395. [DOI](https://link.springer.com/article/10.1007/s00362-021-01243-2)
+
+Luo, J., __Liu, T.*__, Wu, J., & Ali S. W. A. (2022). Asymptotic in undirected random graph models with a noisy degree sequence. _Communications in Statistics – Theory and Methods_, _51_. [DOI](https://doi.org/10.1080/03610926.2020.1755870)
 
 Zhang, S., __Liu, T.*__, Liu, X., & Chao, M. (2022). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. _International Journal of Mental Health and Addiction_, online. [DOI](https://doi.org/10.1007/s11469-021-00738-1)
 
