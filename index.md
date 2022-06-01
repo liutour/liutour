@@ -133,9 +133,9 @@ Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2021). Associations between undergra
 
 Lu, X., __Liu, T.*__, Liu, X., Yang, H. B., & Elhai, J. (2022). Nomophobia and relationships with latent classes of solitude. _The Bulletin of the Menninger Clinic_, _86_, 1-19.  [DOI](https://doi.org/10.1521/bumc.2022.86.1.1)
 
-Luo, J., __Liu, T.*__, & Wang Q. (2021). 	Affiliation weighted networks with a differentially private degree sequence. _Statistical Papers_, _63_, 367-395. [DOI](https://link.springer.com/article/10.1007/s00362-021-01243-2)
+Luo, J., __Liu, T.*__, & Wang Q. (2022). 	Affiliation weighted networks with a differentially private degree sequence. _Statistical Papers_, _63_, 367-395. [DOI](https://link.springer.com/article/10.1007/s00362-021-01243-2)
 
-Luo, J., __Liu, T.*__, Wu, J., & Ali S. W. A. (2022). Asymptotic in undirected random graph models with a noisy degree sequence. _Communications in Statistics – Theory and Methods_, _51_. [DOI](https://doi.org/10.1080/03610926.2020.1755870)
+Luo, J., __Liu, T.*__, Wu, J., & Ali S. W. A. (2022). Asymptotic in undirected random graph models with a noisy degree sequence. _Communications in Statistics – Theory and Methods_, _51_, 789-810. [DOI](https://doi.org/10.1080/03610926.2020.1755870)
 
 Zhang, S., __Liu, T.*__, Liu, X., & Chao, M. (2022). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. _International Journal of Mental Health and Addiction_, online. [DOI](https://doi.org/10.1007/s11469-021-00738-1)
 
