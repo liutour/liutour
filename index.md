@@ -137,6 +137,8 @@ Luo, J., __Liu, T.*__, & Wang Q. (2022). 	Affiliation weighted networks with a d
 
 Luo, J., __Liu, T.*__, Wu, J., & Ali S. W. A. (2022). Asymptotic in undirected random graph models with a noisy degree sequence. _Communications in Statistics – Theory and Methods_, _51_, 789-810. [DOI](https://doi.org/10.1080/03610926.2020.1755870)
 
+Liu, X., __Liu, T.*__, Liu, X. Lu, X. & Li, Y. (2022). Data on mobile phone use, adaptability and adult attachment among college students in China. _Data in Brief, _43_. [DOI](https://doi.org/10.1016/j.dib.2022.108397)
+
 Liu, X., Lu, H., Zhou, Z., Chao, M., & __Liu, T.*__ (2022) Development of a Computerized Adaptive Test for Problematic Mobile Phone Use. _Frontiers in Psychology_, 13:892387. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.892387/full)
 
 __Liu, T.__, Zhang, S., & Zhang, H. (2022). Exposure to COVID-19-related media content and mental health during the initial outbreak of COVID-19 in China. _Scandinavian Journal of Psychology_, _63_, 283-289. [DOI](https://doi.org/10.1111/sjop.12805)
