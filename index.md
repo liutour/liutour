@@ -147,7 +147,9 @@ Yang, J., Zhang, Y., Li, P., Zhang, H., & __Liu, T.*__. (2022). College Students
 
 Zhang, S., __Liu, T.*__, Liu, X., & Chao, M. (2022). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. _International Journal of Mental Health and Addiction_, online. [DOI](https://doi.org/10.1007/s11469-021-00738-1)
 ###### -在印 (in press)-
+李雨欣, 张艺馨, 冯万庆, __刘拓*__. (0000). 毒品成瘾多维心理因素评估量表的初步编制. _现代预防医学_, 在印.
 
+Sun, Y., Yang, J., Li, M., & __Liu, T.*__ (0000).The Association between neuroticism and nomophobia: Chain mediating effect of attachment and loneliness. _Internaltional Journal of Mental Health and Addiction_, in press.
 #### 会议(Presentations)
 ###### -国内-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
