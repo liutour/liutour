@@ -104,8 +104,6 @@ Chen, X., __Liu, T.*__, Luo, J., & Ren, S. (2020). Data for teenagers' stressor,
 Elhai, J. D., Rozgonjuk, D., __Liu, T.__, & Yang, H. (2020). Fear of missing out is related to repeated measurements of negative affect over one week using experience sampling methodology. _Journal of Affective Disorders_, _262_, 298-303. [DOI](https://doi.org/10.1016/j.jad.2019.11.026)
 
 __Liu, T.__, Chen, X., Liu, M., Zhang, Y. Xin, T., Wang, Y. (2020). The effects of children’s self-educational aspiration and self-efficacy on mathematics achievement: a moderated chained mediation model. _Annals of Psychology_, _36_, 262-270. [DOI](https://doi.org/10.6018/analesps.366621)
-
-Chen, X., __Liu, T.*__, Li, P., Wei, W., & Chao, M. (2020). The relationship between media involvement and death anxiety of self-quarantined people in the COVID-19 outbreak in China: The mediating roles of empathy and sympathy. _OMEGA - Journal of Death and Dying_, online. [DOI](https://doi.org/10.1177/0030222820960283)
 ###### -2021-
 __刘拓__, 陈雪明, 芦旭蓉, & 杨莹. (2021). 父母积极教养方式对中学生应对方式的影响：社会支持、自我效能感的中介作用. _心理与行为研究_, _19_, 507-514.
 
@@ -130,6 +128,8 @@ Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2021). Associations between undergra
 张环, 侯双, __刘拓*__, & 杨海波. (2022). 社会分享型提取诱发遗忘的性别差异：来自关系动机的影响作用. _心理科学_, _45_, 142-148.
 
 罗杰，芦旭蓉，__刘拓*__. (2022). 简版独处行为量表的修订及信效度分析. _中华行为医学与脑科学杂志_. _31_, 174-179.
+
+Chen, X., __Liu, T.*__, Li, P., Wei, W., & Chao, M. (2020). The relationship between media involvement and death anxiety of self-quarantined people in the COVID-19 outbreak in China: The mediating roles of empathy and sympathy. _OMEGA - Journal of Death and Dying_, _85_, 974-989. [DOI](https://doi.org/10.1177/0030222820960283)
 
 Lu, X., __Liu, T.*__, Liu, X., Yang, H. B., & Elhai, J. (2022). Nomophobia and relationships with latent classes of solitude. _The Bulletin of the Menninger Clinic_, _86_, 1-19.  [DOI](https://doi.org/10.1521/bumc.2022.86.1.1)
 
