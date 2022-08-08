@@ -119,7 +119,7 @@ Li, M., Xu, Z., He, X., Zhang, J., Song, Rui., Duan, W., __Liu, T.,__ & Yang, H.
 
 Sindermann, C., Yang, H., __Liu, T.__, Elhai, J. D., & Montag, C. (2021). WeChat—Its problematic use and relations with the big five personality traits and fear of missing out. _Journal of Technology in Behavioral Science_. _6_, 397–405. [DOI](https://link.springer.com/article/10.1007/s41347-020-00179-y)
 
-Xue, D., __Liu, T.*__, Chen, X., Liu, X., & Chao, M. (2021). Data on media use and mental health during the outbreak of COVID-19 in China. _Data in Brief, 35_. [DOI](https://doi.org/10.1016/j.dib.2021.106765)
+Xue, D., __Liu, T.*__, Chen, X., Liu, X., & Chao, M. (2021). Data on media use and mental health during the outbreak of COVID-19 in China. _Data in Brief_, _35_. [DOI](https://doi.org/10.1016/j.dib.2021.106765)
 
 You, X., __Liu, T.*__, & Wang, M. C. (2021). Measurement invariance of the reactive and proactive aggression questionnaire (RPQ) across self- and other-reports. _Journal of Aggression, Maltreatment & Trauma_, _30_, 261-277. [DOI](http://dx.doi.org/10.1080/10926771.2020.1806973)
 
@@ -137,7 +137,7 @@ Luo, J., __Liu, T.*__, & Wang Q. (2022). 	Affiliation weighted networks with a d
 
 Luo, J., __Liu, T.*__, Wu, J., & Ali S. W. A. (2022). Asymptotic in undirected random graph models with a noisy degree sequence. _Communications in Statistics – Theory and Methods_, _51_, 789-810. [DOI](https://doi.org/10.1080/03610926.2020.1755870)
 
-Liu, X., __Liu, T.*__, Liu, X. Lu, X. & Li, Y. (2022). Data on mobile phone use, adaptability and adult attachment among college students in China. _Data in Brief, _43_. [DOI](https://doi.org/10.1016/j.dib.2022.108397)
+Liu, X., __Liu, T.*__, Liu, X. Lu, X. & Li, Y. (2022). Data on mobile phone use, adaptability and adult attachment among college students in China. _Data in Brief_, _43_. [DOI](https://doi.org/10.1016/j.dib.2022.108397)
 
 Liu, X., Lu, H., Zhou, Z., Chao, M., & __Liu, T.*__ (2022) Development of a Computerized Adaptive Test for Problematic Mobile Phone Use. _Frontiers in Psychology_, 13:892387. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.892387/full)
 
