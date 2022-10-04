@@ -143,7 +143,7 @@ Liu, X., __Liu, T.*__, Liu, X. Lu, X. & Li, Y. (2022). Data on mobile phone use,
 
 Liu, X., Lu, H., Zhou, Z., Chao, M., & __Liu, T.*__ (2022) Development of a Computerized Adaptive Test for Problematic Mobile Phone Use. _Frontiers in Psychology_, 13:892387. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.892387/full)
 
-Li, P., Yang, J., Zhou, Z., Zhao, Z., & __Liu, T.*__. (2022). The influence of college students’ academic stressors on mental health during COVID-19: The mediating effect of social support, social well-being, and self-identity. _Frontiers in Public Health_, online. 10:917581. [DOI](https://doi:10.3389/fpubh.2022.917581)
+Li, P., Yang, J., Zhou, Z., Zhao, Z., & __Liu, T.*__. (2022). The influence of college students’ academic stressors on mental health during COVID-19: The mediating effect of social support, social well-being, and self-identity. _Frontiers in Public Health_, online. 10:917581. [DOI](https://doi.org/10.3389/fpubh.2022.917581)
 
 __Liu, T.__, Zhang, S., & Zhang, H. (2022). Exposure to COVID-19-related media content and mental health during the initial outbreak of COVID-19 in China. _Scandinavian Journal of Psychology_, _63_, 283-289. [DOI](https://doi.org/10.1111/sjop.12805)
 
