@@ -129,6 +129,8 @@ Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2021). Associations between undergra
 
 罗杰，芦旭蓉，__刘拓*__. (2022). 简版独处行为量表的修订及信效度分析. _中华行为医学与脑科学杂志_. _31_, 174-179.
 
+李雨欣, 张艺馨, 冯万庆, __刘拓*__. (2022). 毒品成瘾多维心理因素评估量表的初步编制. _现代预防医学_, _49_, 3390-3395.
+
 Chen, X., __Liu, T.*__, Li, P., Wei, W., & Chao, M. (2020). The relationship between media involvement and death anxiety of self-quarantined people in the COVID-19 outbreak in China: The mediating roles of empathy and sympathy. _OMEGA - Journal of Death and Dying_, _85_, 974-989. [DOI](https://doi.org/10.1177/0030222820960283)
 
 Lu, X., __Liu, T.*__, Liu, X., Yang, H. B., & Elhai, J. (2022). Nomophobia and relationships with latent classes of solitude. _The Bulletin of the Menninger Clinic_, _86_, 1-19.  [DOI](https://doi.org/10.1521/bumc.2022.86.1.1)
@@ -141,6 +143,8 @@ Liu, X., __Liu, T.*__, Liu, X. Lu, X. & Li, Y. (2022). Data on mobile phone use,
 
 Liu, X., Lu, H., Zhou, Z., Chao, M., & __Liu, T.*__ (2022) Development of a Computerized Adaptive Test for Problematic Mobile Phone Use. _Frontiers in Psychology_, 13:892387. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.892387/full)
 
+Li, P., Yang, J., Zhou, Z., Zhao, Z., & __Liu, T.*__. (2022). The influence of college students’ academic stressors on mental health during COVID-19: The mediating effect of social support, social well-being, and self-identity. _Frontiers in Public Health_, online. 10:917581. [DOI](https://doi: 10.3389/fpubh.2022.917581)
+
 __Liu, T.__, Zhang, S., & Zhang, H. (2022). Exposure to COVID-19-related media content and mental health during the initial outbreak of COVID-19 in China. _Scandinavian Journal of Psychology_, _63_, 283-289. [DOI](https://doi.org/10.1111/sjop.12805)
 
 Sun, Y., Yang, J., Li, M., & __Liu, T.*__ (2022). The Association between neuroticism and nomophobia: Chain mediating effect of attachment and loneliness. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-022-00897-9)
@@ -149,7 +153,7 @@ Yang, J., Zhang, Y., Li, P., Zhang, H., & __Liu, T.*__. (2022). College Students
 
 Zhang, S., __Liu, T.*__, Liu, X., & Chao, M. (2022). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. _International Journal of Mental Health and Addiction_, online. [DOI](https://doi.org/10.1007/s11469-021-00738-1)
 ###### -在印 (in press)-
-李雨欣, 张艺馨, 冯万庆, __刘拓*__. (0000). 毒品成瘾多维心理因素评估量表的初步编制. _现代预防医学_, 在印.
+
 #### 会议(Presentations)
 ###### -国内-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
@@ -259,8 +263,10 @@ Zhang, S., Chen, X., Li, Y., & __Liu, T.*__ (2021). Undergraduates' interpersona
 
 硕士：段优优（心健）、任世秀（用研）、张舒（用研）
 ###### -2020级-
+本科：曹宇婷
+
 硕士：陈雪明（应用）、芦旭蓉（用研）、李雨欣（用研）
 ###### -2021级-
 硕士：季顺鑫（用研）、刘歆阳（用研）、张艺馨（应用）、周曌（应用）
 ###### -2022级-
-硕士：廉宇煊（应用）
+硕士：廉宇煊（应用）、赵欣璐（应用）、林俊菲（用研）、许苏薇（用研）、万富裕（用研）
