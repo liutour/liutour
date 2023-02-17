@@ -131,7 +131,7 @@ Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2021). Associations between undergra
 
 李雨欣, 张艺馨, 冯万庆, __刘拓*__. (2022). 毒品成瘾多维心理因素评估量表的初步编制. _现代预防医学_, _49_, 3390-3395.
 
-Chen, X., __Liu, T.*__, Li, P., Wei, W., & Chao, M. (2020). The relationship between media involvement and death anxiety of self-quarantined people in the COVID-19 outbreak in China: The mediating roles of empathy and sympathy. _OMEGA - Journal of Death and Dying_, _85_, 974-989. [DOI](https://doi.org/10.1177/0030222820960283)
+Chen, X., __Liu, T.*__, Li, P., Wei, W., & Chao, M. (2022). The relationship between media involvement and death anxiety of self-quarantined people in the COVID-19 outbreak in China: The mediating roles of empathy and sympathy. _OMEGA - Journal of Death and Dying_, _85_, 974-989. [DOI](https://doi.org/10.1177/0030222820960283)
 
 Lu, X., __Liu, T.*__, Liu, X., Yang, H. B., & Elhai, J. (2022). Nomophobia and relationships with latent classes of solitude. _The Bulletin of the Menninger Clinic_, _86_, 1-19.  [DOI](https://doi.org/10.1521/bumc.2022.86.1.1)
 
@@ -152,6 +152,9 @@ Sun, Y., Yang, J., Li, M., & __Liu, T.*__ (2022). The Association between neurot
 Yang, J., Zhang, Y., Li, P., Zhang, H., & __Liu, T.*__. (2022). College Students’ Academic Stressors on Mental Health during the COVID-19 Pandemic: A Comparison between Graduating Students and Non-Graduating Students. _International Journal of Mental Health Promotion_, _24_, 603–618. [DOI](https://www.techscience.com/IJMHP/v24n4/47989)
 
 Zhang, S., __Liu, T.*__, Liu, X., & Chao, M. (2022). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. _International Journal of Mental Health and Addiction_, online. [DOI](https://doi.org/10.1007/s11469-021-00738-1)
+###### -2023-
+Ren, S., __Liu, T.*__, Zhao, X., Yang, H., & Elhai, J. (2023). Is Nomophobia Problematic or Functional? A Perspective from Bifactor Structure. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-023-01030-0)
+
 ###### -在印 (in press)-
 
 #### 会议(Presentations)
