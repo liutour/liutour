@@ -155,6 +155,7 @@ Zhang, S., __Liu, T.*__, Liu, X., & Chao, M. (2022). Network analysis of media e
 ###### -2023-
 Ren, S., __Liu, T.*__, Zhao, X., Yang, H., & Elhai, J. (2023). Is Nomophobia Problematic or Functional? A Perspective from Bifactor Structure. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-023-01030-0)
 
+Zhang, S., Zhang, Y., Xue, D., Zhang, H., Chao, M., & __Liu, T.*__. (2023). What Are the Differences in Psychological Outcomes Between People Who Posted COVID-19-Related Content on Social Media and Those Who Did Not?. _Psychiatry Investigation_, _20_, 43-51. [DOI](https://doi.org/10.30773/pi.2022.0146)
 ###### -在印 (in press)-
 
 #### 会议(Presentations)
