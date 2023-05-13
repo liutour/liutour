@@ -122,8 +122,6 @@ Sindermann, C., Yang, H., __Liu, T.__, Elhai, J. D., & Montag, C. (2021). WeChat
 Xue, D., __Liu, T.*__, Chen, X., Liu, X., & Chao, M. (2021). Data on media use and mental health during the outbreak of COVID-19 in China. _Data in Brief_, _35_. [DOI](https://doi.org/10.1016/j.dib.2021.106765)
 
 You, X., __Liu, T.*__, & Wang, M. C. (2021). Measurement invariance of the reactive and proactive aggression questionnaire (RPQ) across self- and other-reports. _Journal of Aggression, Maltreatment & Trauma_, _30_, 261-277. [DOI](http://dx.doi.org/10.1080/10926771.2020.1806973)
-
-Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2021). Associations between undergraduates’ interpersonal relationships and mental health in perspective of social network analysis. _Current Psychology_, online. [DOI](https://link.springer.com/article/10.1007/s12144-021-01629-3)
 ###### -2022-
 张环, 侯双, __刘拓*__, & 杨海波. (2022). 社会分享型提取诱发遗忘的性别差异：来自关系动机的影响作用. _心理科学_, _45_, 142-148.
 
@@ -156,6 +154,8 @@ Zhang, S., __Liu, T.*__, Liu, X., & Chao, M. (2022). Network analysis of media e
 Ren, S., __Liu, T.*__, Zhao, X., Yang, H., & Elhai, J. (2023). Is Nomophobia Problematic or Functional? A Perspective from Bifactor Structure. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-023-01030-0)
 
 Zhang, S., Zhang, Y., Xue, D., Zhang, H., Chao, M., & __Liu, T.*__. (2023). What Are the Differences in Psychological Outcomes Between People Who Posted COVID-19-Related Content on Social Media and Those Who Did Not?. _Psychiatry Investigation_, _20_, 43-51. [DOI](https://doi.org/10.30773/pi.2022.0146)
+
+Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2023). Associations between undergraduates’ interpersonal relationships and mental health in perspective of social network analysis. _Current Psychology_, _42_, 2059-2066. [DOI](https://link.springer.com/article/10.1007/s12144-021-01629-3)
 ###### -在印 (in press)-
 
 #### 会议(Presentations)
