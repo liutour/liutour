@@ -141,23 +141,27 @@ Liu, X., __Liu, T.*__, Liu, X. Lu, X. & Li, Y. (2022). Data on mobile phone use,
 
 Liu, X., Lu, H., Zhou, Z., Chao, M., & __Liu, T.*__ (2022) Development of a Computerized Adaptive Test for Problematic Mobile Phone Use. _Frontiers in Psychology_, 13:892387. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.892387/full)
 
-Li, P., Yang, J., Zhou, Z., Zhao, Z., & __Liu, T.*__. (2022). The influence of college students’ academic stressors on mental health during COVID-19: The mediating effect of social support, social well-being, and self-identity. _Frontiers in Public Health_, 10:917581. [DOI](https://doi.org/10.3389/fpubh.2022.917581)
+Li, P., Yang, J., Zhou, Z., Zhao, Z., & __Liu, T.*__ (2022). The influence of college students’ academic stressors on mental health during COVID-19: The mediating effect of social support, social well-being, and self-identity. _Frontiers in Public Health_, 10:917581. [DOI](https://doi.org/10.3389/fpubh.2022.917581)
 
 __Liu, T.__, Zhang, S., & Zhang, H. (2022). Exposure to COVID-19-related media content and mental health during the initial outbreak of COVID-19 in China. _Scandinavian Journal of Psychology_, _63_, 283-289. [DOI](https://doi.org/10.1111/sjop.12805)
 
 Sun, Y., Yang, J., Li, M., & __Liu, T.*__ (2022). The Association between neuroticism and nomophobia: Chain mediating effect of attachment and loneliness. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-022-00897-9)
 
-Yang, J., Zhang, Y., Li, P., Zhang, H., & __Liu, T.*__. (2022). College Students’ Academic Stressors on Mental Health during the COVID-19 Pandemic: A Comparison between Graduating Students and Non-Graduating Students. _International Journal of Mental Health Promotion_, _24_, 603–618. [DOI](https://www.techscience.com/IJMHP/v24n4/47989)
+Yang, J., Zhang, Y., Li, P., Zhang, H., & __Liu, T.*__ (2022). College Students’ Academic Stressors on Mental Health during the COVID-19 Pandemic: A Comparison between Graduating Students and Non-Graduating Students. _International Journal of Mental Health Promotion_, _24_, 603–618. [DOI](https://www.techscience.com/IJMHP/v24n4/47989)
 
 Zhang, S., __Liu, T.*__, Liu, X., & Chao, M. (2022). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. _International Journal of Mental Health and Addiction_, online. [DOI](https://doi.org/10.1007/s11469-021-00738-1)
 ###### -2023-
+任芬，__刘拓__, 齐保莉， 徐绍恒，& 凌钲程. (2021). 自恋双面性与行为系统的关系：性别的调节作用. _心理与行为研究_, _21_, 36-42.
+
 Ren, S., __Liu, T.*__, Zhao, X., Yang, H., & Elhai, J. (2023). Is Nomophobia Problematic or Functional? A Perspective from Bifactor Structure. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-023-01030-0)
 
-Zhang, S., Zhang, Y., Xue, D., Zhang, H., Chao, M., & __Liu, T.*__. (2023). What Are the Differences in Psychological Outcomes Between People Who Posted COVID-19-Related Content on Social Media and Those Who Did Not?. _Psychiatry Investigation_, _20_, 43-51. [DOI](https://doi.org/10.30773/pi.2022.0146)
+Liu, X., __Liu, T.*__, Zhou, Z., & Wan, F. (2023). The effect of fear of missing out on mental health: differences in different solitude behaviors. _BMC Psychology_, _11_. [DOI](https://bmcpsychology.biomedcentral.com/articles/10.1186/s40359-023-01184-5)
+
+Li, Y., Yan, F., Zhang, Y., Li, M., & __Liu, T.*__ (2023). Personality and Nomophobia: A Moderated Mediation Model of Self-Esteem and Non-Self-Determined Solitude. _Internationa Journal of Mental Health Promotion_, _25_, 767-781. [DOI](https://www.techscience.com/IJMHP/v25n6/52727)
 
 Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2023). Associations between undergraduates’ interpersonal relationships and mental health in perspective of social network analysis. _Current Psychology_, _42_, 2059-2066. [DOI](https://link.springer.com/article/10.1007/s12144-021-01629-3)
-###### -在印 (in press)-
 
+Zhang, S., Zhang, Y., Xue, D., Zhang, H., Chao, M., & __Liu, T.*__ (2023). What Are the Differences in Psychological Outcomes Between People Who Posted COVID-19-Related Content on Social Media and Those Who Did Not?. _Psychiatry Investigation_, _20_, 43-51. [DOI](https://doi.org/10.30773/pi.2022.0146)
 #### 会议(Presentations)
 ###### -国内-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
@@ -231,6 +235,7 @@ Chen, X., Weng, X., & __Liu, T.*__ (2019). The Influence of Positive Parenting S
 Ren, S., Lu, X., Wang, Q., & __Liu, T.*__ (2021). The Difference and Relationship of Latent Psychological Structure of Problematic Mobile Phone Uses. Paper presented at 2021 32nd International Congress of Psychology, Prague, Czech Republic.
 
 Zhang, S., Chen, X., Li, Y., & __Liu, T.*__ (2021). Undergraduates' interpersonal relationship and mental health based on social network analysis. Paper presented at 2021 32nd International Congress of Psychology, Prague, Czech Republic.
+#### 书籍(Books)
 
 ---
 ### 主持项目(Grants)
