@@ -151,13 +151,15 @@ Yang, J., Zhang, Y., Li, P., Zhang, H., & __Liu, T.*__ (2022). College Students�
 
 Zhang, S., __Liu, T.*__, Liu, X., & Chao, M. (2022). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. _International Journal of Mental Health and Addiction_, online. [DOI](https://doi.org/10.1007/s11469-021-00738-1)
 ###### -2023-
-任芬，__刘拓__, 齐保莉， 徐绍恒，& 凌钲程. (2021). 自恋双面性与行为系统的关系：性别的调节作用. _心理与行为研究_, _21_, 36-42.
+任芬, __刘拓__, 齐保莉, 徐绍恒, & 凌钲程. (2021). 自恋双面性与行为系统的关系：性别的调节作用. _心理与行为研究_, _21_, 36-42.
 
 Ren, S., __Liu, T.*__, Zhao, X., Yang, H., & Elhai, J. (2023). Is Nomophobia Problematic or Functional? A Perspective from Bifactor Structure. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-023-01030-0)
 
 Liu, X., __Liu, T.*__, Zhou, Z., & Wan, F. (2023). The effect of fear of missing out on mental health: differences in different solitude behaviors. _BMC Psychology_, _11_. [DOI](https://bmcpsychology.biomedcentral.com/articles/10.1186/s40359-023-01184-5)
 
 Li, Y., Yan, F., Zhang, Y., Li, M., & __Liu, T.*__ (2023). Personality and Nomophobia: A Moderated Mediation Model of Self-Esteem and Non-Self-Determined Solitude. _Internationa Journal of Mental Health Promotion_, _25_, 767-781. [DOI](https://www.techscience.com/IJMHP/v25n6/52727)
+
+Xia, F., Liu, M., & __Liu, T.*__ (2023). The role of coping styles in mediating the dark triad and bullying: An analysis of gender difference. _Behavioral Sciences_, _13_, 532. [DOI](https://doi.org/10.3390/bs13070532)
 
 Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2023). Associations between undergraduates’ interpersonal relationships and mental health in perspective of social network analysis. _Current Psychology_, _42_, 2059-2066. [DOI](https://link.springer.com/article/10.1007/s12144-021-01629-3)
 
