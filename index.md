@@ -151,7 +151,7 @@ Yang, J., Zhang, Y., Li, P., Zhang, H., & __Liu, T.*__ (2022). College Students�
 
 Zhang, S., __Liu, T.*__, Liu, X., & Chao, M. (2022). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. _International Journal of Mental Health and Addiction_, online. [DOI](https://doi.org/10.1007/s11469-021-00738-1)
 ###### -2023-
-任芬, __刘拓__, 齐保莉, 徐绍恒, & 凌钲程. (2021). 自恋双面性与行为系统的关系：性别的调节作用. _心理与行为研究_, _21_, 36-42.
+任芬, __刘拓__, 齐保莉, 徐绍恒, & 凌钲程. (2023). 自恋双面性与行为系统的关系：性别的调节作用. _心理与行为研究_, _21_, 36-42.
 
 Ren, S., __Liu, T.*__, Zhao, X., Yang, H., & Elhai, J. (2023). Is Nomophobia Problematic or Functional? A Perspective from Bifactor Structure. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-023-01030-0)
 
@@ -163,7 +163,7 @@ Xia, F., Liu, M., & __Liu, T.*__ (2023). The role of coping styles in mediating 
 
 Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2023). Associations between undergraduates’ interpersonal relationships and mental health in perspective of social network analysis. _Current Psychology_, _42_, 2059-2066. [DOI](https://link.springer.com/article/10.1007/s12144-021-01629-3)
 
-Zhang, S., Zhang, Y., Xue, D., Zhang, H., Chao, M., & __Liu, T.*__ (2023). What Are the Differences in Psychological Outcomes Between People Who Posted COVID-19-Related Content on Social Media and Those Who Did Not?. _Psychiatry Investigation_, _20_, 43-51. [DOI](https://doi.org/10.30773/pi.2022.0146)
+Zhang, S., Zhang, Y., Xue, D., Zhang, H., Chao, M., & __Liu, T.*__ (2023). What Are the Differences in Psychological Outcomes Between People Who Posted COVID-19-Related Content on Social Media and Those Who Did Not? _Psychiatry Investigation_, _20_, 43-51. [DOI](https://doi.org/10.30773/pi.2022.0146)
 #### 会议(Presentations)
 ###### -国内-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
@@ -221,6 +221,10 @@ __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计
 张舒, __刘拓__, & 孟慧. (2021). 负性情绪，还是人际问题和压力会使人们更常使用手机社交媒体？, 第二十三届全国心理学学术会议, 呼和浩特线上.
 
 张艺馨, 张斌, & __刘拓*__. (2021). 强制戒毒人员社会支持与吸毒心瘾的关系：自尊和心理弹性的链式中介作用, 第二十三届全国心理学学术会议, 呼和浩特线上.
+
+夏方婧, 刘梦君, & __刘拓*__. (2021). 从黑暗人格到霸凌行为的多重中介机制：性别差异的探讨, 中国社会心理学会2022年学术年会, 长沙.
+
+季顺鑫, 曹宇婷, & __刘拓*__. (2021). “双减”后教育压力源对生活状态和补课焦虑的影响：人格的中介作用, 中国社会心理学会2022年学术年会, 长沙.
 
 陈雪明, 张琪涵, & __刘拓*__. (2022). 作假的个人拟合甄别：来自多模态数据的佐证, 第二十四届全国心理学学术会议, 新乡线上.
 
