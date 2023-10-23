@@ -145,15 +145,9 @@ Li, P., Yang, J., Zhou, Z., Zhao, Z., & __Liu, T.*__ (2022). The influence of co
 
 __Liu, T.__, Zhang, S., & Zhang, H. (2022). Exposure to COVID-19-related media content and mental health during the initial outbreak of COVID-19 in China. _Scandinavian Journal of Psychology_, _63_, 283-289. [DOI](https://doi.org/10.1111/sjop.12805)
 
-Sun, Y., Yang, J., Li, M., & __Liu, T.*__ (2022). The Association between neuroticism and nomophobia: Chain mediating effect of attachment and loneliness. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-022-00897-9)
-
 Yang, J., Zhang, Y., Li, P., Zhang, H., & __Liu, T.*__ (2022). College Students’ Academic Stressors on Mental Health during the COVID-19 Pandemic: A Comparison between Graduating Students and Non-Graduating Students. _International Journal of Mental Health Promotion_, _24_, 603–618. [DOI](https://www.techscience.com/IJMHP/v24n4/47989)
-
-Zhang, S., __Liu, T.*__, Liu, X., & Chao, M. (2022). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. _International Journal of Mental Health and Addiction_, online. [DOI](https://doi.org/10.1007/s11469-021-00738-1)
 ###### -2023-
 任芬, __刘拓__, 齐保莉, 徐绍恒, & 凌钲程. (2023). 自恋双面性与行为系统的关系：性别的调节作用. _心理与行为研究_, _21_, 36-42.
-
-Ren, S., __Liu, T.*__, Zhao, X., Yang, H., & Elhai, J. (2023). Is Nomophobia Problematic or Functional? A Perspective from Bifactor Structure. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-023-01030-0)
 
 Liu, X., __Liu, T.*__, Zhou, Z., & Wan, F. (2023). The effect of fear of missing out on mental health: differences in different solitude behaviors. _BMC Psychology_, _11_. [DOI](https://bmcpsychology.biomedcentral.com/articles/10.1186/s40359-023-01184-5)
 
@@ -161,9 +155,15 @@ Li, Y., Yan, F., Zhang, Y., Li, M., & __Liu, T.*__ (2023). Personality and Nomop
 
 Xia, F., Liu, M., & __Liu, T.*__ (2023). The role of coping styles in mediating the dark triad and bullying: An analysis of gender difference. _Behavioral Sciences_, _13_, 532. [DOI](https://doi.org/10.3390/bs13070532)
 
+Zhang, S., __Liu, T.*__, Liu, X., & Chao, M. (2022). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. _International Journal of Mental Health and Addiction_, _21_, 2570–2582. [DOI](https://doi.org/10.1007/s11469-021-00738-1)
+
 Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2023). Associations between undergraduates’ interpersonal relationships and mental health in perspective of social network analysis. _Current Psychology_, _42_, 2059-2066. [DOI](https://link.springer.com/article/10.1007/s12144-021-01629-3)
 
 Zhang, S., Zhang, Y., Xue, D., Zhang, H., Chao, M., & __Liu, T.*__ (2023). What Are the Differences in Psychological Outcomes Between People Who Posted COVID-19-Related Content on Social Media and Those Who Did Not? _Psychiatry Investigation_, _20_, 43-51. [DOI](https://doi.org/10.30773/pi.2022.0146)
+###### -online-
+Ren, S., __Liu, T.*__, Zhao, X., Yang, H., & Elhai, J. (2023). Is Nomophobia Problematic or Functional? A Perspective from Bifactor Structure. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-023-01030-0)
+
+Sun, Y., Yang, J., Li, M., & __Liu, T.*__ (2022). The Association between neuroticism and nomophobia: Chain mediating effect of attachment and loneliness. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-022-00897-9)
 #### 会议(Presentations)
 ###### -国内-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
@@ -303,6 +303,10 @@ Zhang, S., Chen, X., Li, Y., & __Liu, T.*__ (2021). Undergraduates' interpersona
 
 硕士：陈雪明（应用）、芦旭蓉（用研）、李雨欣（用研）
 ###### -2021级-
+本科：高垚杰
+
 硕士：季顺鑫（用研）、刘歆阳（用研）、张艺馨（应用）、周曌（应用）
 ###### -2022级-
 硕士：廉宇煊（应用）、赵欣璐（应用）、林俊菲（用研）、许苏薇（用研）、万富裕（用研）
+###### -2023级-
+硕士：刘金鸿（用研）、马静坤（用研）、马苑秋（应用）、齐运晓（用研）、吴京（心健）、赵念（应用）
