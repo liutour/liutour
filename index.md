@@ -1,7 +1,7 @@
 ## 刘拓（Tour Liu）
 
 ---
-##### 理学博士(Ph.D)，副教授(Associate professor)，系主任
+##### 理学博士(Ph.D)，副教授(Associate professor)
 ##### 天津师范大学(Tianjin Normal University)，心理学部(Facaulty of Psychology)
 ##### 天津师范大学立教楼B217，mikebonita@163.com
 
@@ -149,6 +149,10 @@ Yang, J., Zhang, Y., Li, P., Zhang, H., & __Liu, T.*__ (2022). College Students�
 ###### -2023-
 任芬, __刘拓__, 齐保莉, 徐绍恒, & 凌钲程. (2023). 自恋双面性与行为系统的关系：性别的调节作用. _心理与行为研究_, _21_, 36-42.
 
+张环, 谢忠珖, 王亚丽, 秦锡权, & __刘拓*__. (2023). 学龄中期儿童团体创造力的发展特点及其与个体创造力的关系. _心理发展与教育_, _40_, 468-478.
+
+周曌, 季顺鑫, & 刘拓. (2023). 简版和极简版问题性手机使用量表的开发. _心理与行为研究_, _21_, xxx-xxx.
+
 Liu, X., __Liu, T.*__, Zhou, Z., & Wan, F. (2023). The effect of fear of missing out on mental health: differences in different solitude behaviors. _BMC Psychology_, _11_. [DOI](https://bmcpsychology.biomedcentral.com/articles/10.1186/s40359-023-01184-5)
 
 Li, Y., Yan, F., Zhang, Y., Li, M., & __Liu, T.*__ (2023). Personality and Nomophobia: A Moderated Mediation Model of Self-Esteem and Non-Self-Determined Solitude. _Internationa Journal of Mental Health Promotion_, _25_, 767-781. [DOI](https://www.techscience.com/IJMHP/v25n6/52727)
@@ -161,6 +165,8 @@ Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2023). Associations between undergra
 
 Zhang, S., Zhang, Y., Xue, D., Zhang, H., Chao, M., & __Liu, T.*__ (2023). What Are the Differences in Psychological Outcomes Between People Who Posted COVID-19-Related Content on Social Media and Those Who Did Not? _Psychiatry Investigation_, _20_, 43-51. [DOI](https://doi.org/10.30773/pi.2022.0146)
 ###### -online-
+Guo, L., Liu, X., & __Liu, T.*__ (2023). Generalizing computerized adaptive testing for problematic mobile phone use from Chinese adults to adolescents. _Current Psychology_, online. [DOI](https://doi.org/10.1007/s12144-023-05447-7)
+
 Ren, S., __Liu, T.*__, Zhao, X., Yang, H., & Elhai, J. (2023). Is Nomophobia Problematic or Functional? A Perspective from Bifactor Structure. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-023-01030-0)
 
 Sun, Y., Yang, J., Li, M., & __Liu, T.*__ (2022). The Association between neuroticism and nomophobia: Chain mediating effect of attachment and loneliness. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-022-00897-9)
