@@ -3,7 +3,7 @@
 ---
 ##### 理学博士(Ph.D)，副教授(Associate professor)
 ##### 天津师范大学(Tianjin Normal University)，心理学部(Facaulty of Psychology)
-##### 天津师范大学立教楼B217，mikebonita@163.com
+##### 天津师范大学励志楼E303，mikebonita@163.com
 
 ---
 ### 教育经历(Eductional background)
