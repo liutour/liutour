@@ -155,7 +155,7 @@ Yang, J., Zhang, Y., Li, P., Zhang, H., & __Liu, T.*__ (2022). College Students�
 
 Liu, X., __Liu, T.*__, Zhou, Z., & Wan, F. (2023). The effect of fear of missing out on mental health: differences in different solitude behaviors. _BMC Psychology_, _11_. [DOI](https://bmcpsychology.biomedcentral.com/articles/10.1186/s40359-023-01184-5)
 
-Li, Y., Yan, F., Zhang, Y., Li, M., & __Liu, T.*__ (2023). Personality and Nomophobia: A Moderated Mediation Model of Self-Esteem and Non-Self-Determined Solitude. _Internationa Journal of Mental Health Promotion_, _25_, 767-781. [DOI](https://www.techscience.com/IJMHP/v25n6/52727)
+Li, Y., Yan, F., Zhang, Y., Li, M., & __Liu, T.*__ (2023). Personality and Nomophobia: A Moderated Mediation Model of Self-Esteem and Non-Self-Determined Solitude. _International Journal of Mental Health Promotion_, _25_, 767-781. [DOI](https://www.techscience.com/IJMHP/v25n6/52727)
 
 Xia, F., Liu, M., & __Liu, T.*__ (2023). The role of coping styles in mediating the dark triad and bullying: An analysis of gender difference. _Behavioral Sciences_, _13_, 532. [DOI](https://doi.org/10.3390/bs13070532)
 
