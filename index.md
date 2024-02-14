@@ -151,7 +151,7 @@ Yang, J., Zhang, Y., Li, P., Zhang, H., & __Liu, T.*__ (2022). College Students�
 
 张环, 谢忠珖, 王亚丽, 秦锡权, & __刘拓*__. (2023). 学龄中期儿童团体创造力的发展特点及其与个体创造力的关系. _心理发展与教育_, _40_, 468-478.
 
-周曌, 季顺鑫, & __刘拓*__. (2023). 简版和极简版问题性手机使用量表的开发. _心理与行为研究_, _21_, xxx-xxx.
+周曌, 季顺鑫, & __刘拓*__. (2023). 简版和极简版问题性手机使用量表的开发. _心理与行为研究_, _21_, 846-853.
 
 Liu, X., __Liu, T.*__, Zhou, Z., & Wan, F. (2023). The effect of fear of missing out on mental health: differences in different solitude behaviors. _BMC Psychology_, _11_. [DOI](https://bmcpsychology.biomedcentral.com/articles/10.1186/s40359-023-01184-5)
 
@@ -165,9 +165,15 @@ Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2023). Associations between undergra
 
 Zhang, S., Zhang, Y., Xue, D., Zhang, H., Chao, M., & __Liu, T.*__ (2023). What Are the Differences in Psychological Outcomes Between People Who Posted COVID-19-Related Content on Social Media and Those Who Did Not? _Psychiatry Investigation_, _20_, 43-51. [DOI](https://doi.org/10.30773/pi.2022.0146)
 ###### -online-
+颜俊雨, 张艺馨, 张琪涵, & __刘拓__ (2023). 基于网络分析的毒品成瘾心理因素探索：关联模式与关键因素. _应用心理学_, 在线.
+
 Guo, L., Liu, X., & __Liu, T.*__ (2023). Generalizing computerized adaptive testing for problematic mobile phone use from Chinese adults to adolescents. _Current Psychology_, online. [DOI](https://doi.org/10.1007/s12144-023-05447-7)
 
 Ren, S., __Liu, T.*__, Zhao, X., Yang, H., & Elhai, J. (2023). Is Nomophobia Problematic or Functional? A Perspective from Bifactor Structure. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-023-01030-0)
+
+Ren, S., Ji, S., Liu, X., & __Liu, T.*__ (2023). Exploring the structure of college students’ adaptability by using cross-lagged path analysis: The role of emotional adaptability. _PsyCh Journal_, online. [DOI](https://onlinelibrary.wiley.com/doi/full/10.1002/pchj.721)
+
+Ren, S., He, J., __Liu, T.*__, & Zhang, D. (2024). Exploring the relationship between college students’ adaptability and nomophobia. _Behaviour & Information Technology_, online. [DOI](https://doi.org/10.1080/0144929X.2024.2314755)
 
 Sun, Y., Yang, J., Li, M., & __Liu, T.*__ (2022). The Association between neuroticism and nomophobia: Chain mediating effect of attachment and loneliness. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-022-00897-9)
 #### 会议(Presentations)
