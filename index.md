@@ -272,9 +272,9 @@ Ren, S., Lu, X., Wang, Q., & __Liu, T.*__ (2021). The Difference and Relationshi
 
 Zhang, S., Chen, X., Li, Y., & __Liu, T.*__ (2021). Undergraduates' interpersonal relationship and mental health based on social network analysis. Paper presented at 2021 32nd International Congress of Psychology, Prague, Czech Republic.
 #### 书籍(Books)
-王孟成, & __刘拓__ (2023). _心理与行为定量研究手册_. 重庆大学出版社.
+王孟成, & __刘拓__. (2023). _心理与行为定量研究手册_. 重庆大学出版社.
 
-戴晓阳, 王孟成, & __刘拓__ (2023). _常用心理评估量表手册（第三版）_. 北京科学技术出版社.
+戴晓阳, 王孟成, & __刘拓__. (2023). _常用心理评估量表手册（第三版）_. 北京科学技术出版社.
 
 ---
 ### 主持项目(Grants)
