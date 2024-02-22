@@ -175,6 +175,8 @@ Ren, S., Ji, S., Liu, X., & __Liu, T.*__ (2023). Exploring the structure of coll
 
 Ren, S., He, J., __Liu, T.*__, & Zhang, D. (2024). Exploring the relationship between college students’ adaptability and nomophobia. _Behaviour & Information Technology_, online. [DOI](https://doi.org/10.1080/0144929X.2024.2314755)
 
+Ren, S., Zhang, M., Zhu, C., __Liu, T.__, & Zhang, D. (2024). Decreased adaptability and increased social media use of Chinese female students during COVID-19: a multivariate latent growth curve model. _Current Psychology_, online. [DOI]([https://doi.org/10.1080/0144929X.2024.2314755](https://link.springer.com/article/10.1007/s12144-024-05761-8))
+
 Sun, Y., Yang, J., Li, M., & __Liu, T.*__ (2022). The Association between neuroticism and nomophobia: Chain mediating effect of attachment and loneliness. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-022-00897-9)
 #### 会议(Presentations)
 ###### -国内-
