@@ -164,6 +164,8 @@ Zhang, S., __Liu, T.*__, Liu, X., & Chao, M. (2022). Network analysis of media e
 Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2023). Associations between undergraduates’ interpersonal relationships and mental health in perspective of social network analysis. _Current Psychology_, _42_, 2059-2066. [DOI](https://link.springer.com/article/10.1007/s12144-021-01629-3)
 
 Zhang, S., Zhang, Y., Xue, D., Zhang, H., Chao, M., & __Liu, T.*__ (2023). What Are the Differences in Psychological Outcomes Between People Who Posted COVID-19-Related Content on Social Media and Those Who Did Not? _Psychiatry Investigation_, _20_, 43-51. [DOI](https://doi.org/10.30773/pi.2022.0146)
+###### -2024-
+Sun, Y., Yang, J., Li, M., & __Liu, T.*__ (2024). The Association between neuroticism and nomophobia: Chain mediating effect of attachment and loneliness. _International Journal of Mental Health and Addiction_, _22_, 685-720. [DOI](https://link.springer.com/article/10.1007/s11469-022-00897-9)
 ###### -online-
 颜俊雨, 张艺馨, 张琪涵, & __刘拓__. (2023). 基于网络分析的毒品成瘾心理因素探索：关联模式与关键因素. _应用心理学_, 在线.
 
@@ -176,8 +178,6 @@ Ren, S., Ji, S., Liu, X., & __Liu, T.*__ (2023). Exploring the structure of coll
 Ren, S., He, J., __Liu, T.*__, & Zhang, D. (2024). Exploring the relationship between college students’ adaptability and nomophobia. _Behaviour & Information Technology_, online. [DOI](https://doi.org/10.1080/0144929X.2024.2314755)
 
 Ren, S., Zhang, M., Zhu, C., __Liu, T.__, & Zhang, D. (2024). Decreased adaptability and increased social media use of Chinese female students during COVID-19: a multivariate latent growth curve model. _Current Psychology_, online. [DOI](https://link.springer.com/article/10.1007/s12144-024-05761-8)
-
-Sun, Y., Yang, J., Li, M., & __Liu, T.*__ (2022). The Association between neuroticism and nomophobia: Chain mediating effect of attachment and loneliness. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-022-00897-9)
 #### 会议(Presentations)
 ###### -国内-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
