@@ -178,6 +178,8 @@ Ren, S., Ji, S., Liu, X., & __Liu, T.*__ (2023). Exploring the structure of coll
 Ren, S., He, J., __Liu, T.*__, & Zhang, D. (2024). Exploring the relationship between college students’ adaptability and nomophobia. _Behaviour & Information Technology_, online. [DOI](https://doi.org/10.1080/0144929X.2024.2314755)
 
 Ren, S., Zhang, M., Zhu, C., __Liu, T.__, & Zhang, D. (2024). Decreased adaptability and increased social media use of Chinese female students during COVID-19: a multivariate latent growth curve model. _Current Psychology_, online. [DOI](https://link.springer.com/article/10.1007/s12144-024-05761-8)
+
+Zhang, Y., __Liu, T.__, Zhang, B., Li, M., & Chao, M. (2023). The effects of social support and social prejudice on emotional affect among drug users: the mediating role of resilience. _Journal of Substance Use_, online. [DOI](https://www.tandfonline.com/doi/full/10.1080/14659891.2023.2242948)
 #### 会议(Presentations)
 ###### -国内-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
