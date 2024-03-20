@@ -171,6 +171,8 @@ Sun, Y., Yang, J., Li, M., & __Liu, T.*__ (2024). The Association between neurot
 
 Guo, L., Liu, X., & __Liu, T.*__ (2023). Generalizing computerized adaptive testing for problematic mobile phone use from Chinese adults to adolescents. _Current Psychology_, online. [DOI](https://doi.org/10.1007/s12144-023-05447-7)
 
+Pan, Y., Guo, M., Jiang, Y., __Liu, T.__, & Wu, X. (2024). The interplay of contextual and immediate uncertainty: evidence for a common processing mechanism in prediction and cognitive control. _Current Psychology_, online. [DOI](https://link.springer.com/article/10.1007/s12144-024-05755-6)
+
 Ren, S., __Liu, T.*__, Zhao, X., Yang, H., & Elhai, J. (2023). Is Nomophobia Problematic or Functional? A Perspective from Bifactor Structure. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-023-01030-0)
 
 Ren, S., Ji, S., Liu, X., & __Liu, T.*__ (2023). Exploring the structure of college students’ adaptability by using cross-lagged path analysis: The role of emotional adaptability. _PsyCh Journal_, online. [DOI](https://onlinelibrary.wiley.com/doi/full/10.1002/pchj.721)
