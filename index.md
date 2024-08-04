@@ -139,7 +139,7 @@ Luo, J., __Liu, T.*__, Wu, J., & Ali S. W. A. (2022). Asymptotic in undirected r
 
 Liu, X., __Liu, T.*__, Liu, X. Lu, X. & Li, Y. (2022). Data on mobile phone use, adaptability and adult attachment among college students in China. _Data in Brief_, _43_. [DOI](https://doi.org/10.1016/j.dib.2022.108397)
 
-Liu, X., Lu, H., Zhou, Z., Chao, M., & __Liu, T.*__ (2022) Development of a Computerized Adaptive Test for Problematic Mobile Phone Use. _Frontiers in Psychology_, 13:892387. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.892387/full)
+Liu, X., Lu, H., Zhou, Z., Chao, M., & __Liu, T.*__ (2022) Development of a computerized adaptive test for problematic mobile phone use. _Frontiers in Psychology_, 13:892387. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.892387/full)
 
 Li, P., Yang, J., Zhou, Z., Zhao, Z., & __Liu, T.*__ (2022). The influence of college students’ academic stressors on mental health during COVID-19: The mediating effect of social support, social well-being, and self-identity. _Frontiers in Public Health_, 10:917581. [DOI](https://doi.org/10.3389/fpubh.2022.917581)
 
