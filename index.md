@@ -145,7 +145,7 @@ Li, P., Yang, J., Zhou, Z., Zhao, Z., & __Liu, T.*__ (2022). The influence of co
 
 __Liu, T.__, Zhang, S., & Zhang, H. (2022). Exposure to COVID-19-related media content and mental health during the initial outbreak of COVID-19 in China. _Scandinavian Journal of Psychology_, _63_, 283-289. [DOI](https://doi.org/10.1111/sjop.12805)
 
-Yang, J., Zhang, Y., Li, P., Zhang, H., & __Liu, T.*__ (2022). College Students’ Academic Stressors on Mental Health during the COVID-19 Pandemic: A Comparison between Graduating Students and Non-Graduating Students. _International Journal of Mental Health Promotion_, _24_, 603–618. [DOI](https://www.techscience.com/IJMHP/v24n4/47989)
+Yang, J., Zhang, Y., Li, P., Zhang, H., & __Liu, T.*__ (2022). College students’ academic stressors on mental health during the COVID-19 pandemic: A comparison between graduating students and non-graduating students. _International Journal of Mental Health Promotion_, _24_, 603–618. [DOI](https://www.techscience.com/IJMHP/v24n4/47989)
 ###### -2023-
 任芬, __刘拓__, 齐保莉, 徐绍恒, & 凌钲程. (2023). 自恋双面性与行为系统的关系：性别的调节作用. _心理与行为研究_, _21_, 36-42.
 
@@ -155,7 +155,7 @@ Yang, J., Zhang, Y., Li, P., Zhang, H., & __Liu, T.*__ (2022). College Students�
 
 Liu, X., __Liu, T.*__, Zhou, Z., & Wan, F. (2023). The effect of fear of missing out on mental health: differences in different solitude behaviors. _BMC Psychology_, _11_. [DOI](https://bmcpsychology.biomedcentral.com/articles/10.1186/s40359-023-01184-5)
 
-Li, Y., Yan, F., Zhang, Y., Li, M., & __Liu, T.*__ (2023). Personality and Nomophobia: A Moderated Mediation Model of Self-Esteem and Non-Self-Determined Solitude. _International Journal of Mental Health Promotion_, _25_, 767-781. [DOI](https://www.techscience.com/IJMHP/v25n6/52727)
+Li, Y., Yan, F., Zhang, Y., Li, M., & __Liu, T.*__ (2023). Personality and nomophobia: A moderated mediation model of self-esteem and non-self-determined solitude. _International Journal of Mental Health Promotion_, _25_, 767-781. [DOI](https://www.techscience.com/IJMHP/v25n6/52727)
 
 Xia, F., Liu, M., & __Liu, T.*__ (2023). The role of coping styles in mediating the dark triad and bullying: An analysis of gender difference. _Behavioral Sciences_, _13_, 532. [DOI](https://doi.org/10.3390/bs13070532)
 
@@ -163,11 +163,13 @@ Zhang, S., __Liu, T.*__, Liu, X., & Chao, M. (2022). Network analysis of media e
 
 Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2023). Associations between undergraduates’ interpersonal relationships and mental health in perspective of social network analysis. _Current Psychology_, _42_, 2059-2066. [DOI](https://link.springer.com/article/10.1007/s12144-021-01629-3)
 
-Zhang, S., Zhang, Y., Xue, D., Zhang, H., Chao, M., & __Liu, T.*__ (2023). What Are the Differences in Psychological Outcomes Between People Who Posted COVID-19-Related Content on Social Media and Those Who Did Not? _Psychiatry Investigation_, _20_, 43-51. [DOI](https://doi.org/10.30773/pi.2022.0146)
+Zhang, S., Zhang, Y., Xue, D., Zhang, H., Chao, M., & __Liu, T.*__ (2023). What are the differences in psychological outcomes between people who posted COVID-19-related content on social media and those who did not? _Psychiatry Investigation_, _20_, 43-51. [DOI](https://doi.org/10.30773/pi.2022.0146)
 ###### -2024-
 Guo, L., Liu, X., & __Liu, T.*__ (2024). Generalizing computerized adaptive testing for problematic mobile phone use from Chinese adults to adolescents. _Current Psychology_, _43_, 14148–14158. [DOI](https://doi.org/10.1007/s12144-023-05447-7)
 
-__Liu, T.__, Wan, F., & Lu, X. (2024). Changes of Solitude Behaviors among College Students: A Latent Transition Analysis. _Behavioral Sciences_, _14_, 385. [DOI](https://doi.org/10.3390/bs14050385)
+Gao, Y., Liu, X., Zhou, Z., Chao, M., & __Liu, T.*__ (2024). Data for developing computerized adaptive testing of problematic mobile phone use. _Data in Brief_, _55_, 110746. [DOI](https://doi.org/10.1016/j.dib.2024.110746)
+
+__Liu, T.__, Wan, F., & Lu, X. (2024). Changes of solitude behaviors among college students: A latent transition analysis. _Behavioral Sciences_, _14_, 385. [DOI](https://doi.org/10.3390/bs14050385)
 
 Pan, Y., Guo, M., Jiang, Y., __Liu, T.__, & Wu, X. (2024). The interplay of contextual and immediate uncertainty: evidence for a common processing mechanism in prediction and cognitive control. _Current Psychology_, _43_, 19976–19984. [DOI](https://link.springer.com/article/10.1007/s12144-024-05755-6)
 
@@ -179,9 +181,11 @@ Sun, Y., Yang, J., Li, M., & __Liu, T.*__ (2024). The Association between neurot
 
 Ji, S., Xu, S., Zhou, Z., Zhu, Y., & __Liu, T.__ (2024). The relationship between nomophobia and latent classes of personality. _PsyCh Journal_, online. [DOI](https://doi.org/10.1002/pchj.758)
 
-Li, Z., Ji, S., Zhang, Y., Du, C., Chen, T., __Liu, T.*__, & Li, X. (2024). Associations among science study attitudes, habits and science academic performance of elementary school students: a latent profile approach. _International Jouranl of Science Education_, online. [DOI](https://doi.org/10.1080/09500693.2024.2369725)
+Li, Z., Ji, S., Zhang, Y., Du, C., Chen, T., __Liu, T.*__, & Li, X. (2024). Associations among science study attitudes, habits and science academic performance of elementary school students: a latent profile approach. _International Journal of Science Education_, online. [DOI](https://doi.org/10.1080/09500693.2024.2369725)
 
-Ren, S., __Liu, T.*__, Zhao, X., Yang, H., & Elhai, J. (2023). Is Nomophobia Problematic or Functional? A Perspective from Bifactor Structure. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-023-01030-0)
+Liu, M., Sun, Y., __Liu, T.__, & Qi, L. (2024). Being a focused employee: Effects of job reattachment on cyberloafing. _Stress and Health_, online. [DOI](https://doi.org/10.1002/smi.3449)
+
+Ren, S., __Liu, T.*__, Zhao, X., Yang, H., & Elhai, J. (2023). Is nomophobia problematic or functional? A perspective from bifactor structure. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-023-01030-0)
 
 Ren, S., Ji, S., Liu, X., & __Liu, T.*__ (2023). Exploring the structure of college students’ adaptability by using cross-lagged path analysis: The role of emotional adaptability. _PsyCh Journal_, online. [DOI](https://onlinelibrary.wiley.com/doi/full/10.1002/pchj.721)
 
