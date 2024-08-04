@@ -167,6 +167,8 @@ Zhang, S., Zhang, Y., Xue, D., Zhang, H., Chao, M., & __Liu, T.*__ (2023). What 
 ###### -2024-
 Guo, L., Liu, X., & __Liu, T.*__ (2024). Generalizing computerized adaptive testing for problematic mobile phone use from Chinese adults to adolescents. _Current Psychology_, _43_, 14148–14158. [DOI](https://doi.org/10.1007/s12144-023-05447-7)
 
+__Liu, T.__, Wan, F., & Lu, X. (2024). Changes of Solitude Behaviors among College Students: A Latent Transition Analysis. _Behavioral Sciences_, _14_, 385. [DOI](https://doi.org/10.3390/bs14050385)
+
 Pan, Y., Guo, M., Jiang, Y., __Liu, T.__, & Wu, X. (2024). The interplay of contextual and immediate uncertainty: evidence for a common processing mechanism in prediction and cognitive control. _Current Psychology_, _43_, 19976–19984. [DOI](https://link.springer.com/article/10.1007/s12144-024-05755-6)
 
 Ren, S., Zhang, M., Zhu, C., __Liu, T.__, & Zhang, D. (2024). Decreased adaptability and increased social media use of Chinese female students during COVID-19: a multivariate latent growth curve model. _Current Psychology_, _43_, 23331–23343. [DOI](https://link.springer.com/article/10.1007/s12144-024-05761-8)
@@ -174,6 +176,10 @@ Ren, S., Zhang, M., Zhu, C., __Liu, T.__, & Zhang, D. (2024). Decreased adaptabi
 Sun, Y., Yang, J., Li, M., & __Liu, T.*__ (2024). The Association between neuroticism and nomophobia: Chain mediating effect of attachment and loneliness. _International Journal of Mental Health and Addiction_, _22_, 685-720. [DOI](https://link.springer.com/article/10.1007/s11469-022-00897-9)
 ###### -online-
 颜俊雨, 张艺馨, 张琪涵, & __刘拓__. (2023). 基于网络分析的毒品成瘾心理因素探索：关联模式与关键因素. _应用心理学_, 在线.
+
+Ji, S., Xu, S., Zhou, Z., Zhu, Y., & __Liu, T.__ (2024). The relationship between nomophobia and latent classes of personality. _PsyCh Journal_, online. [DOI](https://doi.org/10.1002/pchj.758)
+
+Li, Z., Ji, S., Zhang, Y., Du, C., Chen, T., __Liu, T.*__, & Li, X. (2024). Associations among science study attitudes, habits and science academic performance of elementary school students: a latent profile approach. _International Jouranl of Science Education_, online. [DOI](https://doi.org/10.1080/09500693.2024.2369725)
 
 Ren, S., __Liu, T.*__, Zhao, X., Yang, H., & Elhai, J. (2023). Is Nomophobia Problematic or Functional? A Perspective from Bifactor Structure. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-023-01030-0)
 
