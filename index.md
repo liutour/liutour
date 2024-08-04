@@ -165,21 +165,21 @@ Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2023). Associations between undergra
 
 Zhang, S., Zhang, Y., Xue, D., Zhang, H., Chao, M., & __Liu, T.*__ (2023). What Are the Differences in Psychological Outcomes Between People Who Posted COVID-19-Related Content on Social Media and Those Who Did Not? _Psychiatry Investigation_, _20_, 43-51. [DOI](https://doi.org/10.30773/pi.2022.0146)
 ###### -2024-
+Guo, L., Liu, X., & __Liu, T.*__ (2024). Generalizing computerized adaptive testing for problematic mobile phone use from Chinese adults to adolescents. _Current Psychology_, _43_, 14148–14158. [DOI](https://doi.org/10.1007/s12144-023-05447-7)
+
+Pan, Y., Guo, M., Jiang, Y., __Liu, T.__, & Wu, X. (2024). The interplay of contextual and immediate uncertainty: evidence for a common processing mechanism in prediction and cognitive control. _Current Psychology_, _43_, 19976–19984. [DOI](https://link.springer.com/article/10.1007/s12144-024-05755-6)
+
+Ren, S., Zhang, M., Zhu, C., __Liu, T.__, & Zhang, D. (2024). Decreased adaptability and increased social media use of Chinese female students during COVID-19: a multivariate latent growth curve model. _Current Psychology_, _43_, 23331–23343. [DOI](https://link.springer.com/article/10.1007/s12144-024-05761-8)
+
 Sun, Y., Yang, J., Li, M., & __Liu, T.*__ (2024). The Association between neuroticism and nomophobia: Chain mediating effect of attachment and loneliness. _International Journal of Mental Health and Addiction_, _22_, 685-720. [DOI](https://link.springer.com/article/10.1007/s11469-022-00897-9)
 ###### -online-
 颜俊雨, 张艺馨, 张琪涵, & __刘拓__. (2023). 基于网络分析的毒品成瘾心理因素探索：关联模式与关键因素. _应用心理学_, 在线.
-
-Guo, L., Liu, X., & __Liu, T.*__ (2023). Generalizing computerized adaptive testing for problematic mobile phone use from Chinese adults to adolescents. _Current Psychology_, online. [DOI](https://doi.org/10.1007/s12144-023-05447-7)
-
-Pan, Y., Guo, M., Jiang, Y., __Liu, T.__, & Wu, X. (2024). The interplay of contextual and immediate uncertainty: evidence for a common processing mechanism in prediction and cognitive control. _Current Psychology_, online. [DOI](https://link.springer.com/article/10.1007/s12144-024-05755-6)
 
 Ren, S., __Liu, T.*__, Zhao, X., Yang, H., & Elhai, J. (2023). Is Nomophobia Problematic or Functional? A Perspective from Bifactor Structure. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-023-01030-0)
 
 Ren, S., Ji, S., Liu, X., & __Liu, T.*__ (2023). Exploring the structure of college students’ adaptability by using cross-lagged path analysis: The role of emotional adaptability. _PsyCh Journal_, online. [DOI](https://onlinelibrary.wiley.com/doi/full/10.1002/pchj.721)
 
 Ren, S., He, J., __Liu, T.*__, & Zhang, D. (2024). Exploring the relationship between college students’ adaptability and nomophobia. _Behaviour & Information Technology_, online. [DOI](https://doi.org/10.1080/0144929X.2024.2314755)
-
-Ren, S., Zhang, M., Zhu, C., __Liu, T.__, & Zhang, D. (2024). Decreased adaptability and increased social media use of Chinese female students during COVID-19: a multivariate latent growth curve model. _Current Psychology_, online. [DOI](https://link.springer.com/article/10.1007/s12144-024-05761-8)
 
 Zhang, Y., __Liu, T.__, Zhang, B., Li, M., & Chao, M. (2023). The effects of social support and social prejudice on emotional affect among drug users: the mediating role of resilience. _Journal of Substance Use_, online. [DOI](https://www.tandfonline.com/doi/full/10.1080/14659891.2023.2242948)
 #### 会议(Presentations)
@@ -310,6 +310,8 @@ Zhang, S., Chen, X., Li, Y., & __Liu, T.*__ (2021). Undergraduates' interpersona
 
 2020-2021年，强制隔离戒毒人员分类安置心理诊断测验的开发与评估报告的研制，天津市戒毒局，53WC2003 ，省部级，主持人。
 
+2022-2025年，学生心理健康测评模型设计开发项目，天津科立尔科技有限公司，，省部级，主持人。
+
 ---
 ### 学生指导(Students)
 ###### -2014级-
@@ -342,3 +344,7 @@ Zhang, S., Chen, X., Li, Y., & __Liu, T.*__ (2021). Undergraduates' interpersona
 硕士：廉宇煊（应用）、赵欣璐（应用）、林俊菲（用研）、许苏薇（用研）、万富裕（用研）
 ###### -2023级-
 硕士：刘金鸿（用研）、马静坤（用研）、马苑秋（应用）、齐运晓（用研）、吴京（心健）、赵念（应用）
+
+###### -2023级-
+本科：卢佳瑶
+硕士：
