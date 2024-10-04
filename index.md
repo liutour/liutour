@@ -169,9 +169,13 @@ Guo, L., Liu, X., & __Liu, T.*__ (2024). Generalizing computerized adaptive test
 
 Gao, Y., Liu, X., Zhou, Z., Chao, M., & __Liu, T.*__ (2024). Data for developing computerized adaptive testing of problematic mobile phone use. _Data in Brief_, _55_, 110746. [DOI](https://doi.org/10.1016/j.dib.2024.110746)
 
+Ji, S., Xu, S., Zhou, Z., Zhu, Y., & __Liu, T.__ (2024). The relationship between nomophobia and latent classes of personality. _PsyCh Journal_, _13_, 860-869. [DOI](https://doi.org/10.1002/pchj.758)
+
 __Liu, T.__, Wan, F., & Lu, X. (2024). Changes of solitude behaviors among college students: A latent transition analysis. _Behavioral Sciences_, _14_, 385. [DOI](https://doi.org/10.3390/bs14050385)
 
 Pan, Y., Guo, M., Jiang, Y., __Liu, T.__, & Wu, X. (2024). The interplay of contextual and immediate uncertainty: evidence for a common processing mechanism in prediction and cognitive control. _Current Psychology_, _43_, 19976–19984. [DOI](https://link.springer.com/article/10.1007/s12144-024-05755-6)
+
+Ren, S., Ji, S., Liu, X., & __Liu, T.*__ (2023). Exploring the structure of college students’ adaptability by using cross-lagged path analysis: The role of emotional adaptability. _PsyCh Journal_, _13_, 276-286. [DOI](https://onlinelibrary.wiley.com/doi/full/10.1002/pchj.721)
 
 Ren, S., Zhang, M., Zhu, C., __Liu, T.__, & Zhang, D. (2024). Decreased adaptability and increased social media use of Chinese female students during COVID-19: a multivariate latent growth curve model. _Current Psychology_, _43_, 23331–23343. [DOI](https://link.springer.com/article/10.1007/s12144-024-05761-8)
 
@@ -179,15 +183,11 @@ Sun, Y., Yang, J., Li, M., & __Liu, T.*__ (2024). The Association between neurot
 ###### -online-
 颜俊雨, 张艺馨, 张琪涵, & __刘拓__. (2023). 基于网络分析的毒品成瘾心理因素探索：关联模式与关键因素. _应用心理学_, 在线.
 
-Ji, S., Xu, S., Zhou, Z., Zhu, Y., & __Liu, T.__ (2024). The relationship between nomophobia and latent classes of personality. _PsyCh Journal_, online. [DOI](https://doi.org/10.1002/pchj.758)
-
 Li, Z., Ji, S., Zhang, Y., Du, C., Chen, T., __Liu, T.*__, & Li, X. (2024). Associations among science study attitudes, habits and science academic performance of elementary school students: a latent profile approach. _International Journal of Science Education_, online. [DOI](https://doi.org/10.1080/09500693.2024.2369725)
 
 Liu, M., Sun, Y., __Liu, T.__, & Qi, L. (2024). Being a focused employee: Effects of job reattachment on cyberloafing. _Stress and Health_, online. [DOI](https://doi.org/10.1002/smi.3449)
 
 Ren, S., __Liu, T.*__, Zhao, X., Yang, H., & Elhai, J. (2023). Is nomophobia problematic or functional? A perspective from bifactor structure. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-023-01030-0)
-
-Ren, S., Ji, S., Liu, X., & __Liu, T.*__ (2023). Exploring the structure of college students’ adaptability by using cross-lagged path analysis: The role of emotional adaptability. _PsyCh Journal_, online. [DOI](https://onlinelibrary.wiley.com/doi/full/10.1002/pchj.721)
 
 Ren, S., He, J., __Liu, T.*__, & Zhang, D. (2024). Exploring the relationship between college students’ adaptability and nomophobia. _Behaviour & Information Technology_, online. [DOI](https://doi.org/10.1080/0144929X.2024.2314755)
 
