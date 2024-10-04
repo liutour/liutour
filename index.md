@@ -165,6 +165,8 @@ Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2023). Associations between undergra
 
 Zhang, S., Zhang, Y., Xue, D., Zhang, H., Chao, M., & __Liu, T.*__ (2023). What are the differences in psychological outcomes between people who posted COVID-19-related content on social media and those who did not? _Psychiatry Investigation_, _20_, 43-51. [DOI](https://doi.org/10.30773/pi.2022.0146)
 ###### -2024-
+赵欣璐, 林俊菲, & __刘拓*__. (2023). 道德概念中的水平空间隐喻效应探究：来自行为和ERP的证据. _心理与行为研究_, _22_, 312-319.
+
 Guo, L., Liu, X., & __Liu, T.*__ (2024). Generalizing computerized adaptive testing for problematic mobile phone use from Chinese adults to adolescents. _Current Psychology_, _43_, 14148–14158. [DOI](https://doi.org/10.1007/s12144-023-05447-7)
 
 Gao, Y., Liu, X., Zhou, Z., Chao, M., & __Liu, T.*__ (2024). Data for developing computerized adaptive testing of problematic mobile phone use. _Data in Brief_, _55_, 110746. [DOI](https://doi.org/10.1016/j.dib.2024.110746)
