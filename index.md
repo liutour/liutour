@@ -173,6 +173,8 @@ Ji, S., Xu, S., Zhou, Z., Zhu, Y., & __Liu, T.__ (2024). The relationship betwee
 
 __Liu, T.__, Wan, F., & Lu, X. (2024). Changes of solitude behaviors among college students: A latent transition analysis. _Behavioral Sciences_, _14_, 385. [DOI](https://doi.org/10.3390/bs14050385)
 
+Lin, J., Zhao, X., Zhao, N., & __Liu, T.*__. (2024). Emotion-driven moral evaluation: A mechanistic study based on the Drift-diffusion model. _Brain Sciences_, _14_, 1005. [DOI](https://www.mdpi.com/2076-3425/14/10/1005)
+
 Pan, Y., Guo, M., Jiang, Y., __Liu, T.__, & Wu, X. (2024). The interplay of contextual and immediate uncertainty: evidence for a common processing mechanism in prediction and cognitive control. _Current Psychology_, _43_, 19976–19984. [DOI](https://link.springer.com/article/10.1007/s12144-024-05755-6)
 
 Ren, S., Ji, S., Liu, X., & __Liu, T.*__ (2023). Exploring the structure of college students’ adaptability by using cross-lagged path analysis: The role of emotional adaptability. _PsyCh Journal_, _13_, 276-286. [DOI](https://onlinelibrary.wiley.com/doi/full/10.1002/pchj.721)
@@ -184,6 +186,8 @@ Sun, Y., Yang, J., Li, M., & __Liu, T.*__ (2024). The Association between neurot
 颜俊雨, 张艺馨, 张琪涵, & __刘拓__. (2023). 基于网络分析的毒品成瘾心理因素探索：关联模式与关键因素. _应用心理学_, 在线.
 
 Li, Z., Ji, S., Zhang, Y., Du, C., Chen, T., __Liu, T.*__, & Li, X. (2024). Associations among science study attitudes, habits and science academic performance of elementary school students: a latent profile approach. _International Journal of Science Education_, online. [DOI](https://doi.org/10.1080/09500693.2024.2369725)
+
+Li, Y., Chen, Q., Gao, Y., & __Liu, T.*__. (2024). Associations among science study attitudes, habits and science academic performance of elementary school students: a latent profile approach. _Behavior Research Methods_, online. [DOI](https://link.springer.com/article/10.3758/s13428-024-02495-0)
 
 Liu, M., Sun, Y., __Liu, T.__, & Qi, L. (2024). Being a focused employee: Effects of job reattachment on cyberloafing. _Stress and Health_, online. [DOI](https://doi.org/10.1002/smi.3449)
 
