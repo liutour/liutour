@@ -165,7 +165,7 @@ Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2023). Associations between undergra
 
 Zhang, S., Zhang, Y., Xue, D., Zhang, H., Chao, M., & __Liu, T.*__ (2023). What are the differences in psychological outcomes between people who posted COVID-19-related content on social media and those who did not? _Psychiatry Investigation_, _20_, 43-51. [DOI](https://doi.org/10.30773/pi.2022.0146)
 ###### -2024-
-赵欣璐, 林俊菲, & __刘拓*__. (2023). 道德概念中的水平空间隐喻效应探究：来自行为和ERP的证据. _心理与行为研究_, _22_, 312-319.
+赵欣璐, 林俊菲, & __刘拓*__. (2024). 道德概念中的水平空间隐喻效应探究：来自行为和ERP的证据. _心理与行为研究_, _22_, 312-319.
 
 Guo, L., Liu, X., & __Liu, T.*__ (2024). Generalizing computerized adaptive testing for problematic mobile phone use from Chinese adults to adolescents. _Current Psychology_, _43_, 14148–14158. [DOI](https://doi.org/10.1007/s12144-023-05447-7)
 
@@ -179,7 +179,7 @@ Lin, J., Zhao, X., Zhao, N., & __Liu, T.*__. (2024). Emotion-driven moral evalua
 
 Pan, Y., Guo, M., Jiang, Y., __Liu, T.__, & Wu, X. (2024). The interplay of contextual and immediate uncertainty: evidence for a common processing mechanism in prediction and cognitive control. _Current Psychology_, _43_, 19976–19984. [DOI](https://link.springer.com/article/10.1007/s12144-024-05755-6)
 
-Ren, S., Ji, S., Liu, X., & __Liu, T.*__ (2023). Exploring the structure of college students’ adaptability by using cross-lagged path analysis: The role of emotional adaptability. _PsyCh Journal_, _13_, 276-286. [DOI](https://onlinelibrary.wiley.com/doi/full/10.1002/pchj.721)
+Ren, S., Ji, S., Liu, X., & __Liu, T.*__ (2024). Exploring the structure of college students’ adaptability by using cross-lagged path analysis: The role of emotional adaptability. _PsyCh Journal_, _13_, 276-286. [DOI](https://onlinelibrary.wiley.com/doi/full/10.1002/pchj.721)
 
 Ren, S., Zhang, M., Zhu, C., __Liu, T.__, & Zhang, D. (2024). Decreased adaptability and increased social media use of Chinese female students during COVID-19: a multivariate latent growth curve model. _Current Psychology_, _43_, 23331–23343. [DOI](https://link.springer.com/article/10.1007/s12144-024-05761-8)
 
@@ -365,4 +365,4 @@ Zhang, S., Chen, X., Li, Y., & __Liu, T.*__ (2021). Undergraduates' interpersona
 ###### -2023级-
 硕士：刘金鸿（用研）、马静坤（用研）、马苑秋（应用）、齐运晓（用研）、吴京（心健）、赵念（应用）
 ###### -2024级-
-硕士：
+硕士：李满缘（应用）、王冉冉（心健）、王子昊（用研）、朱思航（用研）
