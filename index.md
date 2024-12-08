@@ -173,6 +173,10 @@ Gao, Y., Liu, X., Zhou, Z., Chao, M., & __Liu, T.*__ (2024). Data for developing
 
 Ji, S., Xu, S., Zhou, Z., Zhu, Y., & __Liu, T.__ (2024). The relationship between nomophobia and latent classes of personality. _PsyCh Journal_, _13_, 860-869. [DOI](https://doi.org/10.1002/pchj.758)
 
+Li, Y., Chen, Q., Gao, Y., & __Liu, T.*__. (2024). Improvement and application of back random response detection: Based on cumulative sum and change point analysis. _Behavior Research Methods_, _56_, 8640-8657. [DOI](https://link.springer.com/article/10.3758/s13428-024-02495-0)
+
+Liu, M., Sun, Y., __Liu, T.__, & Qi, L. (2024). Being a focused employee: Effects of job reattachment on cyberloafing. _Stress and Health_, _40_, e3449. [DOI](https://doi.org/10.1002/smi.3449)
+
 __Liu, T.__, Wan, F., & Lu, X. (2024). Changes of solitude behaviors among college students: A latent transition analysis. _Behavioral Sciences_, _14_, 385. [DOI](https://doi.org/10.3390/bs14050385)
 
 Lin, J., Zhao, X., Zhao, N., & __Liu, T.*__. (2024). Emotion-driven moral evaluation: A mechanistic study based on the Drift-diffusion model. _Brain Sciences_, _14_, 1005. [DOI](https://www.mdpi.com/2076-3425/14/10/1005)
@@ -184,20 +188,16 @@ Ren, S., Ji, S., Liu, X., & __Liu, T.*__ (2024). Exploring the structure of coll
 Ren, S., Zhang, M., Zhu, C., __Liu, T.__, & Zhang, D. (2024). Decreased adaptability and increased social media use of Chinese female students during COVID-19: a multivariate latent growth curve model. _Current Psychology_, _43_, 23331–23343. [DOI](https://link.springer.com/article/10.1007/s12144-024-05761-8)
 
 Sun, Y., Yang, J., Li, M., & __Liu, T.*__ (2024). The Association between neuroticism and nomophobia: Chain mediating effect of attachment and loneliness. _International Journal of Mental Health and Addiction_, _22_, 685-720. [DOI](https://link.springer.com/article/10.1007/s11469-022-00897-9)
+
+Zhang, Y., __Liu, T.__, Zhang, B., Li, M., & Chao, M. (2023). The effects of social support and social prejudice on emotional affect among drug users: the mediating role of resilience. _Journal of Substance Use_, _29_, 1070-1076. [DOI](https://www.tandfonline.com/doi/full/10.1080/14659891.2023.2242948)
 ###### -online-
 颜俊雨, 张艺馨, 张琪涵, & __刘拓__. (2023). 基于网络分析的毒品成瘾心理因素探索：关联模式与关键因素. _应用心理学_, 在线.
 
 Li, Z., Ji, S., Zhang, Y., Du, C., Chen, T., __Liu, T.*__, & Li, X. (2024). Associations among science study attitudes, habits and science academic performance of elementary school students: a latent profile approach. _International Journal of Science Education_, online. [DOI](https://doi.org/10.1080/09500693.2024.2369725)
 
-Li, Y., Chen, Q., Gao, Y., & __Liu, T.*__. (2024). Associations among science study attitudes, habits and science academic performance of elementary school students: a latent profile approach. _Behavior Research Methods_, online. [DOI](https://link.springer.com/article/10.3758/s13428-024-02495-0)
-
-Liu, M., Sun, Y., __Liu, T.__, & Qi, L. (2024). Being a focused employee: Effects of job reattachment on cyberloafing. _Stress and Health_, online. [DOI](https://doi.org/10.1002/smi.3449)
-
 Ren, S., __Liu, T.*__, Zhao, X., Yang, H., & Elhai, J. (2023). Is nomophobia problematic or functional? A perspective from bifactor structure. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-023-01030-0)
 
 Ren, S., He, J., __Liu, T.*__, & Zhang, D. (2024). Exploring the relationship between college students’ adaptability and nomophobia. _Behaviour & Information Technology_, online. [DOI](https://doi.org/10.1080/0144929X.2024.2314755)
-
-Zhang, Y., __Liu, T.__, Zhang, B., Li, M., & Chao, M. (2023). The effects of social support and social prejudice on emotional affect among drug users: the mediating role of resilience. _Journal of Substance Use_, online. [DOI](https://www.tandfonline.com/doi/full/10.1080/14659891.2023.2242948)
 #### 会议(Presentations)
 ###### -国内-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
