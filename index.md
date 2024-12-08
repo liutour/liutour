@@ -189,7 +189,7 @@ Ren, S., Zhang, M., Zhu, C., __Liu, T.__, & Zhang, D. (2024). Decreased adaptabi
 
 Sun, Y., Yang, J., Li, M., & __Liu, T.*__ (2024). The Association between neuroticism and nomophobia: Chain mediating effect of attachment and loneliness. _International Journal of Mental Health and Addiction_, _22_, 685-720. [DOI](https://link.springer.com/article/10.1007/s11469-022-00897-9)
 
-Zhang, Y., __Liu, T.__, Zhang, B., Li, M., & Chao, M. (2023). The effects of social support and social prejudice on emotional affect among drug users: the mediating role of resilience. _Journal of Substance Use_, _29_, 1070-1076. [DOI](https://www.tandfonline.com/doi/full/10.1080/14659891.2023.2242948)
+Zhang, Y., __Liu, T.*__, Zhang, B., Li, M., & Chao, M. (2023). The effects of social support and social prejudice on emotional affect among drug users: the mediating role of resilience. _Journal of Substance Use_, _29_, 1070-1076. [DOI](https://www.tandfonline.com/doi/full/10.1080/14659891.2023.2242948)
 ###### -online-
 颜俊雨, 张艺馨, 张琪涵, & __刘拓__. (2023). 基于网络分析的毒品成瘾心理因素探索：关联模式与关键因素. _应用心理学_, 在线.
 
