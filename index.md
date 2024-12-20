@@ -165,7 +165,9 @@ Zhang, S., Li, Y., Ren, S., & __Liu, T.*__ (2023). Associations between undergra
 
 Zhang, S., Zhang, Y., Xue, D., Zhang, H., Chao, M., & __Liu, T.*__ (2023). What are the differences in psychological outcomes between people who posted COVID-19-related content on social media and those who did not? _Psychiatry Investigation_, _20_, 43-51. [DOI](https://doi.org/10.30773/pi.2022.0146)
 ###### -2024-
-赵欣璐, 林俊菲, & __刘拓*__. (2024). 道德概念中的水平空间隐喻效应探究：来自行为和ERP的证据. _心理与行为研究_, _22_, 312-319.
+__刘拓__, 刘梦君, 季顺鑫, & 况小雪 (2024). 简式中文版黑暗四联征量表在大学生群体中的修订. _中国临床心理学杂志_, _32_, 1372-1377. 
+
+赵欣璐, 林俊菲, & __刘拓*__ (2024). 道德概念中的水平空间隐喻效应探究：来自行为和ERP的证据. _心理与行为研究_, _22_, 312-319.
 
 Guo, L., Liu, X., & __Liu, T.*__ (2024). Generalizing computerized adaptive testing for problematic mobile phone use from Chinese adults to adolescents. _Current Psychology_, _43_, 14148–14158. [DOI](https://doi.org/10.1007/s12144-023-05447-7)
 
@@ -185,17 +187,17 @@ Pan, Y., Guo, M., Jiang, Y., __Liu, T.__, & Wu, X. (2024). The interplay of cont
 
 Ren, S., Ji, S., Liu, X., & __Liu, T.*__ (2024). Exploring the structure of college students’ adaptability by using cross-lagged path analysis: The role of emotional adaptability. _PsyCh Journal_, _13_, 276-286. [DOI](https://onlinelibrary.wiley.com/doi/full/10.1002/pchj.721)
 
+Ren, S., __Liu, T.*__, Zhao, X., Yang, H., & Elhai, J. (2024). Is nomophobia problematic or functional? A perspective from bifactor structure. _International Journal of Mental Health and Addiction_, _22_, 2977-2996. [DOI](https://link.springer.com/article/10.1007/s11469-023-01030-0)
+
 Ren, S., Zhang, M., Zhu, C., __Liu, T.__, & Zhang, D. (2024). Decreased adaptability and increased social media use of Chinese female students during COVID-19: a multivariate latent growth curve model. _Current Psychology_, _43_, 23331–23343. [DOI](https://link.springer.com/article/10.1007/s12144-024-05761-8)
 
 Sun, Y., Yang, J., Li, M., & __Liu, T.*__ (2024). The Association between neuroticism and nomophobia: Chain mediating effect of attachment and loneliness. _International Journal of Mental Health and Addiction_, _22_, 685-720. [DOI](https://link.springer.com/article/10.1007/s11469-022-00897-9)
 
-Zhang, Y., __Liu, T.*__, Zhang, B., Li, M., & Chao, M. (2023). The effects of social support and social prejudice on emotional affect among drug users: the mediating role of resilience. _Journal of Substance Use_, _29_, 1070-1076. [DOI](https://www.tandfonline.com/doi/full/10.1080/14659891.2023.2242948)
+Zhang, Y., __Liu, T.*__, Zhang, B., Li, M., & Chao, M. (2024). The effects of social support and social prejudice on emotional affect among drug users: the mediating role of resilience. _Journal of Substance Use_, _29_, 1070-1076. [DOI](https://www.tandfonline.com/doi/full/10.1080/14659891.2023.2242948)
 ###### -online-
-颜俊雨, 张艺馨, 张琪涵, & __刘拓__. (2023). 基于网络分析的毒品成瘾心理因素探索：关联模式与关键因素. _应用心理学_, 在线.
+颜俊雨, 张艺馨, 张琪涵, & __刘拓__ (2023). 基于网络分析的毒品成瘾心理因素探索：关联模式与关键因素. _应用心理学_, 在线.
 
 Li, Z., Ji, S., Zhang, Y., Du, C., Chen, T., __Liu, T.*__, & Li, X. (2024). Associations among science study attitudes, habits and science academic performance of elementary school students: a latent profile approach. _International Journal of Science Education_, online. [DOI](https://doi.org/10.1080/09500693.2024.2369725)
-
-Ren, S., __Liu, T.*__, Zhao, X., Yang, H., & Elhai, J. (2023). Is nomophobia problematic or functional? A perspective from bifactor structure. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-023-01030-0)
 
 Ren, S., He, J., __Liu, T.*__, & Zhang, D. (2024). Exploring the relationship between college students’ adaptability and nomophobia. _Behaviour & Information Technology_, online. [DOI](https://doi.org/10.1080/0144929X.2024.2314755)
 #### 会议(Presentations)
