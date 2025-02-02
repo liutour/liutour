@@ -169,6 +169,8 @@ __刘拓__, 刘梦君, 季顺鑫, & 况小雪 (2024). 简式中文版黑暗四�
 
 赵欣璐, 林俊菲, & __刘拓*__ (2024). 道德概念中的水平空间隐喻效应探究：来自行为和ERP的证据. _心理与行为研究_, _22_, 312-319.
 
+颜俊雨, 张艺馨, 张琪涵, & __刘拓__ (2024). 基于网络分析的毒品成瘾心理因素探索：关联模式与关键因素. _应用心理学_, _30_, 520-529.
+
 Guo, L., Liu, X., & __Liu, T.*__ (2024). Generalizing computerized adaptive testing for problematic mobile phone use from Chinese adults to adolescents. _Current Psychology_, _43_, 14148–14158. [DOI](https://doi.org/10.1007/s12144-023-05447-7)
 
 Gao, Y., Liu, X., Zhou, Z., Chao, M., & __Liu, T.*__ (2024). Data for developing computerized adaptive testing of problematic mobile phone use. _Data in Brief_, _55_, 110746. [DOI](https://doi.org/10.1016/j.dib.2024.110746)
@@ -195,8 +197,6 @@ Sun, Y., Yang, J., Li, M., & __Liu, T.*__ (2024). The Association between neurot
 
 Zhang, Y., __Liu, T.*__, Zhang, B., Li, M., & Chao, M. (2024). The effects of social support and social prejudice on emotional affect among drug users: the mediating role of resilience. _Journal of Substance Use_, _29_, 1070-1076. [DOI](https://www.tandfonline.com/doi/full/10.1080/14659891.2023.2242948)
 ###### -online-
-颜俊雨, 张艺馨, 张琪涵, & __刘拓__ (2023). 基于网络分析的毒品成瘾心理因素探索：关联模式与关键因素. _应用心理学_, 在线.
-
 Li, Z., Ji, S., Zhang, Y., Du, C., Chen, T., __Liu, T.*__, & Li, X. (2024). Associations among science study attitudes, habits and science academic performance of elementary school students: a latent profile approach. _International Journal of Science Education_, online. [DOI](https://doi.org/10.1080/09500693.2024.2369725)
 
 Ren, S., He, J., __Liu, T.*__, & Zhang, D. (2024). Exploring the relationship between college students’ adaptability and nomophobia. _Behaviour & Information Technology_, online. [DOI](https://doi.org/10.1080/0144929X.2024.2314755)
