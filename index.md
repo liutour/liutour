@@ -197,11 +197,17 @@ Sun, Y., Yang, J., Li, M., & __Liu, T.*__ (2024). The Association between neurot
 
 Zhang, Y., __Liu, T.*__, Zhang, B., Li, M., & Chao, M. (2024). The effects of social support and social prejudice on emotional affect among drug users: the mediating role of resilience. _Journal of Substance Use_, _29_, 1070-1076. [DOI](https://www.tandfonline.com/doi/full/10.1080/14659891.2023.2242948)
 ###### -2025-
+钞淼, 张宇, 谢启慧, & __刘拓*__. (2025). 情感忽视对农村青少年短视频成瘾的纵向影响：负性情绪中介及留守差异. _心理与行为研究_, _23_, 361-368.
+
+Lian, Y., Ahati, S., Cai, J., Li, J., Zhang, H., & __Liu, T.*__ (2025). Is it better to collaborate with a teacher or a peer? Evidence from a group-based selective retrieval practice paradigm. _European Journal of Psychology of Education_, _online_. [DOI](https://link.springer.com/article/10.1007/s10212-025-00980-4)
+
+Lu, J., Zhu, S., Wang, R., & __Liu, T.*__. (2025). Exploring the influencing factors of learning burnout: A network comparison in online and offline environments. _Behavioral Sciences_, _15_, 903. [DOI](https://doi.org/10.3390/bs15070903)
+
 Ren, S., He, J., __Liu, T.*__, & Zhang, D. (2025). Exploring the relationship between college students’ adaptability and nomophobia. _Behaviour & Information Technology_, _44_, 214-230. [DOI](https://doi.org/10.1080/0144929X.2024.2314755)
 
 Ren, S., Lu, X., Ren, S., Li, M., & __Liu, T.*__, (2025). Comparative network analysis of nomophobia and mental health symptoms among college and middle school students. _Cyberpsychology: Journal of Psychosocial Research on Cyberspace_, _19_, online. [DOI](https://cyberpsychology.eu/article/view/39187)
 
-Si, J., Zhang, Y., Li, M., & __Liu, T.__, (2025). Insomnia and depression among bariatric surgery patients: the chain mediating effect of resilience and anxiety. _Frontiers in Psychiatry_, 16:1554239. [DOI]([https://10.3389/fpsyt.2025.1554239](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1554239/full))
+Si, J., Zhang, Y., Li, M., & __Liu, T.__, (2025). Insomnia and depression among bariatric surgery patients: the chain mediating effect of resilience and anxiety. _Frontiers in Psychiatry_, 16:1554239. [DOI](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1554239/full)
 ###### -online-
 Li, Z., Ji, S., Zhang, Y., Du, C., Chen, T., __Liu, T.*__, & Li, X. (2024). Associations among science study attitudes, habits and science academic performance of elementary school students: a latent profile approach. _International Journal of Science Education_, online. [DOI](https://doi.org/10.1080/09500693.2024.2369725)
 #### 会议(Presentations)
