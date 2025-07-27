@@ -35,9 +35,9 @@
 
 #### 应用研究(Applied researches)
 - 心理数据挖掘与评估(Psychological data mining and assessment)   
-  手机使用(mobile phone use)、物质滥用(substance abuse)、应对方式(coping style)
+  媒体使用(media use)、成瘾行为(addictive behaviors)、人格(personality)
 - 教育数据挖掘与评价(Educational data mining and evaluation)  
-  学业成就的影响因素探索(the impact factors of academic achievement)
+  学业成就的影响因素(the impact factors of academic achievement)
 
 ---
 ### 研究成果
@@ -384,4 +384,4 @@ Zhang, S., Chen, X., Li, Y., & __Liu, T.*__ (2021). Undergraduates' interpersona
 ###### -2023级-
 硕士：刘金鸿（用研）、马静坤（用研）、马苑秋（应用）、齐运晓（用研）、吴京（心健）、赵念（应用）
 ###### -2024级-
-硕士：李满缘（应用）、王冉冉（心健）、王子昊（用研）、朱思航（用研）
+硕士：李满缘（应用）、王冉冉（心健）、朱思航（用研）
