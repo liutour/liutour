@@ -199,7 +199,9 @@ Zhang, Y., __Liu, T.*__, Zhang, B., Li, M., & Chao, M. (2024). The effects of so
 ###### -2025-
 钞淼, 张宇, 谢启慧, & __刘拓*__. (2025). 情感忽视对农村青少年短视频成瘾的纵向影响：负性情绪中介及留守差异. _心理与行为研究_, _23_, 361-368.
 
-Lian, Y., Ahati, S., Cai, J., Li, J., Zhang, H., & __Liu, T.*__ (2025). Is it better to collaborate with a teacher or a peer? Evidence from a group-based selective retrieval practice paradigm. _European Journal of Psychology of Education_, _online_. [DOI](https://link.springer.com/article/10.1007/s10212-025-00980-4)
+Lian, Y., Ahati, S., Cai, J., Li, J., Zhang, H., & __Liu, T.*__ (2025). Is it better to collaborate with a teacher or a peer? Evidence from a group-based selective retrieval practice paradigm. _European Journal of Psychology of Education_, _40_. [DOI](https://link.springer.com/article/10.1007/s10212-025-00980-4)
+
+Li, Z., Ji, S., Zhang, Y., Du, C., Chen, T., __Liu, T.*__, & Li, X. (2024). Associations among science study attitudes, habits and science academic performance of elementary school students: a latent profile approach. _International Journal of Science Education_, _47_, 1568-1589. [DOI](https://doi.org/10.1080/09500693.2024.2369725)
 
 Lu, J., Zhu, S., Wang, R., & __Liu, T.*__. (2025). Exploring the influencing factors of learning burnout: A network comparison in online and offline environments. _Behavioral Sciences_, _15_, 903. [DOI](https://doi.org/10.3390/bs15070903)
 
