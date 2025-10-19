@@ -201,7 +201,7 @@ Zhang, Y., __Liu, T.*__, Zhang, B., Li, M., & Chao, M. (2024). The effects of so
 
 Lian, Y., Ahati, S., Cai, J., Li, J., Zhang, H., & __Liu, T.*__ (2025). Is it better to collaborate with a teacher or a peer? Evidence from a group-based selective retrieval practice paradigm. _European Journal of Psychology of Education_, _40_. [DOI](https://link.springer.com/article/10.1007/s10212-025-00980-4)
 
-Li, Z., Ji, S., Zhang, Y., Du, C., Chen, T., __Liu, T.*__, & Li, X. (2024). Associations among science study attitudes, habits and science academic performance of elementary school students: a latent profile approach. _International Journal of Science Education_, _47_, 1568-1589. [DOI](https://doi.org/10.1080/09500693.2024.2369725)
+Li, Z., Ji, S., Zhang, Y., Du, C., Chen, T., __Liu, T.*__, & Li, X. (2025). Associations among science study attitudes, habits and science academic performance of elementary school students: a latent profile approach. _International Journal of Science Education_, _47_, 1568-1589. [DOI](https://doi.org/10.1080/09500693.2024.2369725)
 
 Lu, J., Zhu, S., Wang, R., & __Liu, T.*__ (2025). Exploring the influencing factors of learning burnout: A network comparison in online and offline environments. _Behavioral Sciences_, _15_, 903. [DOI](https://doi.org/10.3390/bs15070903)
 
@@ -211,7 +211,7 @@ Ren, S., Lu, X., Ren, S., Li, M., & __Liu, T.*__ (2025). Comparative network ana
 
 Si, J., Zhang, Y., Li, M., & __Liu, T.__ (2025). Insomnia and depression among bariatric surgery patients: the chain mediating effect of resilience and anxiety. _Frontiers in Psychiatry_, 16:1554239. [DOI](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1554239/full)
 ###### -online-
-Li, M., Wu, J., Zhu, S., & __Liu, T.*__ (2024). The relationship between perceived stress and night eating moderated by personality: Cognitive emotion regulation as a mediator. _Appetite_, online. [DOI](https://doi.org/10.1016/j.appet.2025.108326)
+Li, M., Wu, J., Zhu, S., & __Liu, T.*__ (2026). The relationship between perceived stress and night eating moderated by personality: Cognitive emotion regulation as a mediator. _Appetite_, online. [DOI](https://doi.org/10.1016/j.appet.2025.108326)
 #### 会议(Presentations)
 ###### -国内-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
