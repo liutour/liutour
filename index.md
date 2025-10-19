@@ -177,13 +177,13 @@ Gao, Y., Liu, X., Zhou, Z., Chao, M., & __Liu, T.*__ (2024). Data for developing
 
 Ji, S., Xu, S., Zhou, Z., Zhu, Y., & __Liu, T.__ (2024). The relationship between nomophobia and latent classes of personality. _PsyCh Journal_, _13_, 860-869. [DOI](https://doi.org/10.1002/pchj.758)
 
-Li, Y., Chen, Q., Gao, Y., & __Liu, T.*__. (2024). Improvement and application of back random response detection: Based on cumulative sum and change point analysis. _Behavior Research Methods_, _56_, 8640-8657. [DOI](https://link.springer.com/article/10.3758/s13428-024-02495-0)
+Li, Y., Chen, Q., Gao, Y., & __Liu, T.*__ (2024). Improvement and application of back random response detection: Based on cumulative sum and change point analysis. _Behavior Research Methods_, _56_, 8640-8657. [DOI](https://link.springer.com/article/10.3758/s13428-024-02495-0)
 
 Liu, M., Sun, Y., __Liu, T.__, & Qi, L. (2024). Being a focused employee: Effects of job reattachment on cyberloafing. _Stress and Health_, _40_, e3449. [DOI](https://doi.org/10.1002/smi.3449)
 
 __Liu, T.__, Wan, F., & Lu, X. (2024). Changes of solitude behaviors among college students: A latent transition analysis. _Behavioral Sciences_, _14_, 385. [DOI](https://doi.org/10.3390/bs14050385)
 
-Lin, J., Zhao, X., Zhao, N., & __Liu, T.*__. (2024). Emotion-driven moral evaluation: A mechanistic study based on the Drift-diffusion model. _Brain Sciences_, _14_, 1005. [DOI](https://www.mdpi.com/2076-3425/14/10/1005)
+Lin, J., Zhao, X., Zhao, N., & __Liu, T.*__ (2024). Emotion-driven moral evaluation: A mechanistic study based on the Drift-diffusion model. _Brain Sciences_, _14_, 1005. [DOI](https://www.mdpi.com/2076-3425/14/10/1005)
 
 Pan, Y., Guo, M., Jiang, Y., __Liu, T.__, & Wu, X. (2024). The interplay of contextual and immediate uncertainty: evidence for a common processing mechanism in prediction and cognitive control. _Current Psychology_, _43_, 19976–19984. [DOI](https://link.springer.com/article/10.1007/s12144-024-05755-6)
 
@@ -203,15 +203,15 @@ Lian, Y., Ahati, S., Cai, J., Li, J., Zhang, H., & __Liu, T.*__ (2025). Is it be
 
 Li, Z., Ji, S., Zhang, Y., Du, C., Chen, T., __Liu, T.*__, & Li, X. (2024). Associations among science study attitudes, habits and science academic performance of elementary school students: a latent profile approach. _International Journal of Science Education_, _47_, 1568-1589. [DOI](https://doi.org/10.1080/09500693.2024.2369725)
 
-Lu, J., Zhu, S., Wang, R., & __Liu, T.*__. (2025). Exploring the influencing factors of learning burnout: A network comparison in online and offline environments. _Behavioral Sciences_, _15_, 903. [DOI](https://doi.org/10.3390/bs15070903)
+Lu, J., Zhu, S., Wang, R., & __Liu, T.*__ (2025). Exploring the influencing factors of learning burnout: A network comparison in online and offline environments. _Behavioral Sciences_, _15_, 903. [DOI](https://doi.org/10.3390/bs15070903)
 
 Ren, S., He, J., __Liu, T.*__, & Zhang, D. (2025). Exploring the relationship between college students’ adaptability and nomophobia. _Behaviour & Information Technology_, _44_, 214-230. [DOI](https://doi.org/10.1080/0144929X.2024.2314755)
 
-Ren, S., Lu, X., Ren, S., Li, M., & __Liu, T.*__, (2025). Comparative network analysis of nomophobia and mental health symptoms among college and middle school students. _Cyberpsychology: Journal of Psychosocial Research on Cyberspace_, _19_, online. [DOI](https://cyberpsychology.eu/article/view/39187)
+Ren, S., Lu, X., Ren, S., Li, M., & __Liu, T.*__ (2025). Comparative network analysis of nomophobia and mental health symptoms among college and middle school students. _Cyberpsychology: Journal of Psychosocial Research on Cyberspace_, _19_, online. [DOI](https://cyberpsychology.eu/article/view/39187)
 
-Si, J., Zhang, Y., Li, M., & __Liu, T.__, (2025). Insomnia and depression among bariatric surgery patients: the chain mediating effect of resilience and anxiety. _Frontiers in Psychiatry_, 16:1554239. [DOI](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1554239/full)
+Si, J., Zhang, Y., Li, M., & __Liu, T.__ (2025). Insomnia and depression among bariatric surgery patients: the chain mediating effect of resilience and anxiety. _Frontiers in Psychiatry_, 16:1554239. [DOI](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1554239/full)
 ###### -online-
-Li, Z., Ji, S., Zhang, Y., Du, C., Chen, T., __Liu, T.*__, & Li, X. (2024). Associations among science study attitudes, habits and science academic performance of elementary school students: a latent profile approach. _International Journal of Science Education_, online. [DOI](https://doi.org/10.1080/09500693.2024.2369725)
+Li, M., Wu, J., Zhu, S., & __Liu, T.*__ (2024). The relationship between perceived stress and night eating moderated by personality: Cognitive emotion regulation as a mediator. _Appetite_, online. [DOI](https://doi.org/10.1016/j.appet.2025.108326)
 #### 会议(Presentations)
 ###### -国内-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
