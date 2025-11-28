@@ -199,6 +199,12 @@ Zhang, Y., __Liu, T.*__, Zhang, B., Li, M., & Chao, M. (2024). The effects of so
 ###### -2025-
 钞淼, 张宇, 谢启慧, & __刘拓*__. (2025). 情感忽视对农村青少年短视频成瘾的纵向影响：负性情绪中介及留守差异. _心理与行为研究_, _23_, 361-368.
 
+高垚杰, 齐运晓, 马苑秋, & __刘拓*__. (2025). 基于ChatGPT的情绪稳定性自适应题库开发的探索. _心理与行为研究_, _23_, 685-694.
+
+薛的妮, 颜俊雨, 钞淼, & __刘拓__ (2025). 公共卫生事件中不同媒体信息暴露与心理健康的关系. _心理研究_, _18_, 438-447.
+
+张艺馨, 马苑秋, 崔强, & __刘拓*__ (2025). 毒品戒断者与非毒品成瘾者心理因素的网络比较. _心理研究_, _18_, 448-456.
+
 Lian, Y., Ahati, S., Cai, J., Li, J., Zhang, H., & __Liu, T.*__ (2025). Is it better to collaborate with a teacher or a peer? Evidence from a group-based selective retrieval practice paradigm. _European Journal of Psychology of Education_, _40_. [DOI](https://link.springer.com/article/10.1007/s10212-025-00980-4)
 
 Li, Z., Ji, S., Zhang, Y., Du, C., Chen, T., __Liu, T.*__, & Li, X. (2025). Associations among science study attitudes, habits and science academic performance of elementary school students: a latent profile approach. _International Journal of Science Education_, _47_, 1568-1589. [DOI](https://doi.org/10.1080/09500693.2024.2369725)
@@ -208,6 +214,10 @@ Lu, J., Zhu, S., Wang, R., & __Liu, T.*__ (2025). Exploring the influencing fact
 Ren, S., He, J., __Liu, T.*__, & Zhang, D. (2025). Exploring the relationship between college students’ adaptability and nomophobia. _Behaviour & Information Technology_, _44_, 214-230. [DOI](https://doi.org/10.1080/0144929X.2024.2314755)
 
 Ren, S., Lu, X., Ren, S., Li, M., & __Liu, T.*__ (2025). Comparative network analysis of nomophobia and mental health symptoms among college and middle school students. _Cyberpsychology: Journal of Psychosocial Research on Cyberspace_, _19_, online. [DOI](https://cyberpsychology.eu/article/view/39187)
+
+Wang, C., Li, Q-L., Xu, Y-S., Cao, K-X., Zhang, Y-Q., Chang, L., Tong, Y., Yang, A-J., Liu, Z., Zhang, L., Lin, L., & __Liu, T.*__ (2025). Interplay of endocrine and psychological factors in IVF/ICSI outcomes: a prospective cohort analysis. _Frontiers in Endocrinology_, 16:1596664. [DI](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2025.1596664/full)
+
+Wu, J., Wang, R., Zhu, S., & __Liu, T.*__ (2025). The relationship between social emotions and intuitive eating behaviors: an exploration based on text analysis. _Frontiers in Psychiatry_, 16:1701751. [DOI](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1701751/full)
 
 Si, J., Zhang, Y., Li, M., & __Liu, T.__ (2025). Insomnia and depression among bariatric surgery patients: the chain mediating effect of resilience and anxiety. _Frontiers in Psychiatry_, 16:1554239. [DOI](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1554239/full)
 ###### -online-
