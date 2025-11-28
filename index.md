@@ -215,11 +215,11 @@ Ren, S., He, J., __Liu, T.*__, & Zhang, D. (2025). Exploring the relationship be
 
 Ren, S., Lu, X., Ren, S., Li, M., & __Liu, T.*__ (2025). Comparative network analysis of nomophobia and mental health symptoms among college and middle school students. _Cyberpsychology: Journal of Psychosocial Research on Cyberspace_, _19_, online. [DOI](https://cyberpsychology.eu/article/view/39187)
 
+Si, J., Zhang, Y., Li, M., & __Liu, T.__ (2025). Insomnia and depression among bariatric surgery patients: the chain mediating effect of resilience and anxiety. _Frontiers in Psychiatry_, 16:1554239. [DOI](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1554239/full)
+
 Wang, C., Li, Q-L., Xu, Y-S., Cao, K-X., Zhang, Y-Q., Chang, L., Tong, Y., Yang, A-J., Liu, Z., Zhang, L., Lin, L., & __Liu, T.*__ (2025). Interplay of endocrine and psychological factors in IVF/ICSI outcomes: a prospective cohort analysis. _Frontiers in Endocrinology_, 16:1596664. [DI](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2025.1596664/full)
 
 Wu, J., Wang, R., Zhu, S., & __Liu, T.*__ (2025). The relationship between social emotions and intuitive eating behaviors: an exploration based on text analysis. _Frontiers in Psychiatry_, 16:1701751. [DOI](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1701751/full)
-
-Si, J., Zhang, Y., Li, M., & __Liu, T.__ (2025). Insomnia and depression among bariatric surgery patients: the chain mediating effect of resilience and anxiety. _Frontiers in Psychiatry_, 16:1554239. [DOI](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1554239/full)
 ###### -online-
 Li, M., Wu, J., Zhu, S., & __Liu, T.*__ (2026). The relationship between perceived stress and night eating moderated by personality: Cognitive emotion regulation as a mediator. _Appetite_, online. [DOI](https://doi.org/10.1016/j.appet.2025.108326)
 #### 会议(Presentations)
@@ -333,6 +333,12 @@ __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计
 万富裕, 吴京, & 刘拓*. (2024). 基于文本挖掘探索大学生睡眠质量的影响因素, 中国社会心理学会2024年学术年会, 上海.
 
 吴京, 万富裕, & 刘拓*. (2024). 社交情绪与直觉饮食行为的关系：基于文本分析的探索, 中国社会心理学会2024年学术年会, 上海.
+
+李珍, 刘拓*. (2025). 中学生数字素养与创造力对STEM职业期望的影响研究. 中国社会心理学会2025年学术年会. 成都
+
+孙毅聪, 刘拓*. (2025). “谁来引导我完成第一单？”—基于自我调节视角的新零工工作者组织社会化机制研究. 中国社会心理学会2025年学术年会. 成都
+
+马苑秋, 刘拓*. (2025). 青少年学业能力与心理健康的动态关联：基于IRT垂直等值的横断研究. 第二十六届全国心理学学术会议. 济南
 ###### -国际-
 __Liu, T.__, & Xin, T. (2015). Multiple-choice Item or Dichotomous Item A Perspective of the Accuracy of Latent Trait Assessment. Paper presented at 80th Annual Meeting of the Psychometric Society, Beijing.
 
