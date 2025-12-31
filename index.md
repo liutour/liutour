@@ -213,7 +213,7 @@ Lu, J., Zhu, S., Wang, R., & __Liu, T.*__ (2025). Exploring the influencing fact
 
 Ren, S., He, J., __Liu, T.*__, & Zhang, D. (2025). Exploring the relationship between college students’ adaptability and nomophobia. _Behaviour & Information Technology_, _44_, 214-230. [DOI](https://doi.org/10.1080/0144929X.2024.2314755)
 
-Ren, S., Lu, X., Ren, S., Li, M., & __Liu, T.*__ (2025). Comparative network analysis of nomophobia and mental health symptoms among college and middle school students. _Cyberpsychology: Journal of Psychosocial Research on Cyberspace_, _19_, online. [DOI](https://cyberpsychology.eu/article/view/39187)
+Ren, S., Lu, X., Ren, S., Li, M., & __Liu, T.*__ (2025). Comparative network analysis of nomophobia and mental health symptoms among college and middle school students. _Cyberpsychology: Journal of Psychosocial Research on Cyberspace_, _19_, article 7. [DOI](https://cyberpsychology.eu/article/view/39187)
 
 Si, J., Zhang, Y., Li, M., & __Liu, T.__ (2025). Insomnia and depression among bariatric surgery patients: the chain mediating effect of resilience and anxiety. _Frontiers in Psychiatry_, 16:1554239. [DOI](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1554239/full)
 
@@ -222,6 +222,8 @@ Wang, C., Li, Q-L., Xu, Y-S., Cao, K-X., Zhang, Y-Q., Chang, L., Tong, Y., Yang,
 Wu, J., Wang, R., Zhu, S., & __Liu, T.*__ (2025). The relationship between social emotions and intuitive eating behaviors: an exploration based on text analysis. _Frontiers in Psychiatry_, 16:1701751. [DOI](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1701751/full)
 ###### -online-
 Li, M., Wu, J., Zhu, S., & __Liu, T.*__ (2026). The relationship between perceived stress and night eating moderated by personality: Cognitive emotion regulation as a mediator. _Appetite_, online. [DOI](https://doi.org/10.1016/j.appet.2025.108326)
+
+Zhang, H., Chang, Y., Ahati, S., Pu, J., & __Liu, T.__ (2025). The role of romantic relationships in socially shared retrieval-induced forgetting: Cognitive and neural evidence. _Quarterly Journal of Experimental Psychology_, online. [DOI](https://pubmed.ncbi.nlm.nih.gov/40782016/)
 #### 会议(Presentations)
 ###### -国内-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
@@ -359,6 +361,10 @@ Zhang, S., Chen, X., Li, Y., & __Liu, T.*__ (2021). Undergraduates' interpersona
 王孟成, & __刘拓__. (2023). _心理与行为定量研究手册_. 重庆大学出版社.
 
 戴晓阳, 王孟成, & __刘拓__. (2023). _常用心理评估量表手册（第三版）_. 北京科学技术出版社.
+
+王孟成, & __刘拓__. (2025). _结构方程模型：基础知识与核心概念_. 重庆大学出版社.
+
+__刘拓__, & 王孟成. (2025). _结构方程模型：基本模型与应用_. 重庆大学出版社.
 
 ---
 ### 主持项目(Grants)
