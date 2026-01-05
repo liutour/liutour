@@ -1,7 +1,7 @@
 ## 刘拓（Tour Liu）
 
 ---
-##### 副教授(Associate professor) | 理学博士(Ph.D)
+##### 教授(Professor) | 理学博士(Ph.D)
 ##### 天津师范大学(Tianjin Normal University) 心理学部(Facaulty of Psychology)
 ##### 天津师范大学励志楼E303 | mikebonita@hotmail.com/mikebonita@163.com
 
