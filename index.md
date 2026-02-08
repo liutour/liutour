@@ -31,8 +31,7 @@
 #### 理论研究(Theoretical researches)
 - 异常反应模式的识别(Aberrant response pattern recognition)
 - 多项选择题干扰项信息的利用(The use of information in multiple-choice item)
-- 计算机自适应测验的选题(Item selection in computerized adaptive testing)
-- 多模态数据挖掘（Multimodal data mining）   
+- 计算机自适应测验的选题(Item selection in computerized adaptive testing)   
 
 #### 应用研究(Applied researches)
 - 数字健康(Digital health)
@@ -220,16 +219,16 @@ Si, J., Zhang, Y., Li, M., & __Liu, T.__ (2025). Insomnia and depression among b
 Wang, C., Li, Q-L., Xu, Y-S., Cao, K-X., Zhang, Y-Q., Chang, L., Tong, Y., Yang, A-J., Liu, Z., Zhang, L., Lin, L., & __Liu, T.*__ (2025). Interplay of endocrine and psychological factors in IVF/ICSI outcomes: a prospective cohort analysis. _Frontiers in Endocrinology_, 16:1596664. [DOI](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2025.1596664/full)
 
 Wu, J., Wang, R., Zhu, S., & __Liu, T.*__ (2025). The relationship between social emotions and intuitive eating behaviors: an exploration based on text analysis. _Frontiers in Psychiatry_, 16:1701751. [DOI](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1701751/full)
+###### -2026-
+Li, M., Wu, J., Zhu, S., & __Liu, T.*__ (2026). The relationship between perceived stress and night eating moderated by personality: Cognitive emotion regulation as a mediator. _Appetite_, 217. [DOI](https://doi.org/10.1016/j.appet.2025.108326)
+
+Ma, Y., Duan, Y. Qi, Y., Hu, Y., & __Liu, T.*__ (2026). Developmental change in associations between mental health and academic ability across grades in adolescence: Evidence from IRT-Based vertical scaling. _Behavioral Sciences_, 16. [DOI](https://www.mdpi.com/2076-328X/16/1/78)
 ###### -online-
-Li, M., Wu, J., Zhu, S., & __Liu, T.*__ (2026). The relationship between perceived stress and night eating moderated by personality: Cognitive emotion regulation as a mediator. _Appetite_, online. [DOI](https://doi.org/10.1016/j.appet.2025.108326)
+Ren, S., Ma, Y. Chao, M., & __Liu, T.*__ (2026). Problematic or functional nomophobia? A novel classification approach using cognitive diagnostic models. _International Journal of Human-computer Interaction_, online. [DOI](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2623218)
 
-Ma, Y., Duan, Y. Qi, Y., Hu, Y., & __Liu, T.*__ (2026). Developmental change in associations between mental health and academic ability across grades in adolescence: Evidence from IRT-Based vertical scaling. _Behavioral Sciences_, online.
+Yuan, Y., Li, M., Li, M., & __Liu, T.*__ (2026). Cross‑sample validation of symptom‑level links between sleep disturbance and problematic mobile phone use using network analysis. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-026-01636-0)
 
-Ren, S., Ma, Y. Chao, M., & __Liu, T.*__ (2026). Problematic or functional nomophobia? A novel classification approach using cognitive diagnostic models. _International Journal of Human-computer Interaction_, online.
-
-Yuan, Y., Li, M., Li, M., & __Liu, T.*__ (2026). Cross‑sample validation of symptom‑level links between sleep disturbance and problematic mobile phone use using network analysis. _International Journal of Mental Health and Addiction_, online.
-
-Zhang, H., Chang, Y., Ahati, S., Pu, J., & __Liu, T.__ (2025). The role of romantic relationships in socially shared retrieval-induced forgetting: Cognitive and neural evidence. _Quarterly Journal of Experimental Psychology_, online. [DOI](https://pubmed.ncbi.nlm.nih.gov/40782016/)
+Zhang, H., Chang, Y., Ahati, S., Pu, J., & __Liu, T.__ (2025). The role of romantic relationships in socially shared retrieval-induced forgetting: Cognitive and neural evidence. _Quarterly Journal of Experimental Psychology_, online. [DOI](https://doi.org/10.1177/17470218251367720)
 #### 会议(Presentations)
 ###### -国内-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
