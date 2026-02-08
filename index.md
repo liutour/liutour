@@ -31,14 +31,14 @@
 #### 理论研究(Theoretical researches)
 - 异常反应模式的识别(Aberrant response pattern recognition)
 - 多项选择题干扰项信息的利用(The use of information in multiple-choice item)
-- 计算机自适应测验的选题(Item selection in computerized adaptive testing)   
+- 计算机自适应测验的选题(Item selection in computerized adaptive testing)
+- 多模态数据挖掘（Multimodal data mining）   
 
 #### 应用研究(Applied researches)
-- 心理数据挖掘与评估(Psychological data mining and assessment)   
-  媒体使用(media use)、成瘾行为(addictive behaviors)、人格(personality)
-- 教育数据挖掘与评价(Educational data mining and evaluation)  
-  学业成就的影响因素(the impact factors of academic achievement)
-
+- 数字健康(Digital health)
+- 成瘾行为(Addictive behaviors)
+- 智能测评(Intelligent assessment)   
+  
 ---
 ### 研究成果
 #### 论文(Articles)
@@ -217,11 +217,17 @@ Ren, S., Lu, X., Ren, S., Li, M., & __Liu, T.*__ (2025). Comparative network ana
 
 Si, J., Zhang, Y., Li, M., & __Liu, T.__ (2025). Insomnia and depression among bariatric surgery patients: the chain mediating effect of resilience and anxiety. _Frontiers in Psychiatry_, 16:1554239. [DOI](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1554239/full)
 
-Wang, C., Li, Q-L., Xu, Y-S., Cao, K-X., Zhang, Y-Q., Chang, L., Tong, Y., Yang, A-J., Liu, Z., Zhang, L., Lin, L., & __Liu, T.*__ (2025). Interplay of endocrine and psychological factors in IVF/ICSI outcomes: a prospective cohort analysis. _Frontiers in Endocrinology_, 16:1596664. [DI](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2025.1596664/full)
+Wang, C., Li, Q-L., Xu, Y-S., Cao, K-X., Zhang, Y-Q., Chang, L., Tong, Y., Yang, A-J., Liu, Z., Zhang, L., Lin, L., & __Liu, T.*__ (2025). Interplay of endocrine and psychological factors in IVF/ICSI outcomes: a prospective cohort analysis. _Frontiers in Endocrinology_, 16:1596664. [DOI](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2025.1596664/full)
 
 Wu, J., Wang, R., Zhu, S., & __Liu, T.*__ (2025). The relationship between social emotions and intuitive eating behaviors: an exploration based on text analysis. _Frontiers in Psychiatry_, 16:1701751. [DOI](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1701751/full)
 ###### -online-
 Li, M., Wu, J., Zhu, S., & __Liu, T.*__ (2026). The relationship between perceived stress and night eating moderated by personality: Cognitive emotion regulation as a mediator. _Appetite_, online. [DOI](https://doi.org/10.1016/j.appet.2025.108326)
+
+Ma, Y., Duan, Y. Qi, Y., Hu, Y., & __Liu, T.*__ (2026). Developmental change in associations between mental health and academic ability across grades in adolescence: Evidence from IRT-Based vertical scaling. _Behavioral Sciences_, online.
+
+Ren, S., Ma, Y. Chao, M., & __Liu, T.*__ (2026). Problematic or functional nomophobia? A novel classification approach using cognitive diagnostic models. _International Journal of Human-computer Interaction_, online.
+
+Yuan, Y., Li, M., Li, M., & __Liu, T.*__ (2026). Cross‑sample validation of symptom‑level links between sleep disturbance and problematic mobile phone use using network analysis. _International Journal of Mental Health and Addiction_, online.
 
 Zhang, H., Chang, Y., Ahati, S., Pu, J., & __Liu, T.__ (2025). The role of romantic relationships in socially shared retrieval-induced forgetting: Cognitive and neural evidence. _Quarterly Journal of Experimental Psychology_, online. [DOI](https://pubmed.ncbi.nlm.nih.gov/40782016/)
 #### 会议(Presentations)
@@ -362,9 +368,9 @@ Zhang, S., Chen, X., Li, Y., & __Liu, T.*__ (2021). Undergraduates' interpersona
 
 戴晓阳, 王孟成, & __刘拓__. (2023). _常用心理评估量表手册（第三版）_. 北京科学技术出版社.
 
-王孟成, & __刘拓__. (2025). _结构方程模型：基础知识与核心概念_. 重庆大学出版社.
+Hoyle, R. H. (2025). _结构方程模型：基础知识与核心概念_. 王孟成, & __刘拓__ (Trans.).重庆大学出版社.
 
-__刘拓__, & 王孟成. (2025). _结构方程模型：基本模型与应用_. 重庆大学出版社.
+Hoyle, R. H. (2025). _结构方程模型：基本模型与应用_. __刘拓__, & 王孟成 (Trans.). 重庆大学出版社.
 
 ---
 ### 主持项目(Grants)
