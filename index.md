@@ -220,15 +220,21 @@ Wang, C., Li, Q-L., Xu, Y-S., Cao, K-X., Zhang, Y-Q., Chang, L., Tong, Y., Yang,
 
 Wu, J., Wang, R., Zhu, S., & __Liu, T.*__ (2025). The relationship between social emotions and intuitive eating behaviors: an exploration based on text analysis. _Frontiers in Psychiatry_, 16:1701751. [DOI](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1701751/full)
 ###### -2026-
+齐运晓, 马苑秋, 高垚杰, & __刘拓*__. (2026). PMPU-CAT Platform 面向青少年的问题性手机使用计算机自适应平台的研发. _心理与行为研究_, _24_, 103-112.
+
 Li, M., Wu, J., Zhu, S., & __Liu, T.*__ (2026). The relationship between perceived stress and night eating moderated by personality: Cognitive emotion regulation as a mediator. _Appetite_, 217. [DOI](https://doi.org/10.1016/j.appet.2025.108326)
 
 Ma, Y., Duan, Y. Qi, Y., Hu, Y., & __Liu, T.*__ (2026). Developmental change in associations between mental health and academic ability across grades in adolescence: Evidence from IRT-Based vertical scaling. _Behavioral Sciences_, 16. [DOI](https://www.mdpi.com/2076-328X/16/1/78)
+
+Zhang, H., Chang, Y., Ahati, S., Pu, J., & __Liu, T.__ (2026). The role of romantic relationships in socially shared retrieval-induced forgetting: Cognitive and neural evidence. _Quarterly Journal of Experimental Psychology_, 79. [DOI](https://doi.org/10.1177/17470218251367720)
 ###### -online-
+Gao, Y., Ma, Y.,  Qi, Y., & __Liu, T.*__ (2026). Development of a computerized adaptive item bank for the Big Five personality based on large language models. _Assessment_, online. [DOI](https://journals.sagepub.com/doi/10.1177/10731911261427877)
+
+__Liu, T.__, Zhao, N., Yuan, Y., Niu, G., & Lu, X. (2026). Meta-analytic structural equation modeling with mediation role of problematic mobile phone use between solitude and anxiety and depression. _BMC Psychology_, online. [DOI](https://link.springer.com/article/10.1186/s40359-026-04234-w)
+
 Ren, S., Ma, Y. Chao, M., & __Liu, T.*__ (2026). Problematic or functional nomophobia? A novel classification approach using cognitive diagnostic models. _International Journal of Human-computer Interaction_, online. [DOI](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2623218)
 
 Yuan, Y., Li, M., Li, M., & __Liu, T.*__ (2026). Cross‑sample validation of symptom‑level links between sleep disturbance and problematic mobile phone use using network analysis. _International Journal of Mental Health and Addiction_, online. [DOI](https://link.springer.com/article/10.1007/s11469-026-01636-0)
-
-Zhang, H., Chang, Y., Ahati, S., Pu, J., & __Liu, T.__ (2025). The role of romantic relationships in socially shared retrieval-induced forgetting: Cognitive and neural evidence. _Quarterly Journal of Experimental Psychology_, online. [DOI](https://doi.org/10.1177/17470218251367720)
 #### 会议(Presentations)
 ###### -国内-
 __刘拓__, 曹亦薇, & 戴晓阳. (2011). 不拟合被试对项目参数估计的影响及对策, 第十四届全国心理学学术会议, 西安.
